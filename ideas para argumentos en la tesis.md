@@ -1,0 +1,23 @@
+Dividir el argumento en tres partes:
+
+1. Espacio, lugar y territorio
+    - espacio vivido como multisensorialidad, relación y comunicación
+    - affordances, paisajes y digitalidad
+2. Producción
+    - trabajo, proletarizacion, mercados vs autoconsumo
+3. Reproducción
+    - grupos domésticos, cuidado
+
+Cada parte tendría tres dimensiones fundamentales para la antropología como representaciones, prácticas y valores
+
+---
+
+El concepto de "territorios intervenidos" por organizaciones externas puede estar sesgado porque asumía que el territorio tenía una especie de "dinámica interna" "no-intervenida". Pero la idea general que se tiene en la zona norte es que los terrenos "les son dados" a sus habitantes, primero por un donante con poder (el hacendado) y posteriormente siguiendo la lógica de la familia extensa, donde los padres dan a los hijos extensiones de terreno una vez que se casan, no siempre bajo un criterio de género  (por ejemplo, que el terreno sea donado por la familia del esposo en lugar de la esposa), más bien parece que en cada caso, la familia conyugal decide qué es más conveniente. Esto crea una red entre localidades cercanas de la misma zona (entre Cholul, Santa Gertrudis, Chablekal, Temozón, Conkal, las familias crecen interrelacionadas porque se mudan alrededor de estos lugares según la disponibilidad de los terrenos que se puedan donar).
+
+En cierto sentido, los territorios siempre han sido intervenidos por agentes externos. El gobierno bien pudo ser el responsable de la extinción de la casa de huano tras diversos huracanes, empezando por Gilberto, otras organizaciones llevan tiempo interviniendo (como las monjas en Santa Gertrudis y su alfabetización-catequización). La definición de qué es una intervención y el cómo se vive está condicionada por cómo se defina qué cosas son decisiones plausibles de los habitantes y qué cosas han sido recibidas (a veces esperadas) por poderes externos.
+
+[[memo]] la electricidad es un parteaguas de la cotidianeidad, no sólo por la extensión de horas de actividad que posibilita, sino porque, con la revolución digital está cada vez más involucrada en rutinas matutinas, vespertinas y nocturnas de las personas [cfr. @pinketal2016, pos 628]
+
+---
+
+[[conceptos posibles]]  

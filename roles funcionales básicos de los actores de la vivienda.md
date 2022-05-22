@@ -1,0 +1,1 @@
+La distinción conceptual más básica entre los roles que adoptan las personas involucradas en la producción de vivienda parte de su rol funcional más básico, como [[habitante]] o como [[productor de hábitat]].

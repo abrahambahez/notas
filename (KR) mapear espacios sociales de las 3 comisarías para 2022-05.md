@@ -1,0 +1,4 @@
+- [ ] Iglesias y templos religiosos con su ubicación
+- [ ] espacios de movilidad: paradas de autobús, sitios de taxi, rutas peatonales o de bicicletas
+- [ ] Espacios públicos: parques, plazas, sitios de reunión y sus actividades
+- [ ] Tiendas/tendejones, carnicerías, fruterías y mercados

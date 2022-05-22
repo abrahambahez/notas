@@ -1,0 +1,1 @@
+Los aspectos de los [[mundos cotidianos]] orientados a la percepción guían la discriminación e interpretación de estímulos en el entorno y posibilitan hábitos y valores de ordenamiento estético del espacio cotidiano.

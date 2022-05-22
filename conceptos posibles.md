@@ -1,0 +1,1 @@
+1. El paso de lo comunitario al *yo* en los cambios generacionales a través de la enculturación y los cambios económico-tecnológicos (occidentalización digital)

@@ -1,0 +1,1 @@
+El Huracán Isidoro fue un fenómeno meteorológico que devastó la pensínsula de Yucatán en el 2002 y cuyas implicaciones en el paisaje y la concepción de la vivienda marcaron un cambio que aceleró las lógicas constructivas urbanizantes en detrimento de las formas constructivas tradicionales.
