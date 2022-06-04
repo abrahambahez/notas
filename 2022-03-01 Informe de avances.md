@@ -1,4 +1,4 @@
-Número de entrevistas: 14 (12 grabadas, 2 no -Leydi Cocom y Doña)
+Número de entrevistas: 19 (15 grabadas, 4 no -Leydi Cocom, Randy, y Doña)
 Recorridos: 4
 Lugares: Santa Gertrudis Copó, Cholul, Temozón Norte y Chablekal
 Temas: **casas** (tierra, casa de mampostería, casa de block, casa “yucateca”, contemporáneas), **dinámica territorial** (variedad de relaciones de propiedad y usos), dinámica comunitaria (vecindad, generación), **cambios paisajísticos** (urbanización y cambios en subsistencia, trabajo y proyectos de vida)

@@ -5,7 +5,7 @@ Un actor como cualquier sujeto al que se le pueda atribuir *agencia* para interv
 - Agencia + entorno: disponibilidades (affordances), marcos, serialidad
 
 ## Relaciones agenciales
-- Efímero (acción serial y categoría serial) \autocite{saito2021} 
+- Efímero (acción serial y categoría serial) @saito2021
 - Doméstico
 - Familiar
 - Comunitario-libre asociación (activismo -la Unión-, solidaridad civil -arquitectos-, actividades cotidianas efímeras -deportes-)
@@ -28,9 +28,7 @@ No sólo está el capitalismo inmobiliario, sino el gobierno con sus programas (
 La agencia se realiza a partir de marcos de acción específicos en varias escalas (marcos normativos formales o informales -políticos, jurídicos, éticos-, acción directa -autoconstruir, sembrar, donar fragmento de propiedad a los hijos-, acción indirecta -pagar a un albañil, a una persona para limpiar-) ordenados dentro de marcos más generales (ideológicos, cognitivos -estéticos, epistémicos, culturales-).
 
 ## Indicadores agenciales
-
-
-Se basan en el gproyecto como praxis sociocultural(doméstico, comunitario, institucional). Los proyectos actuales reflejan marcos y escalas en el presente y el futuro. Los proyectos pasados explican las condiciones vitales del espacio actual, así como sus marcos y escalas.
+Se basan en el proyecto como praxis sociocultural (doméstico, comunitario, institucional). Los proyectos actuales reflejan marcos y escalas en el presente y el futuro. Los proyectos pasados explican las condiciones vitales del espacio actual, así como sus marcos y escalas.
 
 No todas las acciones son proyectos, 
 
