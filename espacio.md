@@ -1,0 +1,1 @@
+El espacio, como [[constructo teórico]], es un término amplio, polisémico y con múltiples usos que van desde su concepción formal hasta su definición cualitativa determinada por relaciones socioculturales históricamente desarrolladas.

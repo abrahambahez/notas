@@ -1,0 +1,3 @@
+- [[individualismo como robinsonada]]
+- Subjetivación y Habitus
+- Economía del cuidado y el concepto de *interdependencia*

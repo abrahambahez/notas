@@ -1,0 +1,1 @@
+La diferencia más clara entre participar y observar en un proceso de investigación (usando [[observación participante]] es que participar involucra la inmersión en el campo, mientras que observar implica cierto distanciamiento. A partir de esta distinción básica es posible elaborar criterios más ricos del [[estar ahí]] en el trabajo de campo.[[trabajo de campo]]

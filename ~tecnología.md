@@ -1,0 +1,3 @@
+- [[§ Visualización de datos y prácticas histórico-culturales]]
+- [[tecnología como modo de relación]]
+- [[ciber-antropología]]

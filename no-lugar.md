@@ -1,0 +1,1 @@
+No-lugar es un [[constructo teórico]] (que pretende ser antónimo del *lugar antropológico*) acuñado por [Marc Augé](https://es.wikipedia.org/wiki/No-lugar) para describir espacios sociales ocupados pero no apropiados ni habitados realmente, y tienden a carecer de atributos identitarios

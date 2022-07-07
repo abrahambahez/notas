@@ -1,0 +1,1 @@
+La epistemología narrativa es una [[hipótesis]] que afirma tiene como centro de conocimiento el relato. Es una epistemología porque establece un *dominio de conocimiento* o *universo epistémico* del que depende el conjunto de proposiciones que pueden ser verdaderas dentro de él.

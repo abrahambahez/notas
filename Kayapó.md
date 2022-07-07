@@ -1,0 +1,1 @@
+Los Kayapó son un [[grupo étnico]] de Brasil
