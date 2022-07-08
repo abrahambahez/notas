@@ -4,13 +4,7 @@ Los cambios tecnológicos que posibilitaron el vínculo moderno entre ciencia y 
 
 Pero la tecnología no opera sólo como interacción entre mentes, herramientas y máquinas, también *desde y para entornos* ecológicos que proveen de la materia inicial y reciben los objetos transformados en forma de bienes, estructuras constructivas y eventualmente, basura y ruinas, o como sería llamado por la UNESCO, un [[paisaje cultural]] de relictos o fósiles [@rossler1998, 48]. Esta interacción es importante porque conforma *un sistema* cuyos componentes son sujetos, materiales, tecnología y entorno.
 
-Para @pfaffenberger1992
-
-!@pfaffenberger1992#^ba0325]
-
-!@gosselain2011#^f3383a]]
-
-Una forma similar de concebir la tecnología está en @garciaarregui2013, para quien la tecnología es el  !@garciaarregui2013#^e1ca33]]. Además !@garciaarregui2013#^7840b6]].
+Para @pfaffenberger1992 y @gosselain2011 %% completar%%. Una forma similar de concebir la tecnología está en @garciaarregui2013, para quien la tecnología es el  %%Completar%%. 
 
 La tecnología es entendida como una estructura de relaciones entre los objetos (ya sea como fines o medios), las personas (a través de su dimensión corporal y epistémica) y el entorno como posibilitador. Cómo es que esa red es constituida y qué peso tendría cada elemento es algo que se discute, por ejemplo, en @buenaventura2014
 
