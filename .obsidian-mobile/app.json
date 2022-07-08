@@ -1,0 +1,16 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/",
+  "tabSize": 4,
+  "communityPluginSortOrder": "release",
+  "mobileToolbarCommands": [],
+  "showLineNumber": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "fileSortOrder": "byCreatedTime"
+}

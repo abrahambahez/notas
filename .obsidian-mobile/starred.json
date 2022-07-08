@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "2022",
+      "path": "@recursos/2022.txt"
+    },
+    {
+      "type": "file",
+      "title": "Plan semanal",
+      "path": "@recursos/metas/Plan semanal.md"
+    },
+    {
+      "type": "file",
+      "title": "(KR) mapear espacios sociales de las 3 comisarías para 2022-05",
+      "path": "p/+tesis/(KR) mapear espacios sociales de las 3 comisarías para 2022-05.md"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-.obsidian*
+.obsidian/
 .trash
 .sync
+.stfolder
 .stfolder

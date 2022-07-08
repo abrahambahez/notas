@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "ff9c920d2d844509",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ade1c28a460fa64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "transcripción historiográfica.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e50469d2fc262d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cb1af85c06b089bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "48fb2568e981d627",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "transcri",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b360b435c81c5f0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "aa91f09ebf8ad249",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d37aab36ab71592a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "transcripción historiográfica.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "48da67f8cb39bc35",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "transcripción historiográfica.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8e58ea133ed434d1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "transcripción historiográfica.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0ade1c28a460fa64",
+  "lastOpenFiles": [
+    "transcripción historiográfica.md",
+    "transcripción como traducción.md",
+    "2022-07-01.md",
+    "--Guía de trabajo entrevista.md",
+    "ficha de entrevista.md",
+    "2022-06-27.md",
+    "historia oral.md",
+    "2022-06-28.md",
+    "entrevista semi-estructurada de final abierto.md",
+    "análisis de entrevista de historia oral.md"
+  ]
+}
