@@ -16,3 +16,5 @@ Tips para usar [[OKR]]
 - Encourage employees to suggest company OKRs. OKRs are great bottom up, not just top down.
 - Make OKRs available publicly. Google has them on their intranet.
 - Friday celebrations are an antidote to Monday’s grim business. Keep it upbeat!
+
+Para @haak2021 [cap. 1, sec. OKR Cycle], el ciclo de OKRs involucra (en inglés): *set, align, kick-off, check-ins, review, set*. 
