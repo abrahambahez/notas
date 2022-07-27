@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ade1c28a460fa64",
+        "id": "993a8356621c66bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "transcripción historiográfica.md",
+            "file": "comunicación asincrónica.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -67,7 +67,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "transcripción historiográfica.md",
+            "file": "comunicación asincrónica.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "transcripción historiográfica.md",
+            "file": "comunicación asincrónica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -96,24 +96,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "transcripción historiográfica.md"
+            "file": "comunicación asincrónica.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "0ade1c28a460fa64",
+  "active": "993a8356621c66bc",
   "lastOpenFiles": [
+    "comunicación en la organización del trabajo.md",
+    "2022-06-27.md",
     "transcripción historiográfica.md",
     "transcripción como traducción.md",
     "2022-07-01.md",
     "--Guía de trabajo entrevista.md",
     "ficha de entrevista.md",
-    "2022-06-27.md",
     "historia oral.md",
     "2022-06-28.md",
-    "entrevista semi-estructurada de final abierto.md",
-    "análisis de entrevista de historia oral.md"
+    "entrevista semi-estructurada de final abierto.md"
   ]
 }

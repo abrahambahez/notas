@@ -9,8 +9,9 @@
   "communityPluginSortOrder": "release",
   "mobileToolbarCommands": [],
   "showLineNumber": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "livePreview": false,
   "spellcheck": true,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "trashOption": "none"
 }
