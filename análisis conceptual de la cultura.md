@@ -1,6 +1,6 @@
 Para @bartolome2008 la cultura es primeramente un *modo de hacer* y luego es posible que devenga un *modo de ser*, es decir, una identidad, ¿qué tal si, al igual que la fase mercantil de @appadurai1991, existe alguna clase de *[[situación idemcultural]]*?
 
-El primer modo de la [[cultura]] es una [[praxis]], el segundo requiere establecer un principio de diferenciación \[@bartolome2008, p. 96, lo llama *el caracter relacional de la cultura*\]. 
+El primer modo de la [[cultura]] es una [[praxis]], el segundo requiere establecer un principio de diferenciación [@bartolome2008, p. 96, lo llama *el caracter relacional de la cultura*]. 
 
 Hay antropólogos que sostienen que la cultura y la identidad son inseparables \[@gimenez2007, p. 54; @browerbeltramin2014, p. 49\]. Si nuestro modo de hacer fuera igual en toda la especie humana, el concepto de cultura sería innecesario, de modo que, aunque la identidad cultural fuera una fase potencial en la [[praxis]] específica de un grupo, la realidad de la diversidad en esos modos y del inevitable contacto entre ellos, convierte esa fase en algo de igual importancia. Tampoco hay identidad sin diferencia \[@gimenez2007, p. 60\].
 

@@ -9,5 +9,5 @@ La relación entre identidad y representación se da en el ámbito discursivo.
 
 La [[identidad personal]] requiere una autoidentificación.
 
-La identidad construida puede entenderse comoun caso de  **construccion de realidades sociales a partir de representaciones**.
+La identidad construida puede entenderse como un caso de  **construccion de realidades sociales a partir de representaciones**.
 
