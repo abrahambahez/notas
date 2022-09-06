@@ -1,6 +1,5 @@
 - [x] Tener validado por Eugenia el [[§ proyecto de investigación]] para 2021-12
-- [ ] Hacer un excelente trabajo etnográfico
-    - [ ] [[(KR) mapear espacios sociales de las 3 comisarías para 2022-05]]
+- [x] Hacer un excelente trabajo etnográfico
 - [ ] Tener documentado y aprobado por el sínodo esquema de análisis de la evidencia empírica
 - [ ]  Tener listo el primer borrador de la tesis doctoral para 2023-01
 - [ ]  Tener lista la versión 1, aprobada por el sínodo de la tesis para 2023-07

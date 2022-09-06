@@ -1,14 +1,10 @@
 ---
 title: "¿Quién decide cómo se vive? Espacio, vivienda y territorio en comisarías al noreste de Mérida, Yucatán"
 author: "Sergio Abraham Barrera Hernández"
-bibliography: "/home/sabhz/Docs/Referencias/referencias.bib"
+bibliography: "/home/sabhz/dev/notas/referencias.bib"
 ---
 
-# 1. Introducción
-- Justificación
-- Objetivos
-- Contextualización
-- Estructura del trabajo
+# [[introduccion]]
 
 # 2. Marco epistemológico
 ## 2.1. Qué clase de conocimiento se puede producir en este trabajo
