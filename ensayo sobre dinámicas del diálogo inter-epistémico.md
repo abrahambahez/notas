@@ -1,0 +1,9 @@
+Como sucede con la lengua inglesa, que ya no es sólo la lengua materna de ciertas poblaciones, sino que se ha vuelto un dispositivo que posibilita el diálogo, algunos artefactos culturales surgidos en contextos locales pueden separarse de ellos para integrar diversas expresiones que interactúan, pero cuya interacción requiere antes un marco de inteligibilidad que ese dispositivo provee.
+
+Este proceso no es neutral ni inocente, sino que responde a las lógicas de las hegemonías históricamente dadas.
+
+Sin embargo, no hay que confundir las funciones posibilitadoras y *colonizadoras* de estos artefactos, aunque resulte muy difícil, puesto que son cosas distintas. Es posible de hecho separarlas a través de una operación que *provincialice* el contexto cultural madre del artefacto y lo convierta en uno más entre muchos, sin mayor autoridad *a priori* que los demás.
+
+En el caso de la lengua inglesa, los niños de diferentes lugares del mundo que juegan videojuegos por internet usan el idioma como facilitador de la interacción en el contexto del marco normativo del juego, pero ese inglés ya no es la lengua madre de un australiano o una norteamericana, y posiblemente difiera tanto sintáctica como semánticamente  (a través de neologismos propios de la comunidad de juegos en varios niveles) de su matriz original.
+
+Otro ejemplo posible está en separar el concepto de epistemología de su tradición occidental, y poner a la tradición occidental en condiciones de igualdad inicial respecto a otras tradiciones intelectuales. Eventualmente ese concepto se transformará, debido a múltiples influencias, en un artefacto distinto, más abierto, esta transformación convierte a la epistemología en un proceso de diálogo entre diversos [[marco epistemológico|marcos epistemológicos]].

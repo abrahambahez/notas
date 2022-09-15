@@ -1,0 +1,3 @@
+- retroalimentación como heurística práctica: actualiza comportamientos
+- retroalimentación como ajuste racional: actualiza creencias
+- retroalimentación como ajuste interpersonal: profundiza el reconocimiento intersubjetivo

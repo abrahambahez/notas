@@ -1,0 +1,1 @@
+Un marco teórico es un conjunto explícito de conceptos ([[constructo teórico|constructos teóricos]]), proposiciones básicas e ideas epistemológicas usados por investigadores para interpretar fenómenos en el contexto de su práctica. 
