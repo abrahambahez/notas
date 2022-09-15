@@ -1,0 +1,3 @@
+La agencia es un [[constructo teórico]] que se refiere a la capacidad de los sujetos para actuar, por sí mismos, en el mundo que los rodea. Se le vincula con la libertad de acción del sujeto en relación con las constricciones contextuales y estructurales que le rodean. Se usa para estudiar fenómenos sociales y culturales humanos.
+
+Una práctica puede ser evaluada como espontánea o reproductora de una estructura en algún grado. Por eso es que desde el punto de vista del sujeto, la agencia es el medio de reproducción de las estructuras sociales: a través de la acción que *repite* un modo de saber, de hacer o de pensar, la estructura se autoreproduce [cfr. @joyceylopiparo2005]. Sherry @ortner1993 [p. 40] traduce el término *agencia* como «intervención humana».

@@ -1,0 +1,2 @@
+- epistemicidios
+- [[violencia epistémica]]

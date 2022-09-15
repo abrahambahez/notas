@@ -1,0 +1,1 @@
+Un pie de casa es una construcción de un piso con al menos una habitación para cada necesidad considerada *básica*: dormir, cocinar, baño y, en muchos casos, 'estancia' o sala.

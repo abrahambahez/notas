@@ -1,0 +1,3 @@
+- [[la interpretación humana de las gráficas está errada generalmente]]
+- [[heurística intuitiva]] como modo de interpretación primario
+- [[enlaces de hipertexto como unidad relacional básica]]

@@ -1,0 +1,1 @@
+La anarquía es la doctrina política que pugna por la abolición de la jerarquía en la organización social. 
