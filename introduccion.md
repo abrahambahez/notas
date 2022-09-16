@@ -1,4 +1,3 @@
-# Introducción
  <!-- preguntas --> 
 ¿Quién decide cómo se vive? es la pregunta que motivó originalmente este trabajo. Es una pregunta que tiene diversos cauces, ¿quién puede, o debe, o quiere decidir cómo vivir? ¿qué implica el *cómo vivir*, implica subsistir, habitar, migrar, mantener o modificar costumbres? ¿Qué pasa si alguien cree que no puede, o no debe, decidir cómo vivir? ¿Cuáles son los factores clave que hicieron que un grupo social viva como vive en determinado momento, y qué factores dinamizan y cambian esa configuración de lo cotidiano?
 
