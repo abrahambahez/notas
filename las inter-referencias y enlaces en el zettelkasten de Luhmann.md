@@ -10,4 +10,3 @@ La funcionalidad más importante del zettelkasten de Luhman son las interreferen
 - Es importante relacionar los *id* con ciertas ideas clave que condensen el contenido de la nota, para esto se lleva un *registro*
 	- Para esto, Luhmann creaba *índices de palabras clave*, donde refería ciertos temas o palabras a ciertas notas, que no tienen por que ser exhaustivas en cuanto al tema. Su finalidad es *activar la cadena de ideas* al iniciar con una nota y dejarse llevar por cómo los vínculos entre ellas desarrollaban un hilo de pensamiento particular
 	- Estas notas deberían ser, obviamente, notas densamente vinculadas, ya desarrolladas, que funcionan como *super-nodos* o grandes *clusters* de ideas, pues lo que este sistema construye es una estructura topológica donde algunas notas tienden a convertirse en *supernodos* mientras que otra gran parte son poco o nada usadas posteriormente
-
