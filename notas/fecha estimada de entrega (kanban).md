@@ -1,4 +1,4 @@
-De acuerdo con @brechner2015 [cap. 3, sec. *Track expected completion date*], la fórmula de una estimación en [[kanban]] es: $CTE/(TCR-TAR)$, donde:
+De acuerdo con @brechner2015 [cap. 3, sec. *Track expected completion date*], la fórmula de una estimación en [[kanban]] es: *CTE/(TCR-TAR)*, donde:
 
 - CTE: [[estimación de la tarea actual (current task estimate)]]
 - TCR: [[tasa de finalización de tareas (task completion rate)]]

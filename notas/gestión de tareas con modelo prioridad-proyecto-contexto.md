@@ -15,4 +15,4 @@ Algunas reglas de uso para usar estos criterios son:
     - Esto es posible porque una tarea es diferente a un objetivo, un requerimiento o cualquier otro item cuya prioridad pueda establecerse colectivamente (como en el caso de las historias de usuario en la [[gestión ágil]])
 - Todas las tareas deben tener un proyecto/contexto asignado para facilitar su filtración adecuada en contextos donde son relevantes
     - Dependiendo del tipo de uso que se les dé, puede ser uno o ambos
-    - En listas de tareas de trabajo los proyectos son más comunes y por tanto más usados. Un contexto como `@blocked` es útil para denotar que se espera respuesta, como en la metodología Kanban
+    - En listas de tareas de trabajo los proyectos son más comunes y por tanto más usados. Un contexto como `@blocked` es útil para denotar que se espera respuesta, como en la metodología [[kanban]]
