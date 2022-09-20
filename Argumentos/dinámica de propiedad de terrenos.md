@@ -6,4 +6,4 @@ En cierto sentido, los territorios siempre han sido intervenidos por agentes ext
 
 ---
 
-[[conceptos posibles]]  
+[[../conceptos para la lucha]]  

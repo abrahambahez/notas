@@ -8,7 +8,8 @@ year: 2023
 ![[introduccion]]
 
 # 1. Fundamentos teórico-epistemológicos
-![[]]
+![[marco epistemológico +tesis]]
+
 ## 1.1. Complejidad, espacio y vivencialidad
 ### 1.1.1. Escala
 ### 1.1.2. Horizonte

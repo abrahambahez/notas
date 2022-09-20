@@ -5,3 +5,5 @@ Ambas estrategias son útiles, pero la segunda es mucho más común.
 El objeto disciplinario busca la generalización al abstraer las características de su interés epistémico y asumir que otros factores pueden ser ignorados o tratados teóricamente como constantes.
 
 La escala produce diferencias que pueden clasificarse, pero también paradojas de continuidad.
+
+Lee: <http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1900-54072013000100003&lng=en&nrm=iso>
