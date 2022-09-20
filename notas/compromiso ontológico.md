@@ -25,4 +25,5 @@ Palacio, R. (1995). Criterio de Compromiso Ontológico, Ontología y Relatividad
 
 Quine, W. V. (1948). On what there is. _The review of metaphysics_, 21-38. <https://www.jstor.org/stable/20123117?seq=1>
 
+
 -->

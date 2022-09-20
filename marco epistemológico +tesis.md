@@ -1,20 +1,7 @@
-Este texto se escribe en un momento de prolongada crisis de la antropología.
+![[antropología y conocimiento]]
 
-- Epistemología y teoría (objeto, sujeto y validez del conocimiento)
-    - Decolonialismo
-    - Crisis de representación
-- Metodología
-    - Contra la etnografía
-    - Múltiples etnografías (múltiples modos de validación)
+Un marco epistemológico, usado como *marco comparativo* entre teorías, permite dialogar entre perspectivas que, en conjunto construyen una lectura más rica que la de una mirada posicionada específicamente, sea desde cualquier postura de la academia o desde el *compromiso ontológico* de los interlocutores [cfr. en sentido antroplógico, @ingold2018; @ingold2013, p. 6; @ingold2017 y ensentido filosófico, @palacio1995]. Para entender la dinámica del diálogo inter-epistémico resulta útil el ejemplo de la lengua inglesa como marco de referencia inter-cultural.
 
-## Crítica interna a partir de dos preguntas
-¿Quién decide qué investigar y cómo investigarlo en antropología?
+![[notas/ensayo sobre dinámicas del diálogo inter-epistémico]]
 
-¿Con qué autoridad uno puede escribir del otro?
-
-## Alcances y aspiraciones del trabajo
-
-- No pretende un conocimiento generalizable
-- No pretende un conocimiento susceptible de análisis comparativo
-- Aspira a producir herramientas conceptuales útiles para discutir las tensiones de los lugares, más allá de la mirada hegemónica, inspirado en [Rita Segato](https://youtu.be/R1WUT_eRQG8)
-- Aspira a producir esas herramientas a partir de los otros, no sólo de la reflexión de sillón
+De este modo, el marco de referencia epistémica posibilita la inteligibilidad entre perspectivas teóricas, y abre paso a la estrategia de producir una lectura *abierta* de las situaciones que conformaron el trabajo de campo, lo que finalmente deja ramas interpretativas susceptibles de desarrollo indefinido.
