@@ -40,6 +40,3 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 
 ## ¿Por qué la diferencia específica sobre la apariencia se asume como obvia?
 - Durante la exposición de los académicos de la red Integra para el diplomado no se nota a lo largo del discurso la idea de la [[construcción sociocultural de características físicas racializables]], se asume como algo dado
-
-# Tareas
-- [ ] Reportes de cada lectura (450 palabras en promedio)

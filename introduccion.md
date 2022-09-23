@@ -51,6 +51,3 @@ El sexto capítulo elabora una lectura sobre el *espacio en disputa* como un esp
 Los testimonios que guían este trabajo son una perspectiva vivida de cambios impulsados desde esos múltiples horizontes, donde el poder constituye muchas veces garantía en la duración de unos cambios sociales, unos cambios que a su vez son decisiones que alguien tomó, hoy, ayer o hace 10 años. Lo cotidiano, lo diariamente vivido, con sus rutinas y horarios, los espacios conocidos, mobiliarios, calles y parques, es el punto concreto donde todos esos ritmos históricos, sociales y políticos convergen. No hay cambio social relevante, benéfico o pernicioso, que no impacte el *cómo vivir*. Como escribió el antropólogo colombiano Horacio Calle Restrepo:
 
 >No se puede pues juzgar a lo macro-social por lo que dice de sí mismo, mucho menos si se llama revolucionario. Solamente la vida cotidiana puede serlo. [@callerestrepo1985, p. 53]
-
-
-- [ ] Título de la investigación
