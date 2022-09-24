@@ -46,3 +46,4 @@ Relacionado:
 # Práctica
 - Escritura de notas
 - [[vínculos entre notas]]
+- [[prácticas de escritura de notas]]

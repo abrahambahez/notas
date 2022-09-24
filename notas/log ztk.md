@@ -50,7 +50,7 @@ En el contexto de mis notas, cuando escribo `@` estoy iniciando una conversació
 
 En esta idea **el medio de interlocución es menos importante** que el locutor, esto es consistente con muchos sistemas de citación (que piden autor -apellidos, principalmente- y año de publicación -como referencia a la versión del *mensaje* publicado-).
 
-### Referencias con un interlocutor no publicadas
+### Referencias con un [[interlocutor]] no publicadas
 Una entrevista que yo realice a alguien puede tener la forma `@entrevistadoYYYY-MM-DD`, esa forma puede ser compartida por, por ejemplo, notas de una clase o cualquier situación en la que el interlocutor principal es una persona y el medio de interlocución no será referenciable como publicación.
 
 ### Referencias de palabra clave: sin interlocutor claro y no publicadas

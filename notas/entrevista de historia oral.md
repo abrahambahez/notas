@@ -1,4 +1,4 @@
-Su objetivo es recuperar la memoria de un hecho en tanto [[historia vivida]], buscando traer a flote la experiencia del interlocutor. Según @laramezaetal2010 [p. 69] tienen principalmente dos objetivos:
+Su objetivo es recuperar la memoria de un hecho en tanto [[historia vivida]], buscando traer a flote la experiencia del [[interlocutor]]. Según @laramezaetal2010 [p. 69] tienen principalmente dos objetivos:
 
 1. Ser utilizadas en investigación histórica
 2. Integrar un archivo de Historia Oral

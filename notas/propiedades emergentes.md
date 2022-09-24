@@ -6,10 +6,9 @@ Las propiedades emergentes son fenómenos que pueden surgir a partir de la organ
 Ejemplos:
 
 - La conciencia es una propiedad emergente de cierta organización cognitiva de un sistema nervioso central y su acoplamiento ecológico con el entorno
-- La sociedad es una propiedad emergente de cierta organización colectiva de individuos (personas)
+- La sociedad es una propiedad emergente de cierta organización colectiva de personas-agentes
 - El tiempo es una propiedad emergente de la configuración atómica del universo y la entropía que impide que se repita exactamente esa misma configuración más de una vez
 
 Caracterización:
 
-- Aunque emergen de un [[sistema]] que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados neuronales)
-	- Esto es así porque son más que la suma de sus partes: los conjuntos de estados neuronales no equivalen a un estado mental
+Aunque emergen de un [[sistema]] que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados neuronales). Esto es así porque son más que la suma de sus partes: los conjuntos de estados neuronales no equivalen a un estado mental.
