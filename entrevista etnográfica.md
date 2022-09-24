@@ -11,5 +11,5 @@ Por su parte @guber2019 [p. 52] afirma que existen *variantes de esta técnica*,
 De este modo, Guber propone una estrategia secuencial para acceder al universo cultural del participante a través de esta técnica:
 
 - La **atencioń flotante del investigador**. Es un modo de escucha donde no se privilegia de antemano ningún punto del discurso
-- La **asociación libre del informante**. Consiste en seguir los cursos del informante y aprender a recorrerlos bajo sus propias lógicas. Se trata de explorar el asunto *junto con el interlocutor* desde su marco interno.
+- La **asociación libre del informante**. Consiste en seguir los cursos del informante y aprender a recorrerlos bajo sus propias lógicas. Se trata de explorar el asunto *junto con el [[interlocutor]]* desde su marco interno.
 - La **categorización diferida del investigador**. Se define en contraste con la categorización anticipada como una lectura mediatizada por el informante *«a través de la formulación de preguntas abiertas que van encadenándose sobre el discurso del informante hasta configurar un sustrato básico con el cual puede reconstruirse el marco interpretativo del actor»* [@guber2019, p. 58]. Una categoría *emerge* del discurso del interlocutor en función de la importancia que le atribuye o la frecuencia con la que la menciona.

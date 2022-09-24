@@ -30,7 +30,3 @@ Estratégicas de interpretación de interlocutores dubitativos, información inc
 ## Qué permanece
 - Etnografía como método
 - [[observación participante]]
-
-# Tareas
-- [ ] buscar tesis de Inés Cortés sobre Cholul o Santa Gertrudis y también la de Ximena Pavón.
-- [ ] Busacar texto 'Postetnografía'

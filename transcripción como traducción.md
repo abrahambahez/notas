@@ -16,5 +16,5 @@ En ese sentido, es un modo de traducción que, en lugar de negociar el sentido d
 6. Respetar en la medida de lo posible las formas coloquiales del habla
 7. Rescatar los silencios y olvidos, sonidos y ruidos
 8. Empleo del subrayado para dar énfasis a expresiones que así lo requieran, particularmente aquí se busca rescatar los tonos o velocidad de la voz
-9. Rescatar las funciones que cumplan la función fáctica, con las cuales el entrevistado busca constantemente la atención de su interlocutor
+9. Rescatar las funciones que cumplan la función fáctica, con las cuales el entrevistado busca constantemente la atención de su [[interlocutor]]
 10. Incluir observaciones respecto a la actitud del entrevistado y que no pueden ser transcritas literalmente, pero que pueden señalarse entre corchetes: llanto, ironía, bajar la voz. O aclarar a pie de página el elemento significativo que está señalando el entrevistado, como bien puede ser una pintura, imagen o fotografía
