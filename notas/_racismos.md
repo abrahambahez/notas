@@ -9,7 +9,7 @@
 
 # Argumentos
 ## sobre la lógica que subyace a la clasificación
-1. La idea de las características suficientemente distintas que utilizan los zootécnicos para diferenciar perros cuya reproducción es controlada ¿cómo se dan esas características suficientemente distintas?  ^eb6c58
+1. La idea de las características suficientemente distintas que utilizan los zootécnicos para diferenciar perros cuya reproducción es controlada ¿cómo se dan esas características suficientemente distintas?
 2. El conjunto de características que producen la diferenciación entre personas sirve a la legitimación de la estructura de poder
 3. Hay un nivel donde las expresiones de racismo son diversas, pero hay otro nivel, más formal, en el que comparten las mismas lógicas: es el nivel de la **clasificación**.
     1. Procesos de identificación
@@ -39,4 +39,4 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 - Criterio sociohistórico: cuando se instituye como [[sistemas de distribución de opresión y privilegios]]
 
 ## ¿Por qué la diferencia específica sobre la apariencia se asume como obvia?
-- Durante la exposición de los académicos de la red Integra para el diplomado no se nota a lo largo del discurso la idea de la [[construcción sociocultural de características físicas racializables]], se asume como algo dado
+- Durante la exposición de los académicos de la red Integra para el diplomado no se nota a lo largo del discurso la idea de la, se asume como algo dado
