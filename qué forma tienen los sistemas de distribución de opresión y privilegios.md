@@ -15,8 +15,7 @@ Un esquema muy burdo puede dar una idea de la fórmula anterior. Según veo es l
 - El patriarcado
 	- El androcentrismo y sus derivados
 - El etnocentrismo
-    - La [[racialización]]
-	- La [[blanquitud y blancura]]
+    - El [[racialismo]]
 - El especismo
 	- El antropocentrismo
 - El clasismo
