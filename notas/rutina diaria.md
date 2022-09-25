@@ -2,4 +2,4 @@ Según @callerestrepo1991 [p. 49] la rutina diaria se compone de acciones repeti
 
 ![[factor del tiempo en la rutina diaria]]
 
-![[factor del espacio en la rutina diaria]]
+![[espacio en la rutina diaria]]

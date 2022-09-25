@@ -1,4 +1,4 @@
-- [x] Tener validado por Eugenia el [[§ proyecto de investigación]] para 2021-12
+- [x] Tener validado por Eugenia el [[§proyecto-de-investigación]] para 2021-12
 - [x] Hacer un excelente trabajo etnográfico
 - [ ] Tener documentado y aprobado por el sínodo esquema de análisis de la evidencia empírica
 - [ ]  Tener listo el primer borrador de la tesis doctoral para 2023-01

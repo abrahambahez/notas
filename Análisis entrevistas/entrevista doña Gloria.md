@@ -134,7 +134,7 @@ Todo el tiempo pasan camiones cargados de escombro de los montes que se
 
 ![[Temozon2022-02-22doñaGloria-2.MP3]]
 
-00:04 Historia del cenote media luna, "antiguamente era libre media luna, era hermoso"  
+00:04 Historia del cenote media luna, "antiguamente era libre media luna, era hermoso"   ^972614
 
 01:29 Venta del cenote media luna  
 

@@ -1,0 +1,1 @@
+Privilegia la dimensión de [[movilidad]] del [[espacio]].

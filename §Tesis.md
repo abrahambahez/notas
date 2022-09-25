@@ -4,12 +4,13 @@ Subtitle: Paisaje, vivienda y territorio en comisarías al noreste de Mérida, Y
 author: Sergio A. Barrera Hernández
 year: 2023
 ---
+Hasta ahora esta es mi tesis principal: [[despojar a las personas de espacios de libertad es encarcelarlas]]
 <!--
 # Introducción
 ![[introduccion]]
 -->
 # 1. Fundamentos teórico-epistemológicos
-![[marco epistemológico +tesis]]
+![[1-marco-epistemológico+tesis]]
 
 ## 1.1. Escala y horizonte
 Este marco epistemológico descansa en dos modos de entender el espacio antropológicamente útiles: escala y horizonte.
