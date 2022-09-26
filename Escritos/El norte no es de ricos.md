@@ -9,4 +9,4 @@ Licenciado en Comunicación por la Facultad de Estudios Superiores Acatlán, UNA
 ## Resumen 
 <!-- coloquiounampeninsula@cephcis.unam.mx -->
 
-El relato de una Mérida dividida en dos polos *norte, sur* influye en la configuración sociopolítica que distribuye privilegios y opresión de forma generalizada en la cuidad. Un análisis de ese relato hegemónico se contrasta con testimonios de habitantes de cuatro comisarías en la «zona norte».
+El relato de una Mérida dividida en dos polos *norte-sur* influye en la configuración sociopolítica que distribuye privilegios y opresión de forma generalizada en la cuidad. Un análisis de ese relato hegemónico se contrasta con testimonios de habitantes de cuatro comisarías en la «zona norte».

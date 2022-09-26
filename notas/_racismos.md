@@ -31,6 +31,8 @@
 
 Dos lecturas sobre la determinación: una determinista rígida (destino) y otra que produce una [[configuración social]] 
 
+[[racialización, etnicidad e identidad]]
+
 # Preguntas
 ## ¿La historia se puede controlar? ¿lo histórico es «corregible»?
 
