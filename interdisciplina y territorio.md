@@ -4,7 +4,7 @@ Esto abre el panorama para considerarlo en función de algunos principios rector
 
 En los 60 el concepto dominante relativo fue el de *región*, que posibilitó iniciativas como «políticas regionales», pero a partir de los 70 el [[territorio]] pasó a ser el centro de atención por algunas ventajas conceptuales como su flexibilidad o sus ventajas prácticas dentro de la dimensión política.
 
-Entonces, [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]] que se desarrolla a través de [[dispositivos de construcción territorial]].
+Entonces, [[territorialización]] que se desarrolla a través de [[dispositivos de construcción territorial]].
 
 Una relación de [[larga duración]] que es más directa implica la noción de la memoria y los imaginarios territoriales, siempre inscritos en la materialidad y su persistencia.
 
