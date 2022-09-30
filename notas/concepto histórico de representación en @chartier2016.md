@@ -1,4 +1,4 @@
-En una conferencia dada por Roger @chartier2016 sobre el concepto de representación, el historiador recorre las objeciones al concepto de *representación* como objeto de la historia, las definiciones históricas de representación en Francia y España, la fuerza teórica de las representaciones en la sociología de la dominación simbólica de Bordieu.
+En una conferencia dada por Roger @chartier2016 sobre el concepto de representación, el historiador recorre las objeciones al concepto de *representación* como objeto de la historia, las definiciones históricas de [[representaciones]] en Francia y España, la fuerza teórica de las representaciones en la sociología de la dominación simbólica de Bordieu.
 
 Respecto a las críticas que se han hecho al uso de la representación, Chartier destaca dos:
 

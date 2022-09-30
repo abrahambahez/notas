@@ -1,4 +1,4 @@
-Esta nota explora la posibilidad de utilizar el [[ethos del hacker]] para optimizar relaciones sociales en contextos socioculturales occidentalizados. Para eso es necesaria investigación sobre el comportamiento social humano, contexto cultural general y técnicas, tácticas y herramientas específicas.
+Esta nota explora la posibilidad de utilizar el [[ethos del hacker]] para optimizar relaciones sociales en contextos socioculturales occidentalizados. Para eso es necesaria investigación sobre el comportamiento social humano, contexto cultural general y técnicas, tácticas y herramientas específicas que sirven como marco para cualquier [[hack]].
 
 Teoría:
 

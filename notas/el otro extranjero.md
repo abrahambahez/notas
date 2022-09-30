@@ -1,4 +1,4 @@
-Pasa de la necesidad que en sociedades del norte se tiene de una tolerancia como amor al otro, que permita acoger al otro migrante con un sentido de *compasión*. La tolerancia es el punto de partida, que también requiere el marco legal donde se practique (p. 60)
+Pasa de la necesidad que en sociedades del norte se tiene de una [[tolerancia]] como amor al otro, que permita acoger al otro migrante con un sentido de *compasión*. La [[tolerancia]] es el punto de partida, que también requiere el marco legal donde se practique (p. 60)
 
 Tomado de @fornet-betancourt2009 [cap. 5]
 

@@ -1,4 +1,4 @@
-En el contexto de la [[gestión de producto]] la metodología de gestión ágil es dominante. Se basa en una serie de principios, métodos e implementaciones que permiten la entrega rápida y continua de valor a través de ciclos iterativos de definición - creación - validación.
+En el contexto de la [[gestión de producto]] y la [[gestión de proyectos]] la metodología de gestión ágil es dominante. Se basa en una serie de principios, métodos e implementaciones que permiten la entrega rápida y continua de valor a través de ciclos iterativos de definición - creación - validación.
 
 Valores básicos:
 

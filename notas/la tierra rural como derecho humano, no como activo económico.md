@@ -2,7 +2,7 @@ según @torres-mazuera2020a
 
 >«La tierra rural es concebida como un derecho humano que es necesario reconocer y defender, en particular cuando se trata del derecho de personas que históricamente han vivido de la tierra agrícola (ya sean campesinos o indígenas)» (p. 41)
 
-La tierra rural o agrícola es un derecho fundamental porque  da acceso a otros derechos humanos: al medio ambiente sano, a la vivienda, y a la alimentación segura y de calidad, etcétera (p. 41)
+La tierra rural o agrícola es un derecho fundamental porque  da acceso a otros derechos humanos: al medio ambiente sano, a la [[vivienda]], y a la alimentación segura y de calidad, etcétera (p. 41)
 
 Este enfoque implica cambios importantes respecto a la [[privatización de la propiedad agraria en México]]. Integra una nueva dimensión
 

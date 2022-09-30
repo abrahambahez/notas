@@ -4,13 +4,13 @@ La tradición oral en la literatura histórica no ha sido relevante, suele anali
 
 En su análisis de la tradición oral tanto para la historia como para la etnografía, @vansina1966 sólo la trata como evidencia y documento, despojándola de su función interna, presuponiendo sin discusión que son de la misma clase y finalidad doquier se encuentren, y por tanto invalidando sus interpretaciones ulteriores [pp. 18-21].
 
-Para @vansina1966 [p. 34] existen tres tipos de testimonios orales: el testimonio ocular, la tradición oral y el rumor.
+Para @vansina1966 [p. 34], el [[testimonio oral]] puede ser de tres tipos: el testimonio ocular, la tradición oral y el rumor.
 
 Las características de estos son:
 
 >El hecho observado es comunicado por el observador en su testimonio, que se puede llamar prototestimonio o testimonio inicial. Este testimonio es entendido por una persona, que lo narra a una segunda persona, la cual a su vez, lo divulga contándolo a una tercera, etc. De esta forma nace una cadena de tradición, en la que cada testigo ulterior es un eslabpon y cada testimonio un testimonio auricular. Finalmente, el último testigo comunica el último testimonio a un escribano, quien lo consigna [@vansina1966, pp. 34-35]
 
-El ejemplo anterior es erróneo en tanto entiende la cadena de transmisión como una línea y no como una red, cuyas propiedades permiten elementos como la retroalimentación positiva y negativa, la viralización o la clusterización.
+El ejemplo anterior es erróneo en tanto entiende la cadena de transmisión como una línea y no como una red, cuyas propiedades permiten elementos como la [[retroalimentación]] positiva y negativa, la viralización o la clusterización.
 
 Otro error que comete es tratar al objeto de referencia como estático, confundiendo el mapa con el territorio.
 

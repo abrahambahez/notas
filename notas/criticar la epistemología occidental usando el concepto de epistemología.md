@@ -10,6 +10,7 @@ Para poder desarrollar una discusión que no se cierre es necesario separar el a
 
 Así, decir algo *verdadero* en términos de cultura, incluso en términos etnográficos, no implica que lo verdadero sea un correlato absoluto del mundo en un sentido ontológico fuerte. En realidad, el etnógrafo no está comprometido con **una epistemología** que deba ser común a su cultura y la cultura que estudia, sino a un **diálogo entre marcos epistémicos**, donde el suyo es un marco de referencia entre muchos posibles, aún si ese marco es el hegemónico.
 
-En esto consiste la utilidad de lo epistemológico en tanto marco comparativo. No se trata tan sólo de *crear una nueva epistemología del sur contrahegemónica* como de *comenzar a ver los marcos epistemológicos occidentales como unos entre muchos posibles* (lo que @ribeiro2009 llama provincializar occidente), aún estando inmersos en una dinámica de hegemonía y subalternización.
+En esto consiste la utilidad de lo epistemológico en tanto marco comparativo. No se trata tan sólo de *crear una nueva epistemología del sur contrahegemónica* como de *comenzar a ver los marcos epistemológicos occidentales como unos entre muchos posibles* (lo que @ribeiro2009 llama provincializar occidente), aún estando inmersos en una dinámica de hegemonía y subalternización. Por ejemplo, 
+@fornet-betancourt2009 propone la idea de [[culturas del saber]].
 
 La pregunta de si todas las creencias que se afirman verdaderas son igual de válidas debe extender la noción de validación a la pluralidad epistemológica, quitando del centro un tipo de marco de validación (como los de las ciencias exactas) y poniendo en él múltiples estrategias de evaluación **inter-epistémica**.

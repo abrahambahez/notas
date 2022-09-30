@@ -1,4 +1,4 @@
-El control del contexto mercantil como estrategia de reproducción del orden social.
+En el contexto de la [[vida social de las cosas]], el control del contexto mercantil como estrategia de reproducción del orden social.
 
 Los "objetos reales" de Gluckman, las reliquias de Geary y los objetos rituales de Davenportson distintos tipos de mercancías de enclave, objetos cuyo potencial mercantil está cuidadosamente limitado. El control de *las cosas reales* (de la realeza), a través de estrategias como su monopolio tiene como fin mantener *exclusividad suntuaria*, ventaja comercial o la ostentación del rango [@appadurai1991, 39].
 

@@ -5,3 +5,5 @@ Existen varias maneras de construir [[notas de campo]]. De acuerdo con @emerson2
 - [[nota diaria]]
 - Esbozos: a diferencia de las notas diarias (énfasis cronológico), los esbozos dan más importancia a la descripción de detalles sensoriales de una escena, una(s) persona(s) o un lugar. Los esbozos por tanto tienden a ser sincrónicos (eliminan el factor tiempo de sus descripciones) [@emerson2011, pp. 75-76]
 - Episodios: Los episodios narran secuencias de acciones que las personas realizan en una interacción 
+
+@hanson2019

@@ -1,3 +1,5 @@
+En el contexto de la [[vida social de las cosas]]:
+
 >Todos éstos son ejemplosde lo que podemosllamar mercantilización por desviación, donde el valor, en el mercado del arte o de la moda es acelerado o incrementado al colocar objetos y cosasen contexto; Inveroslmiles. La estética de la descontextualización (impulsada por la búsqueda de la novedad)se hallaen el núcleode la oslenllGlÓll' enlas casas de los intelectuales de Occidente, de herramlel\lU y a:tefactos de los [@appadurai1991, 45] "otros": la alforja turca, la lanza masai, la canasta dinka." En estos objetos, no sólo advertimos la equiparación de lo auténtico con el objeto exótico cotidiano, sino también la estética de la desviación. [@appadurai1991, 46]
 
 El autor propone su definición de demanda:

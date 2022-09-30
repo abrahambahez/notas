@@ -9,3 +9,5 @@ En un [artículo de su blog](https://www.calnewport.com/blog/2017/03/30/the-obvi
 >There are several reasons for this: communication tends to be slow compared to local processing, networks can be unpredictable, and sitting around waiting for messages to arrive, while your powerful processor sits idle, is frustratingly inelegant
 
 Posteriormente publicó *«A world without email»* como propuesta ante este problema.
+
+Ver [[ideas sobre trabajo abierto]]

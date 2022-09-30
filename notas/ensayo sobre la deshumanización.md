@@ -70,12 +70,12 @@ La humanidad como proceso sociohistótico de subjetivación cognitivo-corporal s
 Si la humanización es un proceso variable y plural, puede plantearse el problema de forma diferente:
 
 1. La humanización es un proceso situado histórica y geográficamente, con resultados muy diversos
-2. Afirmar que hay un solo modelo más deseable es como afirmar que hay un solo dios más único y verdadero que otros, es decir, caería a prior en el mismo problema que da origen a culturas colonizadoras
+2. Afirmar que hay un solo modelo más deseable es como afirmar que hay un solo dios más único y verdadero que otros, es decir, caería *a priori* en el mismo problema que da origen a culturas colonizadoras
 3. La humanización crea múltiples humanidades, y por tanto múltiples formas de deshumanizar.
 4. Lo más importante es que, dado que no hay una única humanización ni una deshumanización, lo que se genera es un espacio donde los modelos de humanización compiten por hegemonía a niveles éticos, políticos, estéticos y epistemológicos.
 5. Por tanto, la humanización es un dominio en conflicto
 
-El debate entra en el mismo ámbito que la discusión actual por la pluralidad de la organización sociocultural. Cada actor en el proceso pugna, negocia y promueve su modelo por medios diversos. En este contexto es más importante una noción del futuro que una del pasado, una donde la pregunta es ¿qué modelo de humanización futuro podría protejer la mayor cantidad-calidad de intereses y prevenir las peores, o más frecuentes, deshumanizaciones que tienen los modelos actuales?
+El debate entra en el mismo ámbito que la discusión actual por la pluralidad de la organización sociocultural. Cada actor en el proceso pugna, negocia y promueve su modelo por medios diversos. En este contexto es más importante una noción del futuro que una del pasado, una donde la pregunta es ¿qué modelo de humanización futuro podría proteger la mayor cantidad-calidad de intereses y prevenir las peores, o más frecuentes, deshumanizaciones que tienen los modelos actuales?
 
 En términos de filosofía occidental, se pasa de un humanismo esencialista tipo helénico o renacentista a un humanismo anti-esencialista más cercano al existencialismo: si la humanidad no tiene esencia, entonces es libre de proponer su propio proyecto, con las consecuencias que eso implica.
 

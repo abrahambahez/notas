@@ -15,7 +15,7 @@ Principios de la meditación de la ciencia
 5. Principio de **despersonalización**: el conocimiento científico se produce con independencia del trasfondo biográfico (deseos, intereses, sueños, miedos, etc.), de las personas implicadas en el proceso de investigación (que es un proceso institucionalizado e independiente de la corporalidad humana). Por eso se podría hablar aquí también del principio de la descorporalización de la ciencia , que sería la otra cara de la desnaturalización.
 6. Principio del **progresismo**: aplicación metódica y sistemática de la investigación en el sentido de una lucha abierta contra todo límite (p. 35)
 
-Se pretende que la meditación alrededor de estos principios desemboque en *refundar la ciencia*, es decir, recolocarla en el tejido de los vínculos de reciprocidad que nos recuerdan las memorias culturales y religiosas de la humanidad. Es *ponerla en su lugar* (p. 35) al ubicarla en un lugar que no es el de la universalidad; esto es más una cuestión ético-política que una epistemológica. 
+Se pretende que la meditación alrededor de estos principios desemboque en *refundar la ciencia*, es decir, recolocarla en el tejido de los vínculos de [[reciprocidad]] que nos recuerdan las memorias culturales y religiosas de la humanidad. Es *ponerla en su lugar* (p. 35) al ubicarla en un lugar que no es el de la universalidad; esto es más una cuestión ético-política que una epistemológica. 
 
 **Multiculturalismo versus interculturalismo: no se trata de un mosaico, sino de un tejido**
 

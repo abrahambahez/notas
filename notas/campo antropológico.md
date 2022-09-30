@@ -1,4 +1,4 @@
-El campo antropológico es un espacio producido por la [[situación etnográfica]]. Originalmente limitado a un espacio geográfico concreto, se amplió posteriormente hacia un [[desplazamiento epistémico]].
+El campo antropológico es un espacio producido por la [[situación etnográfica]]. Originalmente limitado a un espacio geográfico concreto, se amplió posteriormente hacia una conceptualización más amplia, a partir de ideas como [[desplazamiento epistémico]].
 
 Para @jaramillo2013 [p. 15] el campo puede tener un sentido amplio y otro restringido. En el primer sentido, se *hace* por las *relaciones que hacen las personas* y el conocimiento que se produce con ellas (no sobre ellas).
 

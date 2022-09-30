@@ -40,5 +40,5 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 - Criterio nominal: cuando se nombra
 - Criterio sociohistórico: cuando se instituye como [[sistemas de distribución de opresión y privilegios]]
 
-## ¿Por qué la diferencia específica sobre la apariencia se asume como obvia?
-- Durante la exposición de los académicos de la red Integra para el diplomado no se nota a lo largo del discurso la idea de la, se asume como algo dado
+# Notas históricas
+[[racialización en México]]

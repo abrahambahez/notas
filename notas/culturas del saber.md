@@ -1,4 +1,3 @@
-### culturas del saber
 Tomado de @fornet-betancourt2009
 
 Habla de las culturas del saber y su encuentro, que se espera que sea en condiciones de igualdad o condiciones simétrica (p. 9)

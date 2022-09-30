@@ -4,7 +4,7 @@ Las interacciones urbano-rurales son desiguales y privilegian la cultura urbana 
 
 ## condiciones económicas que influyen en el cambio tecnológico de la casa maya
 
-Cuando los grupos rurales tienen una economía de autoconsumo, las casas tradicionales o vernáculas siguen siendo construidas con los materiales regionales y las técnicas ancestrales, la incorporación de materiales industrializados dependerá de la capacidad de acumular excedentes destinados para su adquisición ([Manual para la construcción de la vivienda rural, 1981, p. 14; citado en Román-Kalisch & Piñón-Jiménez](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref8))
+Cuando los grupos rurales tienen una economía de autoconsumo, las casas tradicionales o vernáculas siguen siendo construidas con los materiales regionales y las técnicas ancestrales, la incorporación de materiales industrializados dependerá de la capacidad de acumular excedentes destinados para su adquisición ([Manual para la construcción de la [[vivienda]] rural, 1981, p. 14; citado en Román-Kalisch & Piñón-Jiménez](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref8))
 
 ## condiciones culturales y políticas que influyen en el cambio tecnológico de la casa maya 
 
