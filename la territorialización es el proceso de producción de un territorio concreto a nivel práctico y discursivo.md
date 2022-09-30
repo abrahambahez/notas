@@ -6,4 +6,4 @@ Pero su uso analítico no se limita a lo macrosocial (estados), tambien existe l
 
 Como consecuencia, el [[territorio]] tiene una dimensión cultural que, en cierto sentido, lo determina como tal, pues es la capacidad del grupo social de apropiarselo la que lo crea en primer lugar, y fuera de esa apropiación no existe objetivamente. 
 
-La *[[desterritorialización]]*, su opuesto, es un asunto de importancia en el contexto de la globalización. Pero al considerarlo como objeto histórico, o incluso geológico, la mirada sincrónica se difumina para dar paso a una interacción humanidad-sustrato territorial cuyos registros tienen una larga duración. 
+La *[[desterritorialización]]*, su opuesto, es un asunto de importancia en el contexto de la globalización. Pero al considerarlo como objeto histórico, o incluso geológico, la mirada sincrónica se difumina para dar paso a una interacción humanidad-sustrato territorial cuyos registros tienen una [[larga duración]]. 

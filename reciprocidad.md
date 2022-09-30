@@ -1,4 +1,4 @@
-Para @palerm1976 \[p. 173\]:
+Para @palerm1976 [p. 173]:
 
 >La reciprocidad asume la existencia de grupos dispuestos simétricamente; la redistribución depende de la presencia de un cierto grado de centralización del grupo; el intercambio exige un sistema de mercado.
 
@@ -6,4 +6,4 @@ El grupo basado en reciprocidad debe dividirse en subgrupos que no necesariament
 
 ![[redistribución]]
 
-Estas formas de integración no son estapas ni estadíos lineales, pueden presentarse en diferentes configuraciones socioculturales. Varios de los fenómenos (como importaciones y exportaciones) pueden aparecer bajo modelos distintos a los que conocemos.
+Estas formas de integración no son etapas ni estadíos lineales, pueden presentarse en diferentes configuraciones socioculturales. Varios de los fenómenos (como importaciones y exportaciones) pueden aparecer bajo modelos distintos a los que conocemos.

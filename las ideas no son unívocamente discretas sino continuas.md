@@ -11,6 +11,6 @@ Para @luhmann2021 [parr. 4], los textos teóricos, especialmente aquellos no for
 
 Las fronteras que establecemos con las ideas podrían obedecer a reglas pragmáticas (del contexto en que son usadas) y situacionales, más que puramente formales.
 
-¿A qué se debe nuestra tendencia a convertir ideas en unidades discretas? Posiblemente para reducir la [carga cognitiva](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_carga_cognitiva). Posiblemente la propia noción de *idea* debería ser mejor especificada.
+¿A qué se debe nuestra tendencia a convertir ideas en unidades discretas? Posiblemente para reducir la [[carga cognitiva]], [link](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_carga_cognitiva). Posiblemente la propia noción de *idea* debería ser mejor especificada.
 
 [[alternativas a la noción de idea]]

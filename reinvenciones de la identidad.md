@@ -17,7 +17,7 @@ En cuanto a la relación entre colectividad e identidad para el estudio de la [[
 - Procesualismo: Enfatiza la identidad como *resultado de un proceso*, pero en este caso, histórico o ideológico, la interpretación identitaria surge del contexto histórico donde va estructurándose y también intersectándose con otros espacios estructurantes como clase, género, etcétera.  También suele entenderse un proceso ideológico donde representaciones, valores y creencias fijan un universo relativamente coherente (p. 51)
 - Estructuralismo cognitivo. También llamado Arqueología de la Identidad por Almudena Hernando (2002, citado en la p. 53). Esta versión parte de que los grupos organizan cognitivamente el mundo de formas distintas, y esa configuración se correlaciona con el grado de control material sobre ese mundo; de este modo la identidad puede entenderse en términos de cómo el grupo entiende el mundo (los mecanismos cognitivos que lo median) y actúa en consecuencia, compartiendo esos modelos socialmente.
 
-El problema de los pueblos sin historia y el *presentismo*  también afectó a la arqueología en la construcción de categorías creadas desde la colonialidad y que son el contenido de *lo maya, lo tolteca o lo itzá* (p. 56), un estudio más profundo contribuiría a corregir esta situación.
+El problema de los pueblos sin historia y el *presentismo*  también afectó a la arqueología en la construcción de categorías creadas desde la [[colonialidad]] y que son el contenido de *lo maya, lo tolteca o lo itzá* (p. 56), un estudio más profundo contribuiría a corregir esta situación.
 
 A manera de síntesis de trabajo se destacan dos ideas:
 

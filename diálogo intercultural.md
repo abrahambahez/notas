@@ -27,14 +27,6 @@ Tradición no es opusto a historia. Para la interculturalidad, el problema no so
 >Identidades perfectibles son, pues, identidades con personalidad y pertenencias claras (como, por ejemplo, una religión), pero abiertas a la interacción dialógica y al crecimiento en común hacia una universalidad inclusiva en la que caben todas las diferencias [@fornet-betancourt2009, p. 54]
 
 
-
-
-
-
-
-
-
-
 ### 8. Apuntes para una filosofía presente en nuestro presente histórico
 La filosofía tienen que articularse como «filosofía del presente» para ser actual, pero eso implica la confrontación directa con el  mundo histórico de su tiempo. Se define entonces a partir de una tensión dialéctica enre la tradición y la innovación. 
 

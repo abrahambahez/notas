@@ -1,1 +1,3 @@
-Propuesta de la antropóloga Mexicana %%buscar referencia en el conversatorio de Youtube%% centrada en escribir un [[diario de campo]] a partir de la observación del cuerpo propio y ajeno, fundamentalmente.
+Propuesta de la antropóloga mexicana Cristina Mazariegos <!--buscar referencia en el conversatorio: https://youtu.be/Q887Wh6g9rc--> centrada en escribir un [[diario de campo]] a partir de la observación del cuerpo propio y ajeno, fundamentalmente.
+
+Posiblemente relacionado con el **giro corporal** [@severino2017]

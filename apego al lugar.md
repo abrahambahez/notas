@@ -1,6 +1,6 @@
 Es un [[constructo teórico]] que relaciona emocionalidad al [[espacio]] [@carvalho2018].
 
->Situaciones como los conflictos armados, los desastres socionaturales, el cambio climático global, así como la ausencia de derechos formales de la vivienda y procesos de gentrificación aumentan las posibilidades de vulneración del derecho a la vivienda adecuada, provocando desplazamientos y desalojos forzados. [@carvalho2018, p. 2]
+>Situaciones como los conflictos armados, los desastres socionaturales, el cambio climático global, así como la ausencia de derechos formales de la [[vivienda]] y procesos de gentrificación aumentan las posibilidades de vulneración del derecho a la vivienda adecuada, provocando desplazamientos y desalojos forzados. [@carvalho2018, p. 2]
 
 Y también:
 

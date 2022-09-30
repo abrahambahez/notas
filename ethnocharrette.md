@@ -1,0 +1,1 @@
+El *ethonocharrette* es la aplicación del [[pensamiento de diseño]] como [[técnica de investigación]] sobre [[etnografía]]. Fue propuesto por Marcus como *a collaborative session of intense activity in which design thinking and methods are used to interrogate and explore ethnographic concerns* [@marcus2011; @marcus2013].

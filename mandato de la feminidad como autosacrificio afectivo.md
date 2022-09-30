@@ -4,4 +4,4 @@ De @segato&illouz2017
 
 Segato resume el mandato de la feminidad como un autosacrificio afectivo, y esa afectividad puede continuar en relaciones no-heterosexuales
 
-Segato se pregunta si el mandato de la feminidad es histórico (de larga duración) y en cierto sentido universal, ¿cómo se cambia? ¿cómo cambiar la afectividad?
+Segato se pregunta si el mandato de la feminidad es histórico (de [[larga duración]]) y en cierto sentido universal, ¿cómo se cambia? ¿cómo cambiar la afectividad?

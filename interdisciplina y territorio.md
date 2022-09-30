@@ -6,6 +6,6 @@ En los 60 el concepto dominante relativo fue el de *región*, que posibilitó in
 
 Entonces, [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]] que se desarrolla a través de [[dispositivos de construcción territorial]].
 
-Una relación de larga duración que es más directa implica la noción de la memoria y los imaginarios territoriales, siempre inscritos en la materialidad y su persistencia.
+Una relación de [[larga duración]] que es más directa implica la noción de la memoria y los imaginarios territoriales, siempre inscritos en la materialidad y su persistencia.
 
 Cada lugar requiere una mirada especial, un análisis de su pecularidad multidimensional y esto sólo es posible a través de esfuerzos interdisciplinarios.

@@ -4,6 +4,8 @@ Si, como el zen afirma, lo único que existe es el momento presente, el futuro e
 
 El tiempo es también un constructo social. Por ejemplo, puede parecer que la irreversibilidad y la finitud producen la [[escacez de tiempo]], pero esta noción puede estar culturalmente orientada por una idea del [[tiempo como recurso]].
 
+Algunos principios usados para elaborar cualquier [[hack]] temporal son:
+
 - La **efectividad** es mucho más valorada que la **eficiencia**
     - Agenda tus prioridades, no priorices tu agenda
     -  Un mont

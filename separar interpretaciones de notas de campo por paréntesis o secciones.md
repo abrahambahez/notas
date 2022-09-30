@@ -1,4 +1,4 @@
-Lo que @emerson2011 llama *asides*, que en español pueden ser notas al margen, en formato digital y respetando la linealidad intrínseca de la textualidad, podrían marcarse tipográficamente como paréntesis. Esta práctica mantiene la orientación a la prosa de la nota y es consistente con el uso ortográfico de los paréntesis.
+En el contexto de las [[notas de campo]], lo que @emerson2011 llama *asides*, que en español pueden ser notas al margen, en formato digital y respetando la linealidad intrínseca de la textualidad, podrían marcarse tipográficamente como paréntesis. Esta práctica mantiene la orientación a la prosa de la nota y es consistente con el uso ortográfico de los paréntesis.
 
 Un ejemplo que @emerson2011 [p. 80] ofrece es:
 

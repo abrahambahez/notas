@@ -71,7 +71,7 @@ Emergencia de temas
     - Enlaces nota a nota que no son contextuales, sólo están enlistados, por loq ue on débiles
 - Los conceptos son significativos en el contexto de una teoría ( p. 101 · Posición 2155), la emergencia ontológica contribuye al reforzamiento teorético de las ideas si están vinculadas entre sí a través de asociaciones fuertes
 - [[la abstracción permite reutilizar ideas en diversos contextos]]
-- Hay que trabajar y retrabajar nuestras interpretaciones para poder hacerlas más válidas, la retroalimentación constante y aprovechar el error son partes prácticas importantes de este proceso
+- Hay que trabajar y retrabajar nuestras interpretaciones para poder hacerlas más válidas, la [[retroalimentación]] constante y aprovechar el error son partes prácticas importantes de este proceso
 - Usa restricciones: una idea por nota (no más de una cuartilla)
 
 ### Cap. 13 compartir los descubrimientos

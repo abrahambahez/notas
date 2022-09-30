@@ -7,7 +7,7 @@ Esta forma de abordaje privilegia cosas como la ==cognición encorporada== (p. 5
 Por eso:
 
 1. Es necesario que establezcas *una práctica diaria* para escribir notas permanentes, es decir, ideas completas, breves y bien elaboradas
-2. Es necesario que la exposición a la *retroalimentación sea sistemática*, el sistema de notas debería permitirnos escribir ideas y enfrentarlas constantemente ante nuevas entradas de información. 
+2. Es necesario que la exposición a la *[[retroalimentación]] sea sistemática*, el sistema de notas debería permitirnos escribir ideas y enfrentarlas constantemente ante nuevas entradas de información. 
 3. Es necesario que las ideas que escribas sirvan para construir argumentos y textos más complejos, cuando alcances un volumen mínimo de notas (cfr. [[masa crítica de notas]]) *debes comenzar a producir contenidos más finales*: libros, artículos, videos, etcétera.
 4. Yo debo añadir una cosa más: es necesario que incorpores en tu práctica diaria la reflexividad, que te permitirá no sólo iterar sobre tus ideas sino sobre tus prácticas. Pero recuerda que ==cómo la escritura es pensamiento y aprendizaje==.
 

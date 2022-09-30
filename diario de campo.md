@@ -1,6 +1,6 @@
 Un diario de campo es un instrumento en las metodologías de investigación de campo, como la etnografía o la observación (participante y no participante). Requiere básicamente un soporte material (digital o no) para registrar elementos *observables* en las estancias de campo. Está relacionado con las [[notas de campo]] pero de maneras ambiguas (pueden considerarse similares o muy diferentes).
 
-La  idea  es  registrar  cuidadosamente  día  a  día  todo  lo  que  se  ha observado, lo que le han contado o lo que uno ha pensado referente al estudio adelantado. (Desde @restrepo2016|Etnografía: alcances, técnicas y éticas]]) p. 46
+La  idea  es  registrar  cuidadosamente  día  a  día  todo  lo  que  se  ha observado, lo que le han contado o lo que uno ha pensado referente al estudio adelantado [@restrepo2016, p. 46].
 
 La idea es recrear con palabras lo observado. 
 

@@ -2,7 +2,7 @@
 location: https://teoriadelhabitaruruguay.blogspot.com/p/bibliografia_7.html
 author: Néstor Casanova Berna
 ---
-
+[[vivienda]]
 También acá:
 
 <https://teoriadelhabitar.blogspot.com/p/bliografia.html>

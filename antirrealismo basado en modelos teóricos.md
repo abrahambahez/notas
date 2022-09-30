@@ -1,4 +1,4 @@
-Según @giere2004, la actividad científica y su producción teórica *no se corresponde* con el mundo, sino que *lo representa*.
+Según @giere2004, la actividad científica y su producción teórica *no se corresponde* con el mundo, sino que *lo representa*, por tanto sostiene un [[constructivismo]] epistémico.
 
 El autor propone un esquema que busca explicar cómo los científicos generan modelos usando principios y condiciones específicas. Al intentar aplicar sus modelos al mundo, generan hipótesis sobre cómo encajan esos modelos con los particulares del mundo, las hipótesis pueden generalizarse a clases previamente designadas de objetos [@giere2004, p. 744].
 

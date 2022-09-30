@@ -43,4 +43,4 @@ También sucede con el dilema de la «redistribución» y el «reconocimiento».
 
 Los dos mecanismos de la desigualdad: la explotación (apropiación o toma mayoritaria de la riqueza generada socialmente) y el acaparamiento (acceso *exclusivo* de un grupo a determinado recurso). La lucha contra la explotación ha generado avances en materia de su regulación y limitación.
 
-En el caso de la exclusión la visibilización de la diferencia es insuficiente, es necesario generar el diálogo intercultural y cuidar que esas diferencias no se conviertan en criterios de exclusión
+En el caso de la exclusión la visibilización de la diferencia es insuficiente, es necesario generar el [[diálogo intercultural]] y cuidar que esas diferencias no se conviertan en criterios de exclusión

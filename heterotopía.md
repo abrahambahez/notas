@@ -1,1 +1,1 @@
-Termino acuñado por @foucault1984 para designar espacios más complejos y heterogéneos que los pensados desde el occidente medieval.
+Termino acuñado por @foucault1984 para designar un [[espacio]] más complejo y heterogéneo que los pensados desde el occidente medieval.

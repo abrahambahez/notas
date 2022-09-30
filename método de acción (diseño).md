@@ -2,7 +2,7 @@
 sources: "https://99u.adobe.com/articles/6679/action-method-i-breaking-projects-into-primary-elements"
 ---
 
-Parte de la premisa de que «todo es un proyecto», y cada proyecto tiene tres componentes:
+Es un enfoque de [[diseño]] arte de la premisa de que «todo es un proyecto», y cada proyecto tiene tres componentes:
 
 1. Pasos accionables
 2. Referencias
