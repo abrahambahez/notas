@@ -1,4 +1,5 @@
-Se suele dar por hecho que los [[sistemas de distribución de opresión y privilegios]] dependen de algún tipo de *coacción* por parte de la clase privilegiada, porque en el fondo se cree que cualquier grupo humano que resulte oprimido por alguno de esos valores *no quiere, a priori, pertenecer a un sistema que lo considere inferior*.
+<!-- refactorizar para separar opresión de desigualdad -->
+Se suele dar por hecho que la opresión depende de algún tipo de *coacción* por parte de la clase privilegiada, porque en el fondo se cree que cualquier grupo humano que resulte oprimido por alguno de esos valores *no quiere, a priori, pertenecer a un sistema que lo considere inferior*.
 
 - La violencia directa es un mecanismo muy evidente que puede reflejar una capa histórica y establecida más directa: la violencia estructural
 - La violencia estructural
