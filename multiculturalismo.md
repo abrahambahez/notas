@@ -14,7 +14,7 @@ Multiculturalismo no debe confundirse con pluralismo. El pluralismo busca un pro
 
 La cultura del multiculturalismo no es la *alta cultura* de las élites, ni la *noción antropológica de cultura* que asigna a cada ser humano una sólo por su capacidad simbólica; se refiere más bien a un conjunto heterogéneo de factores como la lengua, la identidad religiosa, la identidad étnica, la identidad sexual. Dado que implica un reconocimiento que antes se consideraba obvio, el multiculturalismo es un proyecto ideológico [p. 73]
 
-Para Sartori, se sobreutilizan nociones como *opresión*, violencia (estructural); se cae en el relativismo cultural que *invalida el valor de las culturas al igualarlas* [p. 80]
+Para Sartori, se sobreutilizan nociones como *[[opresión]]*, violencia (estructural); se cae en el relativismo cultural que *invalida el valor de las culturas al igualarlas* [p. 80]
 
 Para @segato2015, el multiculturalismo es una creación de la modernidad colonial que se basa en la ilusión que ella misma creó de un Otro que nació con su dominación. Por lo tanto lo propone como una solución para ese problema que viene de ella misma.
 

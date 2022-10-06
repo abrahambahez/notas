@@ -9,7 +9,7 @@ Esta propuesta no hace una distinción *apriorística* de los grupos sociales t�
 Un marco tecnológico:
 
 - Se encuentra *entre actores*, no *en los actores* ni *encima de los actores* [@bijker2008, p. 81]
-- Explica cómo el ambiente social estructura el diseño de un artefacto [@bijker2008, p. 82]
+- Explica cómo el ambiente social estructura el [[diseño]] de un artefacto [@bijker2008, p. 82]
 - Estructura la interacción entre los miembros de un grupo social [@bijker2008, p. 82]
 
 La *inclusión* de actores a un marco tecnológico puede ser especificada describiendo sus metas. Un miembro de un grupo social puede tener distintos *grados* de inclusión en el marco tecnológico [@bijker2008, p. 83].
