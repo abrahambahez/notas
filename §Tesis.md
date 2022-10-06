@@ -4,7 +4,7 @@ Subtitle: Paisaje, vivienda y territorio en comisarías al noreste de Mérida, Y
 author: Sergio A. Barrera Hernández
 year: 2023
 ---
-Hasta ahora esta es mi tesis principal: [[despojar a las personas de espacios de libertad es encarcelarlas]]
+Hasta ahora esta es mi tesis principal: [[la negación de control de espacios atenta contra la libertad y vida diaria de los habitantes]]
 <!--
 # Introducción
 ![[introduccion]]
