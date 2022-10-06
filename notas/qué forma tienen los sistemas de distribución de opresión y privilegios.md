@@ -6,7 +6,7 @@ Las formas que pueden tener los [[sistemas de distribución de opresión y privi
 	- *Históricamente desarrollada*, es decir, no necesaria ni intrínseca, aunque usa diversos mecanismos para legitimar ideas *inherentistas*
 	- Cargada de interpretaciones sobre el estatus de [[personhood]] (decidir quiénes pueden ser personas) de sus miembros, y por lo tanto también de [[agencia]] (quienes tienen capacidad o derecho de actuar)
 2. ... a partir del cual *se clasifica* a las personas (se las agrupa en una clase), y 
-3. ... se organiza la vida social, estructurándose desigualmente.
+3. ... se organiza la vida social, estructurándose desigualmente; por ejemplo a partir de una [[estructura centro-periferia]]
 4. Está históricamente construida de forma *ego-centrista*, donde ego es un prefijo intercambiable: *etno-, andro-, albo-, antropo-, ...* [Rosana Guber, en @restrepo2020, les llama «centro-centrismos»] , orientado a dotar de *[[personhood]]*  a unos y quitarles el *yo-ego* a los otros.
 5. Los valores considerados privilegiados de estos constructos identitarios suelen intersectarse, históricamente, en una misma clase de personas: Un hombre blanco, heterosexual, capitalista, etcétera.
 
