@@ -1,5 +1,7 @@
 # Introducción
-El argumento principal a demostrar será que [[la negación de control de espacios atenta contra la libertad y vida diaria de los habitantes]]
+El argumento principal a demostrar será que [[la negación de agencia espacial atenta contra la libertad y vida diaria de los habitantes]]
+
+- La [[agencia espacial]] como capacidad 
 
 # 1. Marco interpretativo
 ## 1.1. Apuntes para un marco epistémico en lugar de uno teórico
@@ -96,9 +98,11 @@ Experiencias de lo doméstico según las entrevistadas, que pasa por raza, clase
 
 # 5. Desigualdad y disputa del espacio
 ## 5.1. Los sujetos del espacio
-Describo y contrasto los conceptos de dueños, ciudadanos, pobladores, avecindados, familiares, gremios en la configuración socioterritorial de la zona de trabajo. Los atributos discursivos que dotan de más prestigio o privilegio a unos mientras que ensancha la brecha de desigualdad en otros.
+¿Cómo el concpeto de [[agencia espacial]] se desenvuelve a partir de sujetos encarnados como, escribo y contrasto los conceptos de dueños, ciudadanos, pobladores, avecindados, familiares, gremios en la configuración socioterritorial de la zona de trabajo. Los atributos discursivos que dotan de más prestigio o privilegio a unos mientras que ensancha la brecha de desigualdad en otros.
 
-La lucha no puede entenderse sin considerar la interrelación entre raza-etnicidad, clase y género en los sujetos 
+La lucha no puede entenderse sin considerar la interrelación entre raza-etnicidad, clase y género en los sujetos.
+
+El problema de los *sujetos colectivos* (comunidad, comisaría - [[territorio-administrativo]]-, colectividad, empresa)
 
 ## 5.2. La jaula espacial
 ### 5.2.1. El Estado y la desigualdad espacial
