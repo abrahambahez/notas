@@ -16,4 +16,8 @@ El racialismo está presente en las luchas anti-racistas, pues como ya se dijo, 
 
 ![[racismo#^2088e5]]
 
-A partir de estas distinciones, el autor sostiene que es posible establecer marcos de acción, políticas y luchas anti-racistas más efectivas y significativas, así como sensibles al contexto donde efectivamente han tomado forma de manera particular y compleja. De igual modo, permite atender no sólo crítica sino creativamente cada elemento no sólo para buscar eliminar sus efectos perniciosos, sino para imaginar futuros posibles de mundos pos-raciales.
+A partir de estas distinciones, el autor sostiene que es posible establecer marcos de acción, políticas y luchas anti-racistas más efectivas y significativas, así como sensibles al contexto donde efectivamente han tomado forma de manera particular y compleja. De igual modo, permite atender no sólo crítica sino creativamente cada elemento, no sólo para buscar eliminar sus efectos perniciosos, sino para imaginar futuros posibles de mundos pos-raciales.
+
+## Ficha
+
+@camposgarcia2012

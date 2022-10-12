@@ -18,7 +18,7 @@ A pesar de su heterogeneidad histórica, los autores siguen la idea de Mignolo (
 
 Este planteamiento es un *pensar lo biológico como artefacto cultural* (p. 55), y como tal, como un objeto *etnografiable*, sobre cuyo análisis es posible describir las maneras específicas en que cada población humana en diversos tiempos *produce culturalmente las diferencias biológicas* relevantes que formarán las marcas de inferiorización.
 
-Pensar lo biológico desde este marco devela un nivel más abstracto en la configuración de las diferencias, que los autores llaman *metacultura*, y se refiere a *«a que lo que puede emerger en un momento constituido como diferencia cultural (o no) es culturalmente producido al igual que lo es la noción misma de cultura (y por tanto lo que aparece como no cultura, es decir, biología)»* (p. 56).
+Pensar lo biológico desde este marco devela un nivel más abstracto en la configuración de las diferencias, que los autores llaman *metacultura*, y se refiere *«a que lo que puede emerger en un momento constituido como diferencia cultural (o no) es culturalmente producido al igual que lo es la noción misma de cultura (y por tanto lo que aparece como no cultura, es decir, biología)»* (p. 56).
 
 Pero no sólo el capitalismo se beneficia de la organización histórico-cultural de la *raza*, sino que esta distinción posibilita un *racismo de Estado* (p. 57) que Foucault analiza en términos de *biopolítica* y *genealogía*. 
 
@@ -26,4 +26,6 @@ Para un estudio presente de la raza, los autores promueven etnografías y geneal
 
 Finalmente, problematizan la posibilidad de un estudio de *la raza en el pasado* a la luz de este marco que a su vez problematiza la lógica constructivista de lo biológico y lo conceptual que permite pensar la raza y los proceso de racialización: *«¿cómo pensar, desde nuestra irremediable condición del presente, sobre pasados que no sólo constituyen una distancia temporal sino también otros horizontes experienciales y cognitivos?»* (p. 63) 
 
-## Referencias
+## Ficha
+
+@arias&restrepo2010

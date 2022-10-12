@@ -15,3 +15,7 @@ En la primera parte, las fotografías presentan a personas de piel blanca (una m
 En la etnografía sobre las *discotecas* puede observarse que las dinámicas de *acceso, tiempo, espacio y relaciones* alrededor de las visitas están regidas por criterios y patrones consistentes con la clasificación estratificada de la ciudad: el acceso es negociado con personas dedicadas (*RP* o relaciones públicas), a través de un sistema de membresías o la frecuencia de visitas, el espacio dentro tiene significados de *deseabilidad* relacionadas con prestigio; ante dudas del estatus social por parte de cadeneros se confía en un criterio de ubicación espacial más general (la zona de la ciudad donde se vive). El objetivo social es demostrar pertenencia a la élite a través de capital económico (consumo y propina alta), social (ser «gente conocida») o cultural (estética, blanquitud); del mismo modo, la alteridad del polo extremo, los *nacos*, *indios*, *pobres* aparecen como constantes sobre las que se puede contrastar la demostración de éxito social.
 
 Las visitas a las *discotecas* son fuente de producción de un imaginario que reproduce los modelos de orden ideal de la élite a través de revistas centradas en fotografía de sociales que *filtra* bajo criterios estrictos, implícitamente estandarizados, la construcción visual de la *bondad* estética, moral, social y económica.
+
+## Ficha
+
+@iturriagaacevedo2016
