@@ -3,7 +3,7 @@ references: https://scielo.conicyt.cl/pdf/psykhe/v17n1/art04.pdf
 ---
 Una historia de vida es un tipo de [[entrevista etnográfica]] que busca entender la trayectoria vital de una persona. Por lo general requiere varias sesiones de entrevistas sobre las mismas personas de quienes se escribe.
 
-1. «La vida no constituye una historia hasta el momento en el cual alguien pregunta por ella» ─ María Teresa Uribe  \[citada en @restrepo2016, p. 62 \]
+1. «La vida no constituye una historia hasta el momento en el cual alguien pregunta por ella» ─ María Teresa Uribe  [citada en @restrepo2016, p. 62]
 2. Es necesario guíar la narrativa para construir una historia coherente y valiosa (esta cualidad narrativa permite usar propuestas más formales como herramientas de organización del relato, por ejemplo, el [[modelo de narrativas naturales de Labov]])
 
 Para @restrepo2016, los pasos de elaboración de una historia de vida son:

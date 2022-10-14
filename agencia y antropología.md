@@ -1,0 +1,3 @@
+En [[antropología]] la [[agencia]] se entiende en relación con la noción de *estructura* [@keane2003], sobre todo a partir de la teoría de la estructuración de @giddens1986. También ha considerado procesos de atribución de *personidad*, o *[[personhood]]* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007].
+
+<!-- https://journals.openedition.org/ateliers/8516 -->

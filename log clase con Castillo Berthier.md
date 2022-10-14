@@ -1,5 +1,5 @@
+# 2021-10-06
 Notas de la clase con el Dr. Castillo Berthier:
-
 ## Conversación inicial
 
 Comentario sobre el crecimiento de Mérida, el pueblo de Sisal recién nombrado Pueblo Mágico.
