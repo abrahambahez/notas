@@ -93,6 +93,10 @@ Para @hoffmann2020 [cap. 2] puede haber procesos de territorialización a partir
 
 La agencia es un constructo teórico que busca explicar la acción de los sujetos. Desde el punto de vista filosófico [@schlosser2019], su significado implica la capacidad de ejecutar «acciones intencionales», donde la intención es *actuar por una razón*. Esta visión relaciona eventos con estados mentales del agente; pero otros marcos existen, como los que están centrados en los agentes (donde un evento es una acción en función de su historia causal con el agente) o en la volición como causa de la agencia (una acción es tal en virtud de la voluntad del agente y no en tanto relación causal).
 
-En antropología la agencia se entiende en relación con la noción de *estructura*, sobre todo a partir de la teoría de la estructuración de @giddens1986
-
 Una práctica puede ser evaluada como espontánea o reproductora de una estructura en algún grado. Por eso es que desde el punto de vista del sujeto, la agencia es el medio de reproducción de las estructuras sociales: a través de la acción que *repite* un modo de saber, de hacer o de pensar, la estructura se autoreproduce [cfr. @joyceylopiparo2005]. Sherry @ortner1993 [p. 40] traduce el término *agencia* como «intervención humana».
+
+En antropología la agencia se entiende en relación con la noción de *estructura* [@keane2003], sobre todo a partir de la teoría de la estructuración de @giddens1986. También ha considerado procesos de atribución de *personidad*, o *personhood* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007].
+
+<!-- https://journals.openedition.org/ateliers/8516 -->
+Para este trabajo, la relación entre agencia y espacio implica la capacidad de los agentes para movilizar, ocupar, producir y experimentar con recursos espaciales desde su contexto experiencial más básico hasta en sus trayectorias vitales y su historia relacional, vista como la que da sentido 
+a cambios y permanencias materiales, familiares, intersubjetivas, políticas y culturales.
