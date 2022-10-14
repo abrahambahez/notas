@@ -17,6 +17,3 @@ La diferencia entre *lo construido* y lo *puramente natural* es difusa, pero las
 1. Reduce el lugar a un perímetro definido que resulta en una idea cerrada del terrreno, pero que ignora elementos del entorno que también lo componen y no ceden a cerrar: el cielo, el aire, las aves que vuelan sobre el terreno. 
 2. Los lugares no son estáticos sino que se mueven con las idas y venidas de sus componentes, incluidos los humanos y otros animales: habitar no puede ser sólo *descansar* o *estar estático*.
 3. Los lugares que habitamos tienen horizontes, pero no fronteras: el mundo no puede parcelarse de modo que haya bloques para la sociedad y bloques para la naturaleza: cualquier límite o división que se le imponga: desde una frontera hasta una cerca, sería una separación entre lo social y lo natural, esa frontera simplemente no puede cruzarse, porque no existe.
-
-
-
