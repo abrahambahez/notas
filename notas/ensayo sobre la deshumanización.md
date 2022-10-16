@@ -50,10 +50,9 @@ Sin conocimiento profundo del problema y, seguramente, con varias malinterpretac
 ## Discusión sobre la humanización para contrastar con el argumento principal
 La humanización es también un proceso. Se refiere al devenir de un tipo de sujeto que sería el *ser humano*.
 
-Las respuestas más básicas a la pregunta ¿en qué consiste la humanización? están
-en teorías como la antropogénesis o la hominización, que "describen" el proceso que da origen al *homo sapiens*. Estas respuestas no sirven en el contexto de la discusión, pero sus consecuencias están por todos lados en la discusión sobre lo humano. Su consecuencia principal es el *naturalismo*, es decir, la apelación más o menos fuerte a una *naturaleza*, como en la idea de una naturaleza humana. Una humanización anti-naturalista evita el problema de la esencialización.
+Las respuestas más básicas a la pregunta ¿en qué consiste la humanización? están en teorías como la antropogénesis o la hominización, que "describen" el proceso que da origen al *homo sapiens*. Estas respuestas no sirven en el contexto de la discusión, pero sus consecuencias están por todos lados en la discusión sobre lo humano. Su consecuencia principal es el *naturalismo*, es decir, la apelación más o menos fuerte a una *naturaleza*, como en la idea de una naturaleza humana. Una humanización anti-naturalista evita el problema de la esencialización.
 
-Un segundo ámbito de discusión está en lo que llamaré por comodidad los 'modelos de humanidad'. Estos modelos se construyen como dispositivos teóricos para explicar fenómenos o accionar proyectos, y de hecho algunos están en la discusión de los elementos más débiles de la argumentación sobre la deshumanización (en tu texto están claramente reconocidos).La humanización como modelo tiene su expresión en los *homini* (homo oeconomicus, homo technicus, homo ludens) que son también no implica necesariamente esencialización porque puede hacerse como marco de comprensión para prácticas humanas, pero describe personas limitadas no universales.
+Un segundo ámbito de discusión está en lo que llamaré por comodidad los 'modelos de humanidad'. Estos modelos se construyen como dispositivos teóricos para explicar fenómenos o accionar proyectos, y de hecho algunos están en la discusión de los elementos más débiles de la argumentación sobre la deshumanización (en tu texto están claramente reconocidos).La humanización como modelo tiene su expresión en los *homini* (homo oeconomicus, homo technicus, homo ludens) que no implican necesariamente esencialización porque puede hacerse como marco de comprensión para prácticas humanas, pero describe personas limitadas no universales.
 
 Un *homo ludens*, por ejemplo, puede explicar cómodamente varias prácticas que podrían considerarse deportivas más allá de las reconocidas en occidente y puede ser un buen marco comparativo.
 
@@ -65,7 +64,7 @@ Un tercer marco de interpretación, que supongo sería más útil e interesante,
 
 La subjetivación puede verse como la disciplinación del cuerpo de Foucault, o como el Habitus de Bourdieu, pero debe involucrar un proceso donde mente-cuerpo forman un todo (a diferencia, otra vez, de la idea occidental más común).
 
-La humanidad como proceso sociohistótico de subjetivación cognitivo-corporal sigue siendo constructivista pero cambia el enfoque de la discusión sobre la deshumanización.
+La humanidad como proceso sociohistórico de subjetivación cognitivo-corporal sigue siendo constructivista pero cambia el enfoque de la discusión sobre la deshumanización.
 
 Si la humanización es un proceso variable y plural, puede plantearse el problema de forma diferente:
 

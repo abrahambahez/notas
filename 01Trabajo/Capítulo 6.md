@@ -1,0 +1,3 @@
+## El monte como objeto de disputa cultural
+
+Los diversos significados atribuidos al monte por los agentes son una de las más importantes fuentes de tensión. Es el centro de la defensa de los proyectos Misné y paseo Copó, es el objeto de apropiación por parte de inmobiliarias. Los significados que se le atribuyen van desde "terreno ocioso o improductivo" hasta fuente de recursos domésticos básicos como la leña, y todavía en algunos casos, como la madera para construir la estructura de una casa.
