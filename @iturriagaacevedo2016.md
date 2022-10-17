@@ -1,10 +1,10 @@
 ---
 title: Las élites de la ciudad blanca. 
-subtitle: "Capítulo 5. La doxa: estereotipos y prejuicios"
+subtitle: "Resumen del Capítulo 5. La doxa: estereotipos y prejuicios"
 author: Sergio Abraham Barrera Hernández
 date: 2022-09
 lang: es
-bibliography: /home/sabhz/dev/notas/referencias.bib
+bibliography: /home/sabhz/Documentos/notas/referencias.bib
 ---
 El capítulo 5 del libro aborda el concepto de *doxa*, entendido como *lo que expresamos o decimos* (p. 207), específicamente a través de *estereotipos* y *prejuicios*. El análisis parte de la técnica de la foto-interpretación con jóvenes estudiantes de preparatoria pertenecientes a la élite tradicional meridana y de una etnografía de las *discotecas* frecuentadas por esos jóvenes.
 
@@ -17,5 +17,3 @@ En la etnografía sobre las *discotecas* puede observarse que las dinámicas de 
 Las visitas a las *discotecas* son fuente de producción de un imaginario que reproduce los modelos de orden ideal de la élite a través de revistas centradas en fotografía de sociales que *filtra* bajo criterios estrictos, implícitamente estandarizados, la construcción visual de la *bondad* estética, moral, social y económica.
 
 ## Ficha
-
-@iturriagaacevedo2016

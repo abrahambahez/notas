@@ -10,30 +10,30 @@ number headings: _.1.1.
 ![[Cap Introduccion v1]]
 
 # Parte 1. Marco interpretativo
-![[Capítulo 1]]
+![[Capítulo 1 Marco epistémico]]
 
-![[Capítulo 2]]
+![[Capítulo 2 Marco conceptual]]
 # Parte 2. Territorialización y dinámicas de organización socioespacial
-![[Capítulo 3]]
+![[Capítulo 3 Historia Mérida]]
 
-![[Capítulo 4]]
+![[Capítulo 4 Centro-Periferia]]
 
-![[Capítulo 5]]
+![[Capítulo 5 Zonificación]]
 
-![[Capítulo 6]]
+![[Capítulo 6 Monte]]
 
-![[Capítulo 7]]
+![[Capítulo 7 Lo privado]]
 # Parte 3. Los otros espacios de negociación y tensión
 
-![[Capítulo 8]]
+![[Capítulo 8 Vivienda]]
 
-![[Capítulo 9]]
+![[Capítulo 9 Movilidad]]
 
-![[Capítulo 10]]
+![[Capítulo 10 Vecindad]]
 
-![[Capítulo 11]]
+![[Capítulo 11 Espacio Público]]
 
-![[Capítulo 12]]
+![[Capítulo 12 Etnicidad]]
 # Conclusiones
 
 ![[Cap Conclusiones]]

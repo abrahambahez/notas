@@ -4,6 +4,8 @@
 
 La idea de escala tiene un doble propósito.  Primero, es un recordatorio de que las barreras teórico-disciplinarias no describen fenómenos delimitados en el mundo real (sea lo que sea que signifique), sino objetos de estudio *construidos* con un fin, generalmente el de simplificar la complejidad. Segundo, permite seguir una estrategia *de a pie*, en contraste con la estrategia *de vuelo*. Ambas estrategias son útiles, pero la primera es mucho menos común.
 
+#### Escala y verdad científica
+
 El objeto disciplinario busca la generalización al abstraer las características de su interés epistémico y asumir que otros factores pueden ser ignorados o tratados teóricamente como constantes. Por ejemplo, para @giere2010, la construcción escalar nos lleva a encontrar serias diferencias en la naturaleza a diferentes escalas, pero que presentan aún así ciertas propiedades de continuidad; por ejemplo, las diferencias entre la escala cuántica y macroscópica, la paradoja de la línea de costa, los anillos de especies, aquello que @dawkins1993 llama *mente discontinua*. <!-- Revisa @lempert2016 -->
 
 La escala produce diferencias que pueden clasificarse, pero también paradojas de continuidad; a cambio, resuelve el problema de los esquemas naturales de clasificación. Si pensamos la relación entre el mundo y el problema del continuo: **dado que el mundo parece ser un continuo complejo, la clasficación no es realista, sino artificial**. Un ejemplo es la construcción de fronteras:
@@ -22,8 +24,9 @@ Aquí es donde radica el verdadero problema, porque:
 * Una vez que la comunidad de conocimiento ha adoptado el sistema clasificatorio, éste adopta un *estatus cognitivo y epistémico* de veracidad, aunque no haya adoptado el *estaus ontológico* de *real*.
 * La utilización de algún sistema de clasificación aceptado por una comunidad de conocimiento puede ser útil desde la mirada de la razón instrumental o subjetiva y eso es suficiente para ser considerado, al menos temporalmente, un equivalente práctico desde el punto de vista de la *razón objetiva*.
 
-El constructivismo social y alguna especie de *realismo* más débil pueden convivir perfectamente para explicar el mundo; sin embargo, la tarea *interpretativa* (y eso es en lo que se convierte toda ciencia bajo esta mirada) es inacabable. <!--
-Lectura pendiente: <http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1900-54072013000100003&lng=en&nrm=iso> -->
+El constructivismo social y alguna especie de *realismo* más débil pueden convivir perfectamente para explicar el mundo; sin embargo, la tarea *interpretativa* (y eso es en lo que se convierte toda ciencia bajo esta mirada) es inacabable.
+
+#### Escala y antropología
 
 ### Espacio
 El espacio, como constructo teórico, es un término amplio, polisémico y con múltiples usos que van desde su concepción formal hasta su definición cualitativa determinada por relaciones socioculturales históricamente desarrolladas.
@@ -67,7 +70,6 @@ La agencia es un constructo teórico que busca explicar la acción de los sujeto
 
 Una práctica puede ser evaluada como espontánea o reproductora de una estructura en algún grado. Por eso es que desde el punto de vista del sujeto, la agencia es el medio de reproducción de las estructuras sociales: a través de la acción que *repite* un modo de saber, de hacer o de pensar, la estructura se autoreproduce [cfr. @joyceylopiparo2005]. Sherry @ortner1993 [p. 40] traduce el término *agencia* como «intervención humana».
 
-En antropología la agencia se entiende en relación con la noción de *estructura* [@keane2003], sobre todo a partir de la teoría de la estructuración de @giddens1986. También ha considerado procesos de atribución de *personidad*, o *personhood* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007].
+En antropología la agencia se ha entendido sobre todo en relación con la noción de *estructura* [@keane2003], espacialmente desde la teoría de la estructuración de @giddens1986. También ha considerado procesos de atribución de *personidad*, o *personhood* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007]. <!-- https://journals.openedition.org/ateliers/8516 -->
 
-<!-- https://journals.openedition.org/ateliers/8516 -->
 Para este trabajo, la relación entre agencia y espacio implica la capacidad de los agentes para movilizar, ocupar, producir y experimentar con recursos espaciales desde su contexto experiencial más básico hasta en sus trayectorias vitales y su historia relacional, vista como la que da sentido a cambios y permanencias materiales, familiares, intersubjetivas, políticas y culturales.
