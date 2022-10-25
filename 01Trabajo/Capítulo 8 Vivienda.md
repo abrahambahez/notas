@@ -18,6 +18,11 @@ El caso de una vivienda naciente en Chablekal que combina tecnologías y saberes
 
 Memoria doméstica: Experiencias de lo doméstico según las entrevistadas, que pasa por raza, clase y género; además de afinidades y conflictos inter-comunitarios, dentro de cuyas grietas se filtra un insidioso rompimiento del tejido colectivo.
 
-### Adaptaciones familiares a los nuevos contextos espaciales
+### Adaptaciones familiares a los nuevos conotextos espaciales
 
 Algunas familias en Cholul y Temozón han aprovechado la urbanización para integrarse completamente al modo de vida, los padres alcanzaron más estudios que otros vecinos de su generación y sus hijos tienen licenciaturas y posgrados, para ellos los cambios han sido ventajosos y en algunos sentidos deseables. Las ideas y emociones relacionadas con la "zona" son mayormente positivas y se enorgullecen del "prestigio" que ha ganado la zona.
+
+### Vivienda, racismo, género y clase
+
+- Ve las fotos de este fraccionamiento: https://www.bi07.com.mx/d/17319-LUANA-en-Santa-Gertrudis-Copo
+- 

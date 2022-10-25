@@ -7,7 +7,7 @@ tags: instrumento
 - Fecha y hora
 - Orientación de la casa (respecto a los puntos cardinales)
 - Temperatura
-- Circulación del aire <!--- Investigar el término «la esquina del fraile» -->
+- Circulación del aire <!--- Investigar el término «la esquina del fraile» https://cvc.cervantes.es/foros/leer_asunto1.asp?vCodigo=51066 -->
 - Notas generales sobre el entorno
 - Tecnologías relacionadas con la humedad y el agua (inundaciones)
 
