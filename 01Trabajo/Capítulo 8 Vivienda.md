@@ -25,4 +25,4 @@ Algunas familias en Cholul y Temozón han aprovechado la urbanización para inte
 ### Vivienda, racismo, género y clase
 
 - Ve las fotos de este fraccionamiento: https://www.bi07.com.mx/d/17319-LUANA-en-Santa-Gertrudis-Copo
-- 
+- [[casa como proyecto]] 
