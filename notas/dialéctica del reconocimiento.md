@@ -1,6 +1,6 @@
 ### dialéctica del reconocimiento
 #### Observación introductoria
-El reconocimeinto es un proceso teórico-práctico, abierto y frágil en sus conquistas y logros, susceptible de contradicciones y no necesariamente simultáneo, por eso se habla de una *dialéctica del reconocimiento*, hablar de reconocimiento es hablar de un problema de desigualdad, por tanto, de conflicto e injusticia (p. 63). El reconocimiento ha sido insuficiente para *«curar la patología de aquellos que se creen superiores y con derecho, por tanto, a regatearle a otros su dignidad humana»* (p. 64).
+El reconocimeinto es un proceso teórico-práctico, abierto y frágil en sus conquistas y logros, susceptible de contradicciones y no necesariamente simultáneo, por eso se habla de una *dialéctica del reconocimiento*, hablar de reconocimiento es hablar de un problema de [[desigualdad]], por tanto, de conflicto e injusticia (p. 63). El reconocimiento ha sido insuficiente para *«curar la patología de aquellos que se creen superiores y con derecho, por tanto, a regatearle a otros su dignidad humana»* (p. 64).
 
 #### Algo de historia
 Lo que debe llamar la atención no es el reconocimiento sino la negación de la humanidad y la negación de los derechos del otro y además que esas prácticas, calificadas como patológicas, sean normalizadas, y no causen escándalo.

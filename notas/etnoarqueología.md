@@ -1,4 +1,4 @@
-La etnoarqueología es una práctica de investigación que consiste en la realización de trabajo etnográfico por arqueólogos, antropólogos con formación arqueológica, usando métodos de la arqueología, o bien, realizada con el fin de ayudar en la interpretación arqueológica. Se interpreta también como el *estudio etnográfico de culturas vivas desde perspectivas arqueológicas* @hernandezalvarez2011.
+La etnoarqueología es una práctica de investigación que consiste en la realización de trabajo etnográfico por arqueólogos, antropólogos con formación arqueológica, usando métodos de la [[arqueología]], o bien, realizada con el fin de ayudar en la interpretación arqueológica. Se interpreta también como el *estudio etnográfico de culturas vivas desde perspectivas arqueológicas* @hernandezalvarez2011.
 
 Se basa en el principio de la [[analogía]] como método para desarrollar modelos de interpretación o [[marcos de referencia]] que permitan interpretar el pasado a través de prácticas presentes.
 

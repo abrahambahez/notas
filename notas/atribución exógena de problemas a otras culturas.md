@@ -4,9 +4,7 @@ Cuando identifico una violencia que ya conozco en un contexto diferente al mío,
 
 Así, para @bartolome2008 hay un problema de comunicación intercultural en la relación que define las identidades entre grupos indígenas y grupos no indígenas.
 
-Cuando yo interpreto que en otro contexto cultural se padece el mismo problema social que yo identifico en el mío (por ejemplo, que todas las mujeres del mundo son oprimidas por el *patriarcado*), niego las particularidades históricas y culturales de ese otro contexto, por tanto, no puedo *simplemente* declarar que todas sufren la *misma violencia*, pasando por alto esas particularidades que atraviesan las subjetividades de quienes padecen violencia.
-
-Sin embargo, ante esta declaración caben dos anotaciones:
+Cuando yo interpreto que en otro contexto cultural se padece el mismo problema social que yo identifico en el mío (por ejemplo, que todas las mujeres del mundo son oprimidas por el *patriarcado*), niego las particularidades históricas y culturales de ese otro contexto, por tanto, no puedo *simplemente* declarar que todas sufren la *misma violencia*, pasando por alto esas particularidades que atraviesan las subjetividades de quienes padecen violencia. Sin embargo, ante esta declaración caben dos anotaciones:
 
 1. Del hecho de que un acto de violencia o dominación sea distinto culturalmente a los míos, no se sigue que la violencia o dominación no existan, sino que son construidas, practicadas y padecidas de forma distinta en cada cultura
 2. La forma intercultural más *«respetuosa»*  posible de abordar este problema es no intervenir con mis marcos culturales universalistas (por ejemplo, los derechos humanos), sino que debería, cuando menos:

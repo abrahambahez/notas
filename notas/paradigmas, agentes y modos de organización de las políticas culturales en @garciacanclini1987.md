@@ -1,4 +1,4 @@
-@garciacanclini1987 [pp. 27-53] ensaya un *«esquema de clasificación»* de los paradigmas de las políticas culturales considerando a los agentes que las sustentan, sus objetivos generales y los modos en que buscan lograrlos:
+Como parte de su [[crítica a las políticas culturales]], @garciacanclini1987 [pp. 27-53] ensaya un *«esquema de clasificación»* de los paradigmas de las políticas culturales considerando a los agentes que las sustentan, sus objetivos generales y los modos en que buscan lograrlos:
 
 1. **Mecenazgo liberal.** Sus agentes son las *fundaciones industriales y las empresas privadas*; sus objetivos son la difusión del patrimonio y su desarrollo a través de la libre creatividad individual; buscan lograrlo a través del apoyo a la creación y distribución discrecional de la alta cultura.
 2. **Tradicionalismo patrimonialista.** Sus agentes son *el Estado, partidos e instituciones culturales «tradicionales»*; sus objetivos son la preservación del patrimonio folclórico como núcleo de la identidad nacional; buscan lograrlo a través de, uso del patrimonio tradicional como espacio no conflictivo para la identificación de todas las clases.

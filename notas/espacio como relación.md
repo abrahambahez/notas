@@ -1,1 +1,1 @@
-Privilegia la dimensión de [[movilidad]] del [[espacio]].
+El espacio como relación representó una forma de [[giro espacial]] que pone atención a dimensiones relacionales, no necesariamente locativas de lo espacial. De acuerdo con @sheller2017, las espacialidades móviles, o espacios relacionales, son un énfasis en la dimensión dinámica que en sociología promovió un nuevo paradigma a partir de los trabajos de John Urry.

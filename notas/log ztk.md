@@ -94,7 +94,7 @@ Un enlace entrante con el propósito de definición crea una definición implíc
 
 Otro de los propósitos es instanciar.
 
-Otro de los propósitos es fundamentar o brindar evidencia que soporte el contenido, los enlaces que cumplen esta función pueden llamarse **citas**. En tanto tales, brindan autoridad al contenido (salientes) o importancia (entrantes).
+Otro de los propósitos es fundamentar o brindar evidencia que soporte el contenido, los enlaces que cumplen esta función pueden llamarse **citas** (cfr. [[citacionalidad]]. En tanto tales, brindan autoridad al contenido (salientes) o importancia (entrantes).
 
 ## 2022-03-23 
 Contra los MOC
@@ -125,3 +125,18 @@ After that, develop the constructivist method:
     - construction of the atomic note (elaboration and prose)
     - construction of the linking (thinking before linking)
         - graph structuration as a multilevel tree folgezettel 
+
+### Architectural principles: material is content, keep it raw
+
+**Truth to materials**
+
+1. Escribir con un subconjunto de marcado mínimo necesario con un uso semántico consistente
+2. Escribir con la sintaxis de markdown visible (contenido >> marcado o estética)
+3. El performance es una funcionalidad: <https://brutalist-web.design/#performance>
+    - Minimizar plugins de la comunidad
+    - Desactivar plugins siempre que sea posible
+    - CSS snippets > temas
+
+## Structural principles: structure is linking
+
+[[ensayo sobre escritura colaborativa en obsidian]]

@@ -17,4 +17,4 @@ Referencias interesantes:
 - Cursos de GitHub
     - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
     - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
-- 
+- Revisa esta serie de ensayos muy interesantes sobre open-source y noosfera: [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)

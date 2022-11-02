@@ -6,4 +6,4 @@ La categorización es una [[estrategia metodológica]] que procede inductivament
 	- Si hay patrones comunes identificables podemos crear *un nuevo término* que indique, más o menos, ese patrón para cada miembro que lo tenga y así usar ese término como una nueva categoría
 - Este proceso se hace de forma *iterativa*: creando categorías y ajustándolas (incluso desechándolas) según su relevancia mientras se va revisando o ampliando la muestra
 
-Las categorías resultantes generarían una descripción de segundo nivel, que permitiría *estructurar* la muestra de cierta forma. La descripción coherente (en términos lógicos o narrativos de la estructura es el análisis de sus cateogorías.
+Las categorías resultantes generarían una descripción de segundo nivel, que permitiría *estructurar* la muestra de cierta forma. La descripción coherente (en términos lógicos o narrativos de la estructura es el análisis de sus categorías.

@@ -8,4 +8,4 @@ Las características de estos son:
 
 En las pp. 44-45 se discuten los modos en que la tradición es institucionalizada en algunas sociedades, donde se enseña de ciertas formas, como la repetición evaluada, y se cuida su adecuada reproducción bajo ciertas normas, como castigos por mala recitación
 
-A manera de comentario crítico, el ejemplo anterior es erróneo en tanto entiende la cadena de transmisión como una línea y no como una red, cuyas propiedades permiten elementos como la retroalimentación positiva y negativa, la viralización o la clusterización.
+A manera de comentario crítico, el ejemplo anterior es erróneo en tanto entiende la cadena de transmisión como una línea y no como una red, cuyas propiedades permiten elementos como la [[retroalimentación]] positiva y negativa, la viralización o la clusterización.

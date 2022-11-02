@@ -1,4 +1,4 @@
-El interculturalismo es la variante del [[culturalismo]] que hace referencia a la *interacción* entre culturas, y no meramente a su existencia (o co-existencia); también se refiere, en términos ético-políticos, a la idea de entablar una relación ingualitaria entre ellas; entre otros varios sentidos. Por ejemplo, @barabas2018 [p. 24] propone que el término sea entendido bajo dos acepciones:
+El interculturalismo es la variante del [[culturalismo]] que hace referencia a la *interacción* entre culturas, y no meramente a su existencia (o co-existencia); también se refiere, en términos ético-políticos, a la idea de entablar una relación igualitaria entre ellas; entre otros varios sentidos. Por ejemplo, @barabas2018 [p. 24] propone que el término sea entendido bajo dos acepciones:
 
 1. De uso común y no situacional; que se refiere genéricamente al contacto entre culturas y reconoce la diferencia entre ellas
 2. De uso literario-científico y situacional; que alude al contacto entre culturas diversas en el marco de la globalización, el multiculturalismo y los derechos humanos.

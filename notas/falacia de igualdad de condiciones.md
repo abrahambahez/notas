@@ -4,7 +4,7 @@ sources: "Salas, J. (2021). La meritocracia y otros mecanismos psicológicos que
 
 Es el [[sesgo]] de quienes consideran que las desigualdades actuales del mundo pueden ser ignoradas en la creación de políticas contemporáneas porque suponen que los actores están en igualdad de condiciones (puede que lo estén *de iure*, pero no *de facto*). 
 
-A través de la invisibilización de las relaciones de desigualdad, se ignora el fundamento *retributivo* de cualquier *política que busca igualar las oportunidades*, lo que tiene como resultado la reproducción de las relaciones de hegemonía - subalternización-, en el mejor de los casos; o la profundización de las mismas, en el peor.
+A través de la invisibilización de las relaciones de [[desigualdad]], se ignora el fundamento *retributivo* de cualquier *política que busca igualar las oportunidades*, lo que tiene como resultado la reproducción de las relaciones de hegemonía - subalternización-, en el mejor de los casos; o la profundización de las mismas, en el peor.
 
 Es evidentemente falso que una política que busca equilibrar una condición de desigualdad pueda partir de la asunción de que todos están en igualdad de condiciones. Pero las ideas y prejuicios que se basan en esta falacia son comunes, por ejemplo:
 

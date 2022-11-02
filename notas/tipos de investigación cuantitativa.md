@@ -1,4 +1,4 @@
-## tipos de investigación cuantitativa
+Cada [[estrategia metodológica]] tiene en común su centralidad en la cuantificación.
 
 Exploratoria
 >Los estudios exploratorios se realizan cuando el objetivo es examinar un tema o problema de investigación poco estudiado, del cual se tienen muchas dudas o no se ha abordado antes. Es decir, cuando la revisión de la literatura reveló que tan sólo hay guías no investigadas e ideas vagamente relacionadas con el problema de estudio, o bien, si deseamos indagar sobre temas y áreas desde nuevas perspectivas p. 91

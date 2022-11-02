@@ -1,6 +1,6 @@
 Para @ahrens2017 [p. 57], desarrollar [[intuición experta]] es mejor que la planificación en contextos de investigación: *«Don’t make plans. Become an expert.»*.
 
-Esta forma de abordaje privilegia cosas como la ==cognición encorporada== (p. 58 · Posición 1212) o el ==enactivismo== y requiere ciclos de retroalimentación cortos y constantes, porque es un proceso iterativo, no lineal. Para Ahrens: *«gut feeling is not a mysterious force, but an incorporated history of experience»* (p. 59 · Posición 1243)
+Esta forma de abordaje privilegia cosas como la ==cognición encorporada== (p. 58 · Posición 1212) o el ==enactivismo== y requiere ciclos de retroalimentación cortos y constantes, porque es un [[proceso iterativo]], no lineal. Para Ahrens: *«gut feeling is not a mysterious force, but an incorporated history of experience»* (p. 59 · Posición 1243)
 
 >An expert in academic writing has a feel for the process, an acquired intuition for which task will bring one closer to the finished manuscript and what is only a distraction.(p. 58 · Posición 1213)
 

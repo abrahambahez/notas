@@ -4,8 +4,6 @@ según @torres-mazuera2020a
 
 La tierra rural o agrícola es un derecho fundamental porque  da acceso a otros derechos humanos: al medio ambiente sano, a la [[vivienda]], y a la alimentación segura y de calidad, etcétera (p. 41)
 
-Este enfoque implica cambios importantes respecto a la [[privatización de la propiedad agraria en México]]. Integra una nueva dimensión
-
 "Lo que está en juego en este nuevo enfoque de la propiedad como fenómeno social es, entonces, la protección de personas y modos de vida con un valor intrínseco" (p. 41)
 
 "La formalización de los derechos como legalización de éstos" (p. 41)

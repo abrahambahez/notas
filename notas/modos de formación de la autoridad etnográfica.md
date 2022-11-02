@@ -5,3 +5,5 @@ Las formas de autoridad que Clifford reconoce son: experiencial, interpretativa,
 Primero, la antropología privilegió la voz testimonial, el *[[estar ahí]]*; posteriormente lo hizo con el trabajo teórico que *devela la estructura profunda* de las realidades culturales, es decir, la interpretación. Después fue la voz que se le da en el texto al informante clave a manera de co-autor, y la última, una forma más actual es una elaboración múltiple de la anterior: muchas voces.
 
 >*«Si la etnografia produce interpretaciones culturales a partir de intensas experiencias de investigación, ¿cómo es que la experiencia, no sujeta a reglas, se transforma en informe escrito autorizado?»* [@clifford1991, p. 42]
+
+<!-- leer: http://www.luguiva.net/admin/pdfs/Mauricio%20Pardo.pdf -->

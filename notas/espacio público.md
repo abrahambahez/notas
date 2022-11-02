@@ -1,7 +1,7 @@
 <!-- elaborar definición -->
-@morente2018 realiza una revisión de literatura sobre el espacio público y describe algunas tendencias de estudio.
+@morente2018 realiza una revisión de literatura sobre el [[espacio]] público y describe algunas tendencias de estudio.
 
-Identifica uyn primer grupo se enfoca en estudiar casos de uno o varios espacios públicos [@morente2018, pp. 51-52], con algunos intereses temáticos que forman subgrupos:
+Identifica un primer grupo se enfoca en estudiar casos de uno o varios espacios públicos [@morente2018, pp. 51-52], con algunos intereses temáticos que forman subgrupos:
 
 - Uso y exclusión de ciertos colectivos   
 - Privatización del espacio público (visto como declive)

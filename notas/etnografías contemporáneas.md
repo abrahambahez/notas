@@ -4,3 +4,7 @@ Lista de [[dispositivos etnográficos]] emergentes, disidentes o no convencional
 - Dirigir el texto hacia la propia cultura local (usar una ortografía específica para la lengua origninaria, darle un propósito didático de reproducción, pensar en el lector nativo), haciendo una co-autoría con los *'informantes'*, como en *Piman Shamanism* (2017), de Bahr, Gregorio et al. [@clifford1991, citado en p. 72]
 - [Labtee - Laboratorio Transdisciplinario de Etnografía Experimental](https://fic.edu.uy/grupo/labtee-laboratorio-transdisciplinario-de-etnografia-experimental)
 - @marcus2013; @andradeandradeetal2017; @severino2017
+- [[parasitio]]
+- [[paisaje sonoro antropológico]]
+- [[etnografía performativa]]
+- [[etnografía de parches]]

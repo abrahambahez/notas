@@ -15,7 +15,7 @@ La anarquía es la doctrina política que pugna por la abolición de la jerarqu�
 - insurreccionalismo
 - anarcosindicalismo
 - anarcocapitalismo
-- primitivismo
+- [[primitivismo]]
 - postanarquismo
 - anarquismo filosófico
 

@@ -10,7 +10,7 @@ En esta acepción, la cultura se asemeja a la ideología. Por lo tanto se dirige
 - La cultura como espacio de reproducción social y lucha por la hegemonía (p. 37)
     - Sustituye eventualmente, para la clase hegemónica, al poder represivo y hace parecer el estado de cosas como natural
 
-El trabajo de Bourdieu aborda la con una combinación de economía, sociología y psicología. Para él los bienes culturales acumulados en la historia de cada sociedad no pertenencen *realmente* a todos (aunque *formalmente* sean ofrecidos a todos), sino a aquellos que cuantan con los medios para apropiárselos (p. 42). Además el concepto de *habitus* que integra lo estructurante y lo estructurador
+El trabajo de Bourdieu aborda la con una combinación de economía, sociología y psicología. Para él los bienes culturales acumulados en la historia de cada sociedad no pertenencen *realmente* a todos (aunque *formalmente* sean ofrecidos a todos), sino a aquellos que cuantan con los medios para apropiárselos (p. 42). Además el concepto de *[[habitus]]* que integra lo estructurante y lo estructurador
  
 Los *aparatos culturales* son las instituciones que administran, transmiten y renuevan el capital cultural.
 
