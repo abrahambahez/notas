@@ -7,13 +7,17 @@ lang: es
 number headings: _.1.1.
 ---
 # Introducción
+
 ![[_c0 Introduccion v1]]
 
 # Parte 1. Marco interpretativo
+
 ![[_c1 Marco epistémico]]
 
 ![[_c2 Marco conceptual]]
+
 # Parte 2. Territorialización y dinámicas de organización socioespacial
+
 ![[_c3 Historia Mérida]]
 
 ![[_c4 Centro-Periferia]]
@@ -23,6 +27,7 @@ number headings: _.1.1.
 ![[_c6 Monte]]
 
 ![[_c7 Lo privado]]
+
 # Parte 3. Los otros espacios de negociación y tensión
 
 ![[_c8 Vivienda]]
@@ -34,7 +39,9 @@ number headings: _.1.1.
 ![[_c11 Espacio Público]]
 
 ![[Capítulo 12 Etnicidad]]
+
 # Conclusiones
 
-![[_c Conclusiones]]
+![[_c13 Conclusiones]]
+
 # Referencias

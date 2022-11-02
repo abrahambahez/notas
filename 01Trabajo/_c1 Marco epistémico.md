@@ -32,5 +32,6 @@ Un marco epistemológico, usado como *marco comparativo* entre teorías, permite
 
 ### Lecturas
 
-En este trabajo, una interpretación teórica se entenderá como una *lectura*. Cada lectura depende de un marco epistemológico que la vuelve *evaluable*, es decir, que le da su fuerza veritativa. Algunas lecturas pueden ser contradictorias entre sí, porque se ubican en marcos diferentes, pero eso no implica necesariamente que sólo una deba ser verdadera, y el análisis de la contradicción puede ser más valioso que el de la proposición misma.
+En este trabajo, una interpretación teórica se entenderá como una *lectura*. Cada lectura depende de un marco epistemológico que la vuelve *evaluable*, es decir, que le da su fuerza veritativa. Algunas lecturas pueden ser contradictorias entre sí, porque se ubican en marcos diferentes, pero eso no implica necesariamente que sólo una deba ser verdadera, y el análisis de la contradicción puede ser más valioso que el de la proposición misma. 
 
+Para elaborar más: [[mirada]], [[autoridad epistémica]], [[modos de formación de la autoridad etnográfica]] y [[conocimiento etnográfico]]

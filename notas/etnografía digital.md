@@ -3,3 +3,4 @@ Un artículo sobre [netnografía en comunidades virtuales cerradas](https://esch
 
 Un capítulo en O'Reilly sobre etnografía en el contexto de [Managent of Extreme Situations](https://learning.oreilly.com/library/view/management-of-extreme/9781786301291/c05.xhtml#c05)
 
+https://jdsr.se/ojs/index.php/jdsr/article/view/24/16
