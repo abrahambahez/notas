@@ -10,7 +10,7 @@ De acuerdo con @haak2021 [cap. 5, sec. 'The Secret of High-Performing Companies'
 Más adelante ofrece una visión unificada alrededor de OKRs de difetentes tamaños:
 
 - Ultimate OKRs: largo plazo, relacionado a la visión, propuestos por ejecutivos
-    - Deben acompañarse de *health metrics*, cuantificaciones sobre el estado financiero de la compañía
+    - Deben acompañarse de *health metrics*, cuantificaciones sobre el estado financiero de la compañía ([[indicadores financieros de startups]])
 - Annual Company OKR: plazo mediano (un año), definidos ejecutivamente con retroalimentación multidisciplinaria. Requiere una visión, misión y valores claros, métricas de salud y el *critical number* (KPI principal, tipo *North Star Metric*)
 - Q-OKRs: Duran un trimestre, corto plazo; definidos ejecutivamente con retroalimentación multidisciplinaria. Requiere de OKRs anuales
 - *Bottom-up OKRs*: *If you install this practice, make sure you treat the outcome of the poll with respect and seriously consider the result.*

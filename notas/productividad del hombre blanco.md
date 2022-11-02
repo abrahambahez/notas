@@ -1,4 +1,4 @@
-La productividad del hombre blanco podría considerarse una falacia informal derivada del [[sesgo colonial]], en la cual se *venden* ciertas fórmulas para el éxito occidental generalizando su *efectividad global*, ignorando las condiciones sociohistóricas, frecuentemente usando la [[falacia del mérito]].
+La [[productividad]] del hombre blanco podría considerarse una falacia informal derivada del [[sesgo colonial]], en la cual se *venden* ciertas fórmulas para el éxito occidental generalizando su *efectividad global*, ignorando las condiciones sociohistóricas, frecuentemente usando la [[falacia del mérito]].
 
 @reagle2019 [cap. 3, sec. desigualdad] cita la crítica de Alice Marwick a Tim Ferris cuando dice que él:
 
