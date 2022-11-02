@@ -14,3 +14,5 @@
     - Se trata de crear procesos automáticos a partir de texto plano (me recuerda a los procesos de [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) pero aplicado a humanos).
     - Mira el ejemplo de la app para Mac Bunch: https://bunchapp.co/
 
+## Ideas
+- [[log ztk]]

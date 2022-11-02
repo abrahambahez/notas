@@ -3,3 +3,4 @@ Giro cualitativo
 - horario abierto
     - orientación a resutados
 - vacaciones abiertas
+- [[trabajo asincrónico]]

@@ -33,7 +33,7 @@ A partir de un análisis histórico conluye con cuatro dicotomías de deshumaniz
 
 1. Civilización vs salvajismo
 2. Nosotros vs enemigos
-3. Monoteísmo vs politeísmo (que se sustituye por amateurismo vs profesionalismo para el análisis)
+3. Monoteísmo vs politeísmo (que se sustituye por [[amateurismo]] vs profesionalismo para el análisis)
 4. Hombres vs mujeres
 
 ## Comentarios generales

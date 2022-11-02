@@ -10,3 +10,10 @@ En función de las combinaciones de esos elementos se producen diversas *configu
 Se puede concluir que [[una estructura social es una forma estable de relaciones entre los miembros del grupo]].
 
 El criterio central sobre el que se establecen las relaciones permite categorizarlas un poco más específicamente, por ejemplo, en relación con la *autoridad* o *el poder* que unos miembros pueden tener sobre otros, lo que convierte a esa forma en un modelo de [[jerarquía]] social.
+
+<!--
+Para hacer notas sobre la teoría de sistemas, la teoría de redes y las estructuras [[jerarquía]] y [[heterarquía]]:
+
+- https://subconscious.substack.com/p/wiki-as-a-commons
+- https://subconscious.substack.com/p/network-intersubjectives
+-->

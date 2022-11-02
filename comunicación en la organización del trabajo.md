@@ -1,6 +1,6 @@
 A finales de los años 90, el correo electrónico comenzó a volverse el estándar de comunicación laboral en el mundo interconectado. Para la segunda década del siglo XXI ya había perdido prestigio y comenzó a ser reemplazado por herramientas de mensajería más rápidas, algunas hechas para el trabajo, como Slack, otras hechas para comunicación informal, como WhatsApp.
 
-Las críticas giran en torno a que estas herramientas disminuyen la productividad. La relación entre el tiempo invertido en comunicación laboral versus el tiempo invertido en realizar el trabajo es un indicador de ello. Otras dimensiones como la frecuencia, la calidad, la relevancia contextual y la complejidad de la información o de las interacciones pueden también son relevantes.
+Las críticas giran en torno a que estas herramientas disminuyen la [[productividad]]. La relación entre el tiempo invertido en comunicación laboral versus el tiempo invertido en realizar el trabajo es un indicador de ello. Otras dimensiones como la frecuencia, la calidad, la relevancia contextual y la complejidad de la información o de las interacciones pueden también son relevantes.
 
 En un [artículo de su blog](https://www.calnewport.com/blog/2017/03/30/the-obvious-value-of-communication-is-perhaps-not-so-obvious/), Cal Newport escribió:
 

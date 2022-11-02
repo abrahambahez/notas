@@ -4,4 +4,4 @@ Cuando se interpreta la relación entre unos objetos *construidos* sobre un ento
 
 En un sentido similar es que puede construirse la crítica a una naturaleza (o un medio ambiente) desprovista de toda agencia, ya sea por la influencia occidental que la considera aquello que es no-cultural o no-social; o bien porque la agencia se concibe sólo en términos antropocéntricos.
 
-![[la naturaleza como agente]]
+![[naturaleza como agente]]
