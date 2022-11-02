@@ -1,4 +1,4 @@
-Esteban @krotz1993 [p. 21] afirma que desde Tylor, la antropología está estrechamente vinculada a la cultura y con ello, su destino epistémico y disciplinar ha estado sujeto a las controversias sobre el concepto. Si esto es así, no es de extrañar que uno de los párrafos fundacionales de la antropología como ciencia de la cultura es precisamente el párrafo introductorio al *Primitive Culture* de Tylor, y para entender los elementos de la noción clásica de cultura vale la pena citarlo completo:
+Esteban @krotz1993 [p. 21] afirma que desde Tylor, la antropología está estrechamente vinculada a la [[cultura]] y con ello, su destino epistémico y disciplinar ha estado sujeto a las controversias sobre el concepto. Si esto es así, no es de extrañar que uno de los párrafos fundacionales de la antropología como ciencia de la cultura es precisamente el párrafo introductorio al *Primitive Culture* de Tylor, y para entender los elementos de la noción clásica de cultura vale la pena citarlo completo:
 
 ![[cultura según @tylor1920]]
 

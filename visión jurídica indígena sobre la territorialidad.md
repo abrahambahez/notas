@@ -1,5 +1,5 @@
-según @torres-mazuera2020a
-La visión jurítica indígena es un órden jurisdiccional (cfr. [[ilegalidad e ilegitimidad en los tratos agrarios]]) que se da dentro de las comunidades indígenas.
+según @torres-mazuera2020a 
+La visión jurítica indígena es un órden jurisdiccional que se da dentro de las comunidades indígenas.
 
 Se rige por normas y leyes de diferentes niveles de competencia: 
 

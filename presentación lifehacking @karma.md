@@ -26,7 +26,7 @@
     - Culpa y regulación social
     - Productividad del hombre blanco
         - Ausencia de métricas como el periodo menstrual en la App de Salud de Apple
-    !@reagle2019 hackear el sentido#^2fa99c]]
+        - [[hacks de salud]]
 - Las herramientas son buenas, pero ¿y el camino?
     - Ser un *geek [[amateurismo|amateur]]*
     - Colectivismo en *open source* y el viejo Richard Stallman (crítica al excesivo enfoque de @reagle2019)

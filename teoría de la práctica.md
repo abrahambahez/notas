@@ -17,7 +17,7 @@ Por otra los elementos estructuradores como:
     - hábitos pericianos (disposiciones prácticas)
     - la noción de [[categoría serial]]
 
-Hay conceptos que están diseñados para contener ambas cosas dentro de sí, como el *habitus* de Bourdieu o la *estructuración* de Giddens.
+Hay conceptos que están diseñados para contener ambas cosas dentro de sí, como el *[[habitus]]* de Bourdieu o la *estructuración* de Giddens.
 
 Siguiendo a @johannesen2004, para analizar la práctica social como heterogénea en relación con las barreras sociales y espaciales, los conceptos de prácticas estructurantes y positividad estructurante son aplicados de forma operacional. Especialmente el concepto de positividad estructurante puede ser sustituido por el de [[etnicidad]], como uno más dinámico y flexible con connotaciones materiales y operacionales. 
 

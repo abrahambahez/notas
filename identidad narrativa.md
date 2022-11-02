@@ -1,3 +1,5 @@
+Una forma de [[identidad]] centrada en las estructuras de relatos.
+
 Elementos para comprender esta idea:
 
 - [Against Narrativity](https://lchc.ucsd.edu/mca/Paper/against_narrativity.pdf) de Galen Strawson, filósofo analítico que propone la tesis de un *yo-episódico* (narrativa corta) ante un *yo-diacrónico* (narrativa larga), en lo que llama *«psychological Narrativity thesis»*

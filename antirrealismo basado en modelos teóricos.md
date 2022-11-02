@@ -9,4 +9,3 @@ Dado que el uso de los términos *teoría*  y *ley* se usan para designar ambigu
 Los **modelos** son objetos abstractos que se construyen en conformidad con principios y *condiciones específicas*, los elementos que componen los modelos están orientados a corresponderse con aspectos del mundo real de modo que el modelo *los representa*. Lo hacen a través de *identificar las similaridades* entre el modelo y el mundo, que incluso no necesitan postular medidas *objetivas* de similaridad entre el modelo y el mundo real. Las leyes se convierten, bajo esta mirada, en partes de la caracterización de los modelos y dentro del ellos son verdaderas, fuera de ellos no tienen que serlo [@giere2004, p. 749].
 
 Los **propósitos** son el por qué son construidos y usados los modelos. El propósto general de un modelo es *aprender cómo son las cosas* [@giere2004, p. 749]; pero además de ese, cada modelo tiene propósitos específicos
-

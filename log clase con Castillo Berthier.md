@@ -18,7 +18,7 @@ En el directorio telefónico encontró muchas empresas que compraban *"materiale
 
 ## Trabajo de campo
 
-Trabajó 4 meses en el camión como ayudante. Un día lo reconocieron y le ofrecieron empleo como ayudante de la Tlapalería
+Trabajó 4 meses en el camión como ayudante. Un día lo reconocieron y le ofrecieron empleo como ayudante de la Tlapalería, describió la [[estructura económica de la basura en la Ciudad de México]].
 
 Santa Cruz Meyehualco se hizo a finales de los 60, la Unión de Pepenadores de la Ciudad de México tenía 15mil pepenadores. Pidió ride del camión para que lo llevara ahí. El olor es lo primero, las moscas después. Lo amenazaron de muerte cuando los encontró.
 
@@ -28,11 +28,7 @@ Las lagunas de contaminación. Son lugares [**lixiviados**](https://es.wikipedia
 
 ## Análisis sociológico
 
-Al terminar, escribió las siete historias de la vida de @castilloberthier1984, pero para publicar el trabajo tuvo otro año y medio de investigación sociológica, que luego de un acercamiento teórico se convirtió en @castilloberthier1983. Lo presentó a Enrique Valencia Valencia, quien le preguntó ¿qué te encontraste en el fondo de la basura? 
-
-"Una fotografía del sistema político mexicano". Respondió.
-
-*Quería referirse al contexto de corrupción que existía en ese momento (López Portillo)*
+Al terminar, escribió las siete historias de la vida de @castilloberthier1984, pero para publicar el trabajo tuvo otro año y medio de investigación sociológica, que luego de un acercamiento teórico se convirtió en @castilloberthier1983. Lo presentó a Enrique Valencia Valencia, quien le preguntó ¿qué te encontraste en el fondo de la basura?  "Una fotografía del sistema político mexicano". Respondió. *Quería referirse al contexto de corrupción que existía en ese momento (López Portillo)*
 
 ## Reflexión: la relacion entr la política y la basura
 
@@ -45,14 +41,14 @@ Fotos de chimalhuacán en 2013, como si no hubiera pasado nada. La colonia Renov
     Basura + Fuerza de trabajo = Mercancía
 
 
-3 etapas de circulación d ela basura
+3 etapas de circulación de la basura
 
     Generación, Recolección y Disposición final
     
-Analizar mecanismos formales e informales, las estructuras de poder, 
+Analizar mecanismos formales e informales, las estructuras de poder
 
 ## Ideas a partir de la plática
 
 ¿Por qué no nos interesa la basura? Una de las razones por las que él se interesó es precisamente que nadie hablaba de ella.
 
-¿Cómo acabar con cacicazgos de la basura?
+¿Cómo acabar con cacicazgos de la basura? [[caciquismo urbano y miseria]]

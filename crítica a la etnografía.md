@@ -4,4 +4,11 @@ Para @ingold2017 el abuso del término etnográfico es contraproducente tanto pa
 
 La etnografía es lo escrito y su intención es documental, la observación participante es un trabajo continuo de aprendizaje y co-creación, la antropología es *filosofía centrada en las personas*, confundir cada cosa sólo va en detrimento del valor que aporta. Específicamente, para Ingold, la [[etnografía]] es la menos deseable y la que tiene menos impacto.
 
-[[la investigación basada en observación es inseparable de los juicios de valor]]
+Otras elaboraciones son la idea del [[continuo cultural]], que [[la investigación basada en observación es inseparable de los juicios de valor]].
+
+Existen imposiciones en varias dimensiones que son dirigidas por el sujeto que investiga. Para @jocilesrubio2006 algunas de ellas son:
+
+- Imposición de contenido
+- Imposición de la perspectiva desde la que se habla (locus de enunciación)
+- Imposición de las premisas a partir de las cuales se habla
+- Imposición de las categorías desde las que se enfoca la realidad

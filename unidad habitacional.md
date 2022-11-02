@@ -1,1 +1,0 @@
-@hernandez2016 usa el término «unidad habitacional» o «unidad residencial» como concepto general para referirse a la [[vivienda]].

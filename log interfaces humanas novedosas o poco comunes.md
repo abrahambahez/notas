@@ -1,3 +1,0 @@
-- Gestos hápticos en teléfonos celulares (sacudir, girar, poner boca abajo)
-- Gestos hápticos (dactilares) en trackpads
-- 

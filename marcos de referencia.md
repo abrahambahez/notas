@@ -1,4 +1,4 @@
-Los marcos de referencia son  un [[constructo teórico]] que indica una red de analogías relacionales que mantienen un carácter uniformitario \[@hernandezalvarez2011, p. 30\] y que permiten realizar interpretaciones arqueológicas basadas en patrones comparativos. Estos marcos son producidos a partir de tres enfoques: la [[etnoarqueología]], analogía etnográfica transcultural y la arqueología experimental.
+Los marcos de referencia son  un [[constructo teórico]] que indica una red de analogías relacionales que mantienen un carácter uniformitario \[@hernandezalvarez2011, p. 30\] y que permiten realizar interpretaciones arqueológicas basadas en patrones comparativos. Estos marcos son producidos a partir de tres enfoques: la [[etnoarqueología]], analogía etnográfica transcultural y la [[arqueología]] experimental.
 
 Según @hernandezalvarez2011, los marcos de referencia tienen algunos casos de éxito que pueden hacerlos relevantes:
 

@@ -1,4 +1,3 @@
-# definición formal de affordance
 Este es el modelo inicial de la definición que propone Chemero, sigue la forma R(x,y) donde la relación R se da entre dos elementos relacionados:
 
 >Affords-φ (environment, organism), donde φ es una conducta (p.186)

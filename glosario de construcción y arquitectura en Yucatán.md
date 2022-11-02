@@ -1,7 +1,0 @@
-- **arriate**: Una franja delimitada de tierra para poner flores o plantas de adorno, usualmente en patios o puertas
-- **albarrada**: es una barda o pared de piedras manpuestas sin labrar, unidas sin argamasa ni mortero
-- [[pie de casa]]
-- Chukum: mezcla de la resina árbol homónimo (agua de chukum) con 
-- Rajuela: pequeñas piedras, como hojuelas que se pueden mamponer
-- Pisos de pastas: Pisos que tienen losetas de cerámica adornada con formas y colores diversos, a veces se ponen a manera de tapete
-- [Sascab](https://es.wikipedia.org/wiki/Sascab): es el nombre maya que se le daba a un tipo de piedra caliza utilizada como cal con diversos usos constructivos, entre los que se encuentran los antiguos *sacbeob* (plural de *sacbé*), o como aglutinante para los muros de mampostería

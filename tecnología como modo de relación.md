@@ -6,7 +6,7 @@ Los modos de relación son un concepto de Philippe Descola: «Formas de relació
 
 En la introducción:
 
-Mecanismo por el que se mimentizan la sociedad y la naturaleza (p. 11). Para eso hay que negar la dicotomía social-natural. Para ello la naturaleza debe poseer intencionalidad, subjetividad y [[agencia]]. ^e1ca33
+Mecanismo por el que se mimentizan la sociedad y la naturaleza (p. 11). Para eso hay que negar la dicotomía social-natural. Para ello la naturaleza debe poseer intencionalidad, subjetividad y [[agencia]].
 
 En contextos amerindios la relación sociedad-naturaleza es de sujeto-sujeto, y no como en occidente, sujeto-objeto (como en el marxismo, cfr. [@marx2017], Grundrisse)
 

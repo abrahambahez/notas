@@ -1,0 +1,1 @@
+El patrón de divergencia-convergencia es un patrón de trabajo desarrollado por varios modelos de [[pensamiento de diseño]] como el [diamante doble](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)), 

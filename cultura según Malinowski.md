@@ -1,4 +1,4 @@
-Según @kahn1975
+Construido a partir de @kahn1975
 
 El punto de partida de Malinowski es la división de las disciplinas antropológicas con base en dos criterios claramente separados, el primero de los aspectos es estudiado por la antropología física y el segundo por la cultural, según esta simple dicotomía:
 

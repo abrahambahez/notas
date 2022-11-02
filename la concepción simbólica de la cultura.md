@@ -8,4 +8,4 @@ Según el autor, *«es posible asignar un campo específico y relativamente aut�
 
 Así, la relación entre [[semiótica y cultura]] lleva a la *semiotización* de ésta, y deja ciertas consecuencias en su aplicación, como su importancia ordenadora del mundo social, su dinamización permanente pero también su relativa autonomía de estudio. La transversalidad de la cultura es consecuencia de su *onmipresencia* en la realidad social. Su textualización lleva a mirar discursos en todo acto social. 
 
-La cultura interiorizada se entiende en términos del *habitus* bourdiano, los *esquemas cognitivos* y las *representaciones sociales*, ninguna de estas aproximaciones realmente semiótica, por lo que cabe preguntarse por la relevancia de lo semiótico en la cultura a la hora de operacionalizarla a sus artefactos.
+La cultura interiorizada se entiende en términos del *[[habitus]]* bourdiano, los *esquemas cognitivos* y las *representaciones sociales*, ninguna de estas aproximaciones realmente semiótica, por lo que cabe preguntarse por la relevancia de lo semiótico en la cultura a la hora de operacionalizarla a sus artefactos.
