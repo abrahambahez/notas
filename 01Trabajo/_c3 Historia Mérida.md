@@ -7,3 +7,5 @@ La configuración socioterritorial de la ciudad de Mérida desde el periodo neol
 <!--
 Crear capítulo histórico en lugar de apartado: 1) posrevolución a 1992, 2) 1992 - 2010 (? qué pasó para que nazca el norte de Mérida, cuándo es nombrada mejor ciudad, cuándo comienza la burbuja inmobiliaria), 3 ) 2010 - 2020
 -->
+
+El modelo turístico de Mérida y la idea de movilidad cultural en @urry1999 ¿es casualidad que muchos anuncios de compra de vivienda estén emplazados en el aeropuerto?

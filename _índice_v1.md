@@ -4,7 +4,7 @@ author: "Sergio Abraham Barrera Hernández"
 bibliography: "/home/sabhz/dev/notas/referencias.bib"
 ---
 
-# [[Cap Introduccion v1]]
+# [[_c0 Introduccion v1]]
 
 # 2. Marco epistemológico
 ## 2.1. Qué clase de conocimiento se puede producir en este trabajo
