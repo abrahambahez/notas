@@ -1,4 +1,11 @@
 ## Apuntes para un marco epistémico en lugar de uno teórico
+
+Por las aulas y los pasillos, los cursos en línea y los conversatorios de antropología aparecen frecuentemente ideas que forman parte del «sentido común» de la disciplina. Pero en el proceso que transforma la formación académica y el trabajo de campo en un texto publicado, sea etnográfico o de otra clase, tesis o artículo, pocas de esas ideas pasan al papel, o si lo hacen, adoptan formas esquemáticas, «ya hechas», como si lo único que hubiera que hacer, dado que las ideas ya están discutidas, sea elegir a conveniencia una, como si de elegir aguacates en el mercado se tratara. Esto tiene que ver, justamente con la idea de sentido común, es decir, lo que se da por sentado, lo que se asume que todos saben. Quiero empezar esta discusión, más bien académica, recuperando un par de esas ideas para hacer notar algunas de sus contradicciones y finalmente, argumentar por qué la discusión sobre epistemología en antropolgía es relevante y abordarla, aunque sea un poco, en cada propuesta, es una acto de honestidad disciplinaria. Dicho sea de paso, la honestidad me parece cada vez más un valor epistemológico que moral.
+
+Los conversatorios y conferencias, donde los académicos pueden quitarse un poco el peso de su armadura terminológica, son perfectos lugares para captar ese sentido común.
+
+La primera tiene que ver con el particularismo antropológico de método, pero que se vuelve un universalismo teórico. La segunda tiene que ver con la resistencia fáctica a la interdisciplina y la transdisciplina.
+
 En este apartado planteo como alternativa al enfoque de la especialización disciplinaria (incluyendo una antropología generalizadora o comparativa) una perspectiva situacional, abductiva y transdisciplinaria.
 
 ### Complejidad, reduccionismo y generalización

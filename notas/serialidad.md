@@ -1,4 +1,4 @@
-La serialidad es un [[constructo teórico]] elaborado en la Crítica de la Razón Dialéctica de Jean Paul Sartre, que busca integrar el individualismo existencialista con la teoría marxista. Busca explicar situaciones de interacción que no requieran de apelar a la estructura social.
+La serialidad es un [[constructo teórico]] elaborado en la Crítica de la Razón Dialéctica [@sartre1963], que busca integrar el individualismo existencialista con la teoría marxista. Busca explicar situaciones de interacción que no requieran de apelar a la estructura social.
 
 Para empezar a definirlo:
 

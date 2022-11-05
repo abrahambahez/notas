@@ -4,4 +4,4 @@ En contraste con los conceptos como la tradición, los rituales y la cultura, es
 
 Son rutinas continuas que ejecutamos de manera regular, de forma diaria, semanal, mensual o anual. Pueden estar relacionadas con la subsistencia cotidiana, como comer o dormir. Pueden tener un matiz más cultural, relacionándose con juegos, valores estéticos, rituales o actividades colectivas. Éstas prácticas son, al igual que las prácticas seriales, básicamente realizadas en relación con la materialidad [@johannesen2004, pp. 175-176]
 
-[[positividades estructurantes]]
+[[positividad estructurante]]

@@ -74,6 +74,22 @@ El tercer caso de configuración territorial en movilidad citado por Hoffmann es
 
 ![[agencia]]
 
-![[agencia y antropología]]
+![[agencia en antropología]]
+
+nuevas formas de agencia en antropología
+
+![[agencia como proyecto]]
+
+agencia y estructura [[modos de vida]] [[de la formación social a los modos de vida]]
+
+#### Agencia, espacio y futuro
+
+
+
+[[agencia espacial]]
 
 Para este trabajo, la relación entre agencia y espacio implica la capacidad de los agentes para movilizar, ocupar, producir y experimentar con recursos espaciales desde su contexto experiencial más básico hasta en sus trayectorias vitales y su historia relacional, vista como la que da sentido a cambios y permanencias materiales, familiares, intersubjetivas, políticas y culturales.
+
+[[casa como proyecto]]
+
+[[identidad como proyecto]]
