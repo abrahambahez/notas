@@ -49,22 +49,39 @@ El territorio tiene el atributo de estar delimitado y por lo tanto implica diná
 **Diversas formas de apropiación territorial**, basadas sobre todo en la operación de *ocupar* o *tomar* el espacio. Un ejemplo es la _acumulación por deposesión_. La acumulación por desposesión es un constructo teórico introducido por David @harvey2004 para explicar la continuidad de los métodos descritos por Marx sobre la acumulación originaria [@marx2017, cap. 24] pero en un contexto donde esa acumulación _ya no es originaria_, es decir, ya no sirve para producir el capitalismo como fenómeno histórico, sino para reproducirlo o expandirlo a lugares donde tiene menos impacto. Este concepto recupera de @lefebvre1991 la idea de _producción del espacio_ y reconoce elaboraciones previas (independientes) de esta idea en Lenin y Rosa Luxemburgo, pues el imperialismo es una forma determinada de producción del espacio [@harvey2004, 99]. Para Harvey, el uso de acumulación por desposesión aumenta mientras disminuye la capacidad de reproducción ampliada sobre una base sustentable. Este comportamiento forma parte de la lógica de un «nuevo imperialismo».
 
 #### Espacio como relación
+<!-- espacio como relación -->
+La idea de espacio como relación surgió de un particular [[giro espacial]] que pone atención a dimensiones vinculatorias, no necesariamente locativas, de lo espacial. De acuerdo con @sheller2017, las espacialidades móviles, o espacios relacionales, son un énfasis en la dimensión dinámica que en sociología promovió un nuevo paradigma a partir de los trabajos de John Urry.
 
-![[espacio como relación]]
+<!--movilidad -->
+Para @urry2007 la movilidad es un modo de entender al [[espacio como relación]]. Así entendida, desdibuja fronteras en varios sentidos, explora materialidades, temporalidades y va más allá de marcos nacionales (o sociales) *sedentarios* [@sheller2017, p. 5], es decir, se posiciona como complementario a la dimensión *fija* del espacio.
 
-![[movilidad]]
+El paradigma de movilidad propuesto por John Urry explora varios sentidos del término que se extienden a diferentes escalas temporales: como lo que es capaz de movimiento, sea persona u objeto; como *mob*, en sentido de multitud no normada, desordenada, sin límites fijos y por ello *móvil*; en sentido de movilidad social, que el autor llama *vertical*; el sentido de *migración* o desplazamiento geográfico, que el autor llama *horizontal* [@urry2007, pp. 7-8]. Su objetivo inicial está en dejar de entender teóricamente lo social como una *región* para entenderlo como un *flujo* y una *red* [cfr. @urry2000], donde lo importante son los itinerarios de personas, objetos máquinas o información a través de un espacio cada vez más abierto.
 
-![[modos de movilidad]]
+<!-- modos de movilidad -->
 
 El territorio, concepto intensamente traído a los debates sobre el poder y el espacio, juega un papel importante en la idea de [[espacio como relación]]. En este caso, su aplicación supone quitarle al término su aspecto *locativo*, para hacer posible la idea de un *territorio relacional-móvil*. Esta idea parte de una forma distinta de entender lo espacial, y por tanto debe cuidarse teóricamente en relación con las interpretaciones posicionales. En este caso lo que importa analíticamente del proceso de territorialización es una especie de *cualidad de mobiliario*, en tanto aquello que puede trasladarse; de modo que se entra en un juego semántico con su antónimo, *lo inmobiliario*, que a su vez es un requisito lógicamente necesario de los conceptos territoriales *locativos* como el de Estado. 
 
 Esto no implica que los agentes no intercalen lo *fijo* y lo *fluido* en sus prácticas, pero el valor analítico de los conceptos radica, precisamente, en esa separación. Así, cuando @gimenez2007 [p. 159] afirma que: *«la apropiación del espacio se realiza siempre a través de operaciones que se acomodan obligatoriamente a la sintaxis euclidiana. Es decir, en todos los casos se trata de manipular líneas, puntos y redes sobre una determinada superﬁcie»* no queda claro cómo algunos casos donde la *superficie* es menos relevante que la *relación* pueden analizarse a profundidad; casos como el de la estructura topológica de internet y las dinámicas comunicativas hipertextuales que posibilita, las redes de citacionalidad de ideas entre académicos que publican glocalmente, y básicamente cualquier fenómeno complejo que presente propiedades emergentes o invariancia de escala [cfr. @rudomin&al2020].
 
-![[territorialización móvil]]
+<!-- territorialización móvil -->
+Un proceso de [[territorialización]] basado en configuraciones de [[movilidad]] se produce en situaciones de viaje, de desplazamiento, migración o diáspora. La doctora @hoffmann2020 [cap. 2] estudia algunos casos con los que ilustra las particularidades de este fenómeno. En este trabajo buscó probar dos hipótesis. La primera consiste en plantear que los contextos de [[movilidad]] favorecen las «innovaciones territoriales», aunque sea sólo para responder a la novedad objetiva de las situaciones con las que se encuentran las personas, las familias y los colectivos durante sus desplazamientos. La segunda hipótesis plantea que estas innovaciones territoriales son una vía privilegiada de expresión pública para los que no disponen de capital suficiente para hacerse oír a través de los medios políticos institucionalizados: los que no tienen acceso a un capital económico negociable; o los que no disponen de suficiente capital discursivo para garantizarles un mínimo de capacidad de negociación en las escenas públicas. Para Hoffmann:
 
-![[visión misak de la expansión del espacio]]
+>Los contextos de movilidad son lugares de observación privilegiada de las interacciones entre espacio, población y el actuar político. La migración (comprendida en el sentido amplio de circulación y movilidades múltiples) significa ruptura en el espacio y también en el tiempo. [@hoffmann2020, cap. 2, párr. 11]
 
-![[territorios ad hoc]]
+Cita tres tipos de configuraciones territoriales móviles: los territorios étnicos, los [[territorios ad hoc]] y las configuraciones en [[diáspora]]. El primer caso lo ilustra a través de la [[visión misak de la expansión del espacio]], que han llegado a concebirse como un pueblo disperso, de modo que el territorio misak se extendería a cualquier lugar habitado por un misak. En el segundo caso están las zonas humanitarias y zonas de biodiversidad creadas por campesinos desplazados en Colombia como espacios concretos *de retorno*, delimitados, cuyo acceso es sólo para los desplazados y sus *acompañantes* (ONGs humanitarias). Las zonas humanitarias son las áreas de residencia, mientras las zonas de biodiversidad son a parcelas de actividad agrícola. El último caso refiere a las relaciones entre migrantes y residentes que producen nuevas prácticas y representaciones, nuevas construcciones y nuevas espacialidades relacionadas con el *ir y venir*.
+
+
+<!--visión misak de la expansión del espacio-->
+@hoffmann2020 describe cómo, en este caso de [[territorialización móvil]], las organizaciones étnicas misak (asentadas en el sur de Colombia) movilizan la historia, la memoria, la autoctonía y la ancestralidad. *«La autonomía territorial se justificaría, en particular, por una construcción cultural muy específica del espacio. Según la visión misak, el territorio se expande “mediante 4 direccionales lingüísticas hasta llegar a expresar la redondez infinita (…) Con respecto a las nociones de [[espacio]], la lengua guambiana siempre refiere al individuo a un punto o lugar de referencia, a partir del cual desarrolla su espacio hasta abarcar el territorio y el mundo, a este ejercicio los Misak lo llaman “desenrollar”»* [@hoffmann2020, cap. 2, párr. 15]
+
+![Duarte, 2015, p. 289, tomado de Muelas, 1993, p. 2](https://books.openedition.org/irdeditions/docannexe/image/32687/img-1-small517.jpg)
+
+Afirma que las causas de movilidad son loa presión demográfica y los grandes cambios económicos, especialmente la *desruralización*, de modo que *«las autoridades tradicionales misak ampliaron sus concepciones de “espacios de vida”. Se concibe ahora como un “pueblo disperso”, cuya territorialidad no implica continuidad espacial sino que integra potencialmente cualquier nueva localidad en la que residen los misak. El territorio misak se extendería a cualquier lugar habitado por un misak.»* [@hoffmann2020, cap. 2, párr. 16]
+
+<!--territorios ad hoc-->
+Los territorios *ad hoc* son configuraciones de [[territorialización móvil]] descritos por @hoffmann2020 donde el territorio es producido por una circunstancia específica. En este caso, los campesinos desplazados en Colombia se organizaron para volver a sus tierras a pesar del acoso de actores externos. Hoffmann lo describe así:
+
+>Concretamente, en el departamento del Chocó, en la parte noroccidental del país, los desplazados lucharon para regresar a su espacio de origen, reinstalarse y crear las condiciones materiales y políticas de su protección. Para ello, una vez reinstalados en casas provisionales, empezaron a reorganizar la vida social colectiva y la protección de los habitantes. Cercaron las áreas de residencia y de trabajo, controlaron entradas y salidas, registraron usuarios con derechos, etc. Con el apoyo de las ONG, exigirieron que el gobierno los recibiera para negociar garantías y políticas de acompañamiento en sus nuevas instalaciones. Así es como nacieron algunas áreas llamadas zonas humanitarias (ZH) y zonas de biodiversidad (ZB), que son espacios concretos, delimitados, cuyo acceso se controla y se reserva estrictamente a los desplazados y sus “acompañantes”, o sea las ONGs humanitarias. [@hoffmann2020, cap. 2, párr. 19]
 
 El tercer caso de configuración territorial en movilidad citado por Hoffmann es el de los espacios diaspóricos, característicos de los exilios forzosos, los procesos migratorios masivos que influyen en regiones completas y *«reorganizan las territorialidades»* e identidades colectivas: «emigrantes», ilegales, paisanos, conversos de nuevas iglesias. Para Hoffmann:
 
@@ -72,19 +89,27 @@ El tercer caso de configuración territorial en movilidad citado por Hoffmann es
 
 ### Agencia
 
-![[agencia]]
+<!--agencia-->
+La agencia es un [[constructo teórico]] que busca explicar la acción de los sujetos. Desde el punto de vista filosófico [@schlosser2019], su significado implicó inicialmente la capacidad de ejecutar «acciones intencionales», donde la intención es *actuar por una razón*. Esta visión relaciona eventos con estados mentales del agente. Posteriormente se desarrollaron diversos marcos de interpretación alejados de la intención, como los que están centrados en los agentes propiamente (donde un evento es una acción en función de la *historia causal* de esos agentes) o en la volición (una acción es tal en *virtud de la voluntad* del agente y no en tanto relación causal).
 
-![[agencia en antropología]]
+<!--agencia en antropología-->
+En [[antropología]] la [[agencia]] se entiende  generalmente en relación con la noción de *estructura* [@keane2003], sobre todo a partir de la influyente teoría de la estructuración de @giddens1986; o bien, del análisis *foucaultiano* del *poder* [@foucault2004], la subjetividad [@ortner2005], la resistencia y la *intención* en un entramado que @ortner2016 [cap. 6] llamó *juegos serios*. Para @ortner2016 [p. 156] *«la intencionalidad como concepto comprende todas las formas en que la acción está dirigida, cognitiva y emocionalmente, hacia un propósito»* y advierte que *«prestar demasiada atención a las intenciones explícitas eclipsa el hecho de que la mayoría de los resultados sociales son, en realidad, consecuencias no intencionadas de la acción»* [@ortner2016, p. 157]. Ella comparte una concepción *fuerte* respecto al papel de la intencionalidad en la agencia, donde la intención *activa*, aunque no necesariamente consciente, es lo que distingue a la agencia de la *rutina*.
 
-nuevas formas de agencia en antropología
+También ha considerado procesos de atribución de *personidad*, o *[[personhood]]* en agentes no-humanos [@teubner2006], lo que incluye tanto a seres orgánicos como a lo que en la visión occidental es la dicotomía entre sujetos y objetos [@henare&al2007], o bien, una dimensión semiótica, lingüística y cognitiva del concepto [@kockelman2007].
 
-![[agencia como proyecto]]
+<!-- https://journals.openedition.org/ateliers/8516 -->
+
+==nuevas formas de agencia en antropología==
+
+<!--agencia como proyecto-->
+Un aspecto relevante de la  [[teoría de la práctica]] elaborada por @ortner2016 es su idea de *[[agencia]] como proyecto*, complementaria de la idea de una *agencia en el sentido de poder*, que a su vez involucra desigualdad, dominación y resistencia. Respecto a este último sentido la autora afirma que la *«"agencia" puede ser prácticamente un sinónimo de las formas de poder que las personas tienen a su disposición, de su capacidad de actuar por sí mismas, tener influencia en otras personas y en los acontecimientos, y ejercer cierto control de sus vidas»* [@ortner2016, p. 166].
+
+Pero en su dimensión de proyecto implica la capacidad de las personas de desear y perseguir, en su contexto estructural, esos deseos. Afirma la antropóloga: *«La agencia de los proyectos es, desde ciertos puntos de vista, la dimensión más fundamental de la idea de agencia. Es esta clase de agencia la que se interrumpe y se niega a los subordinados»* [@ortner2016, p. 167]. La idea de proyecto, como admite en un pie de página [@ortner2016, p. 161] , viene de la concepción *sartreana* expresada en su ensayo *«Cuestión de método»*, fuertemente ligado a la «Crítica de la razón dialéctica» [cfr. @sartre1963], intento monumental de Sartre por conciliar el *ethos* individualista manifestado en la libertad radical del existencialismo con el *colectivismo* determinista del marxismo soviético. Ambas cosas, cabe apuntar, son problemas específicos de la relación agencia-estructura.
+
 
 agencia y estructura [[modos de vida]] [[de la formación social a los modos de vida]]
 
 #### Agencia, espacio y futuro
-
-
 
 [[agencia espacial]]
 
