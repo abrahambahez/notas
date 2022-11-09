@@ -121,7 +121,7 @@ La idea de escala tiene un doble propósito.  Primero, es un recordatorio de que
 
 #### Escala y verdad científica
 
-El objeto disciplinario busca la generalización al abstraer las características de su interés epistémico y asumir que otros factores pueden ser ignorados o tratados teóricamente como constantes. Por ejemplo, para @giere2010, la construcción escalar nos lleva a encontrar serias diferencias en la naturaleza a diferentes escalas, pero que presentan aún así ciertas propiedades de continuidad; por ejemplo, las diferencias entre la escala cuántica y macroscópica, la paradoja de la línea de costa, los anillos de especies, aquello que @dawkins1993 llama *mente discontinua*. <!-- Revisa @lempert2016 -->
+El objeto disciplinario busca la generalización al abstraer las características de su interés epistémico y asumir que otros factores pueden ser ignorados o tratados teóricamente como constantes. Por ejemplo, para @giere2006, la construcción escalar nos lleva a encontrar serias diferencias en la naturaleza a diferentes escalas, pero que presentan aún así ciertas propiedades de continuidad; por ejemplo, las diferencias entre la escala cuántica y macroscópica, la paradoja de la línea de costa, los anillos de especies, aquello que @dawkins1993 llama *mente discontinua*. <!-- Revisa @lempert2016 -->
 
 La escala produce diferencias que pueden clasificarse, pero también paradojas de continuidad; a cambio, resuelve el problema de los esquemas naturales de clasificación. Si pensamos la relación entre el mundo y el problema del continuo: **dado que el mundo parece ser un continuo complejo, la clasficación no es realista, sino artificial**. Un ejemplo es la construcción de fronteras:
 
@@ -225,7 +225,7 @@ El estado controla el territorio al administrarlo bajo la lógica de la zonifica
 
 El capitalismo inmobiliario controla el territorio bajo la lógica de la dueñidad, es decir, la privatización mercantil y usufructuaria de la tierra y los servicios del estado, usando para ellos todos los medios a su disposición, legales o ilegales, todos ellos insensibles al contexto histórico, cultural y constructivo de la zona, gentrificando, desruralizando, proletarizando e intensificando irresponsablemente problemas urbanos ya visibles tanto en dotación de servicios, sobreoferta, depredación ecológica. Los pobladores ven reducido su espacio público y en cambio, más muros y más límites de propiedad que no pueden cruzar en lo que antes era libre.
 
-La idea de lo "privado" se vuelve ambigua en la dinámica de la transformación vital de las personas. La propiedad privada del terreno y lo "privado" como lo "no público", lo doméstico, lo a-político van convirtiendo el paisaje que antes era "monte libre"<!-- 👈🏽 revisar término --> en una serie de lotes "privados" inaccesibles, no compartidos, no políticamente pugnables, con unos dueños Otros que se volverán los *avecindados*, los «nuevos vecinos».
+La idea de lo "privado" se vuelve ambigua en la dinámica de la transformación vital de las personas. La propiedad privada del terreno y lo "privado" como lo "no público", lo doméstico, lo a-político van convirtiendo el paisaje que antes era "monte libre" <!-- 👈🏽 revisar término --> en una serie de lotes "privados" inaccesibles, no compartidos, no políticamente pugnables, con unos dueños Otros que se volverán los *avecindados*, los «nuevos vecinos».
 
 # Parte 3. Los otros espacios de negociación y tensión
 

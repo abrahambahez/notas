@@ -22,6 +22,7 @@ En antropología esto se ha hecho a través de dispositivos de testificación co
 - Problemas para entender agencia, los sujetos y el espacio
     - El problema de la unicidad identitaria en el argumento sobre el [[(a) territorio-administrativo]]
 - [[toda elección teórica es política]]
+- Cfr. (Crapanzano 1986) citado en [@katzer&al2019, p. 285]
 
 ### La estrategia del itinerario
 Mientras el enfoque anterior busca una mirada *de vuelo* sobre el mundo (como cuando se observa el paisaje desde un avión), un enfoque alternativo podría ofrecer simplemente una mirada *de a pie*, un itinerario. Esta alternativa no podría aspirar a la generalización ni a la *ontologización* de su análisis. A cambio obtendría una libertad teórica que, bien cuidada, tiene la ventaja de *ser modular*, es decir, de poder acoplarse con otras miradas en otros múltiples contextos o recorridos, y un solo recorrido podría ofrecer múltiples módulos, o lecturas del mismo fenómeno. Esta estrategia es una variante del pensamiento abductivo (en contraste con el deductivo o inductivo) que aspira a la creatividad analítica.
