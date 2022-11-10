@@ -1,4 +1,0 @@
----
-sources: https://infonavit.janium.net/janium/Documentos/67648.pdf
----
-Me interesa el fenómeno desde el punto de vista de la [[antropología urbana]] [wiki](https://es.wikipedia.org/wiki/Antropolog%C3%ADa_urbana), pensando en dinámicas de redensificación urbana <!-- ver archivo de sources -->

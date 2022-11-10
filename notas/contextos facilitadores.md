@@ -1,1 +1,0 @@
-Los contextos facilitadores, o «estructura de oportunidades», son factores que *facilitan* la emergencia de una configuración social o cultural. De acuerdo con @llanessalazar2017, este [[constructo teórico]] ha sido estudiado en el contexto de los movimientos sociales.

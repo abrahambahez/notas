@@ -1,1 +1,0 @@
-Es un principio de organización política inspirado en las prácticas de organizaciones y pueblos indígenas. Fue uno de los principios del neozapatismo y mencionado por Luis Villoro <!-- busca la referencia, esto lo escuché en un programa de radio -->.

@@ -1,1 +1,0 @@
-[[testificación|testimonial]]

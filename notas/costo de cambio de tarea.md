@@ -1,1 +1,0 @@
-De acuerdo con @madore2019, el costo de un cambio de tarea (*switch cost*) es *«una reducción en la precisión o velocidad del desempeño que resulta del cambio entre tareas.»*.

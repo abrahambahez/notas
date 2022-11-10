@@ -1,3 +1,0 @@
-La [[identidad]] étnica hace referencia a los procesos de identificación vinculados a la [[etnicidad]]. Este es un proceso que se construye a partir de relaciones entre grupos diversos, donde el poder ejercido por estructuras hegemónicas (el Estado o el capital) y las estrategias de reconocimiento inter-grupal la juegan un papel importante @llanessalazar2017.
-
-Para la arqueóloga Siân Jones \[citada en @johannesen2004, p. 162\], la identidad étnica *se caracteriza por una identificación cambiante, subjetiva y situada de uno mismo y los otros que se enraiza en las prácticas diarias y la experiencia histórica, y que es también sujeto de transformación y discontinuidad*.

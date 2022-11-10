@@ -1,1 +1,0 @@
-El agotamiento del ego es un [[constructo psicológico]] propuesto por Roy Baumeister en el cual se asocia a la fuerza de voluntad con una cierta *reserva finita*, asociada al azúcar, según @reagle2019 [cap. 4, sec. The Science of Motivation], que debe *recargarse*.

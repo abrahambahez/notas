@@ -1,1 +1,0 @@
-[[historia del tiempo presente]]
