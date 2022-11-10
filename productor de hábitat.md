@@ -1,1 +1,0 @@
-El productor de hábitat es un rol que adopta un agente al *convertir* un espacio en *habitable* a través de múltiples actividades materiales (como la gestión de la materia prima o la construcción de las estructuras) e inmateriales (como el *diseño arquitectónico* o la autoridad de legitimar la apropiación del territorio o permitir la construcción).

@@ -1,1 +1,0 @@
-Chablekal es una comisaría perteneciente al municipio de Mérida

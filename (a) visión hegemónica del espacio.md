@@ -1,1 +1,0 @@
->La clase dominante industrial y el Estado (en su aceptación poulantziana) encajonan y desnaturalizan la vida por medio de la administración 'racional' y la explotación sistemática del espacio, utilizando un doble poder: (a) la propiedad privada del suelo y (b) la estrategia de representación espacial [@morente2018, p. 65]

@@ -1,1 +1,0 @@
-La relevancia de distinguir habitantes y productores de habitat radica en hacer visible el proceso de producción, reproducción y transformación del espacio vivido, pero enfatizando los momentos en que las decisiones son tomadas y realizadas por personas que adoptan esos roles, con la complejidad de su contexto sociocultural, político y económico.

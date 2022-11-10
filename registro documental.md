@@ -1,5 +1,4 @@
-![[registro documental]]
+El registro documental, como [[técnica de investigación]], puede abarcar dos estrategias específicas:
 
-En el caso de los habitantes, se harán a al menos una familia en [[Cholul]], en [[San Isidro Conkal]] y en [[Santa Gertrudis Copó]] para responder preguntas sobre su [[historia habitacional]] y sus [[prácticas del vivir]].
-
-Para los productores de hábitat. También se ahondará con las [[Haciendas del mundo maya en Santa Rosa]] y el proyecto [[Del Territorio al Habitante, INFONAVIT]] para registrar evidencias de la [[dinámica entre habitantes y productores]].
+1. La recuperación de archivos diversos sobre la historia de actores y territorios de cada caso. Para @crespo2011, la cotidianeidad devela esquemas culturales e históricos importantes que no pasan por la oralidad o la escritura, pero que el archivo etnográficamente interpretado puede abordar. Más aún, los documentos evidencian mecanismos de interacción específica entre la vivienda y estructuras administrativas (títulos de propiedad, recibos de pago), o con situaciones consideradas *memorables* en el ámbito doméstico (notas informativas, ) y además, puede dar cuenta, por contraste, de otros dispositivos de memoria o de legitimidad al margen de estos sistemas 
+2. La producción de nuevos registros documentales que den cuenta de elementos directamente observables (unidades domésticas, paisaje). Así se abre paso a un enfoque mucho más participativo (transdisciplinario), pues supone la posibilidad de que el punto de vista del registro sea co-dirigido por los actores, lo cual permite conversaciones alrededor del porqué de esas elecciones.

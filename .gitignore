@@ -1,3 +1,2 @@
-Media/
-.obsidian/
-*.docx
+.obsidian/*
+.obsidian-mobile/*

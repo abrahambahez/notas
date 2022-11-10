@@ -1,1 +1,0 @@
-Los aspectos orientados a la acción de los [[mundos cotidianos]] se refieren a las valoraciones éticas, que reflejan hábitos y formas de actuar en el mundo y establecen **lo que es deseable**  (y con ello, los esquemas de propósitos adecuados e inadecuados de la vida individual y colectiva) desde lo cotidiano.

@@ -1,3 +1,0 @@
-## Espacio público
-
-Este espacio está determinado por la relación entre los habitantes y el Estado, quien lo ve como parte de los servicios de los que dota a la población. Pero se ponen en juego diversas cosas: aunque el Estado los administra, los habitantes los ocupan, los usan y con ello los *apropian*. En Copó la cancha se usó como una forma de distinguir pobladores y avecindados, ya que los primeros controlan los horarios de entrada y a quién se le permite entrar, como respuesta a la ocupación de nuevos residentes que llevaban un entrenador de básquetbol.

@@ -1,0 +1,1 @@
+>Aunque a nivel conceptual se reconoció al "nativo" como "sujeto reflexivo" o como "socio epistémico". (p. 33)--a Marcus 2008 - El o los fines de la etnografía: del desorden de los experimental al desorden de lo barroco

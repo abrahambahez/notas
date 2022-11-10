@@ -1,1 +1,0 @@
-Desde @iturriagaacevedo2016 [pp. 227-228], la práctica de los cadeneros de inferir la importancia de una persona basados en su zona de residencia es una muestra de ello

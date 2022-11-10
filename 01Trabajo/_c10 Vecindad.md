@@ -1,7 +1,0 @@
-## La vecindad como campo de negociaciones
-
-La disminución de espacio social redujo a lo doméstico (y sus redes trans-vivienda) el ámbito de convivencia. Pero también dota a los nuevos habitantes, desde ese mismo espacio privado, de un arma a su favor para transformar las relaciones espaciales, ya que pretenden controlar con nuevas reglas "implícitas" la relación de vecindad incluso si trasgreden los derechos comunitarios. La reducción a lo doméstico podría no ayudar a combatir las desigualdades que ya existían dentro del hogar y hacerlas más difíciles de ver, ya que es un ámbito espacial despolitizado.
-
-Pobladores y avecindados: La construcción discursiva de una alteridad sobre los residentes en unos «pobladores» y otros «avecindados» se hereda de la estructura agraria pero obtiene una carga polisémica donde en muchas ocasiones significa simplemente un vecino que no es miembro de la comunidad. La distribución de alteridades es visible materialmente en las construcciones domésticas, que reflejan un ethos bien diferenciado a nivel estructura pero no a nivel calle (Cholul) o no a nivel de cuadra (Temozón), produciendo también incisiones espaciales que marcan diferencias entre vecinos.
-
-Relaciones transaccionales: Como consecuencia de esas incisiones las relaciones entre vecinos de la no-comunidad se van sustituyendo por unas de lógica transaccional, de servicio y empleamiento, limitando la capacidad de organización colectiva y erosionando elementos de pertenencia o identificación territorial
