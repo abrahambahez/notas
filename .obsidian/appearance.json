@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "header-graph"
+  ],
+  "translucency": true,
+  "interfaceFontFamily": "Helvetica Neue,Inter",
+  "textFontFamily": "Helvetica Neue,Inter",
+  "nativeMenus": true,
+  "showViewHeader": false
+}
