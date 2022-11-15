@@ -1,0 +1,1 @@
+La [[escalera de participación]] es un modelo

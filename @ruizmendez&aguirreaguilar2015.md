@@ -1,0 +1,10 @@
+---
+title: Etnografía virtual, un acercamiento al método ya sus aplicaciones
+authors: María del Rocío Ruiz Méndez, Genaro Aguirre Aguilar
+year: 2015
+---
+> Abstract: La etnografía virtual tiene su origen cuando los investigadores comienzan a mostrar interés ante el fenómeno que representa la generación de espacios de socialidad, producto de la configuración de comunidades virtuales en Inter- net; una tecnología a través de la cual se favorece la emergencia de canales de comunicación que potencian la interactividad, tanto asincrónica como sincrónica através de correos electrónicos, las wikis, las redes sociales, los foros, las redes de colaboración, e incluso plataformas educativas donde se usan otros recursos como aulas virtuales, videoconferencias o la mensajería instantánea. Todos estos escenarios han sido motivo de estudio para analizar la forma en cómo se relacionan las personas en términos sociales, afectivos y cognitivos. En este contexto, se puede decir que los estudios relacionados con fenómenos o procesos mediados por las TIC, han sido temas emergentes para el análisis etnográfico virtual, por lo que en este ensayo se revisan los aportes de la antropología para el estudio de las ciberculturas a partir de una breve revisión conceptual, así como el estado que puede guardar su diseño metodológico; como también algunas recomendaciones para su implementación, como producto de una investigación del programa de Doctorado en Sistemas y Ambientes Educativos de la Universidad Veracruzana.
+
+> Lo que es un hecho, es que todas estas acepciones tienen un mismo objetivo, estudiar las relaciones sociales, cognitivas, afectivas que se dan en el ciberespacio, para lo cual han tomado como base los principios de la etnografía para trasladarlo al ciberespacio. [p. 70]
+
+Los espacios online y offline definen prácticas investigativas específicas como la netnografía [pp. 78-79], pero todos ellos complementados con técnicas anteriores o reimaginadas como entrevistas, observación no participante, documentación, entre otros.

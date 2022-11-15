@@ -1,7 +1,32 @@
-Este índice, a diferencia de los índices de palabras clave, pretende ser uno de carácter **ontológico** y **epistemológico**, en el sentido de una [[ontología informal]]. Las categorías ontológicas de estas notas son:
+## Top of mind
 
-- [[constructivismo]]
-    - [[constructo teórico]], que también podría llamarse *término* o *concepto*
-- [[principio epistemológico]]
-- [[marco epistemológico]], define modelos que regulan el valor de las proposiciones o la relación de los conceptos con sus valores veritativos
-- [[postura filosófica]]
+- [ ] [[lecturas finales etnografía]]
+- [[ideas sobre los racismos]]
+
+## Intereses de investigación
+
+- [[notas para una epistemología del trabajo de campo]]
+- [[muerte del individuo]]
+- [[mundos domésticos igualitarios]]
+
+### Intereses secundarios
+
+- [[visualización de datos y prácticas interpretativas]]
+- [[notas para una teoría de la humanidad]]
+- [[notas para una teoría de la situación]]
+
+## Temas
+
+- [[breve historia de la historia]]
+- [[modos de entender a los signos]]
+- [[ideas sobre los racismos]]
+- [[sistemas de notas]]
+
+## Colecciones
+
+- [[cosas interesantes]]
+- [[texto plano]]
+
+## Reseñas críticas
+
+- [[reseña de La raza cósmica]]

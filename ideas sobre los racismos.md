@@ -46,6 +46,7 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 
 ## Notas históricas
 - [[racialización en México]]
+
 ## Problemas difíciles del racismo
 
 El primerísimo: Categoría y clasificación en los procesos de racismo y racialización. 
