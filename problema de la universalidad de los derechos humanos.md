@@ -4,7 +4,7 @@
 2. el respeto a estas diferencias entre culturas es válido por el hecho científico de que no ha sido descubierta ninguna técnica de evaluación cualitativa (*asume la distinción cualitativo/cuantitativo como universal*) de las culturas\[...\] Los fines que guían la vida de un pueblo son evidentes por ellos mismos en su significación para ese pueblo y no pueden ser superados por ningún punto de vista, incluido el de las pseudoverdades eternas (*minimiza lo ritual religioso desde una postura cientifista*)
 3. Los patrones y valores son relativos a la cultura de la cual derivan, de tal modo que todos los intentos de formular postulados que deriven de creencias o códigos morales de una cultura deben ser en esta medida retirados de la aplicación de toda Declaración de los Derechos del Hombre a la humanidad entera
 
-Para @hojrup2017, las condiciones de existencia están ligadas a los modos de vida y no son universales
+Para @hojrup2017, las condiciones de existencia están ligadas a los [[modos de vida]] y no son universales
 
 - **En las sociedades contemporáneas coexisten modos de vida profundamente distintos ligados a diferentes estructuras (modos de producción) que coexisten**
 - Al conceptualizar los modos de vida en relación con sus presuposiciones estructurales , es posible identificar las **condiciones de existencia** que varias poblaciones deben percibir como "esenciales" e importantes por los cuales luchar.

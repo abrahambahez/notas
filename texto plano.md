@@ -16,3 +16,4 @@
 
 ## Ideas
 - [[log ztk]]
+- [[enlaces de hipertexto como unidad relacional básica]]
