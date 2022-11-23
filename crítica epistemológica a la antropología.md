@@ -13,7 +13,7 @@ La [[antropología]] está en crisis, se nota sobre todo en los diversos convers
 Fuentes posibles
 
 - [[toda elección teórica es política]] 
-- @restrepo2020
+- @restrepo&al2020
 
 Soluciones propuestas:
 
