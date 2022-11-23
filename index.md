@@ -14,6 +14,8 @@
 - [[visualización de datos y prácticas interpretativas]]
 - [[notas para una teoría de la humanidad]]
 - [[notas para una teoría de la situación]]
+- [[historia de la antropología]]
+- [[yoga]]
 
 ## Temas
 

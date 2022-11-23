@@ -1,0 +1,1 @@
+Un dispositivo textual es una práctica de generación de productos comunicativos que tiene múltiples fines, manifestaciones y estilos.
