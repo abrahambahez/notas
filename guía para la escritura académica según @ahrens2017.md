@@ -81,7 +81,7 @@ Emergencia de temas
     - Es posible sustituir la lluvia de ideas po *lluvia de notas* (p. 115 · Posición 2458)
     - Ya no se trata de encontrar un tema sino de responder preguntas a partir de la caja de notas
 - Los borradores iniciales pueden hacerse como capas no destructivas de índices que bosquejan argumentos más complejos a través de su ordenamiento. Son estructurantes pero a la vez flexibles ( p. 119 · Posición 2550), pero ==las colecciones asociativas tienden a la emergencia jerárquica==
-- Durante la elaboración final del texto es válido reordenar capítulos, incluso en etapas avanzadas del proyecto(p. 119 · Posición 2551; piensa en [el segundo principio del manfiesto ágil](https://agilemanifesto.org/iso/es/principles.html)) aunque si no se sufren mayores cambios el índice ya se parece a una tabla de contenidos
+- Durante la elaboración final del texto es válido reordenar capítulos, incluso en etapas avanzadas del proyecto(p. 119 · Posición 2551; piensa en [el segundo principio del manfiesto ágil](https://agilemanifesto.org/iso/es/principles.html) y en la [[gestión ágil de investigación]], aunque si no se sufren mayores cambios el índice ya se parece a una tabla de contenidos
 - Trabaja en diversos manuscritos al mismo tiempo: usando una metáfora química industrial del *«Verbund»* los residuos de una línea de producción se convierten en recursos para otra (p. 119 · Posición 2555)
 - Considera las ==leyes de Parkinson== como un argumento a favor de la intuición experta contra la planeación
 - Escribe la versión final a partir del primer borrador, que surje del esquema cuasi-tabla de contenidos, que surge de la lluvia de notas, que surgen de la masa crítica de notas permanentes

@@ -14,3 +14,4 @@ decantar cosas que uno ya sabe (según Restrepo)
 - @restrepo2016
 - [[ideas sobre mi entrada a campo]]
 - [[iniciar un trabajo de campo siendo una persona introvertida]]
+- [[investigación participativa]]

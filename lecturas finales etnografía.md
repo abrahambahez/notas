@@ -1,5 +1,0 @@
-- [[@hart1993]]
-- [[@dominguezfigaredo2007]]
-- [[@ruizmendez&aguirreaguilar2015]]
-- [[@mosqueravillegas2008]]
-- [[@plese2005]]

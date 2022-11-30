@@ -1,6 +1,5 @@
 ## Top of mind
 
-- [ ] [[lecturas finales etnografía]]
 - [[ideas sobre los racismos]]
 
 ## Intereses de investigación
