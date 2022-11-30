@@ -10,7 +10,7 @@ La teoría como una *caja de herramientas* de escritura etnográfica:
 - La investigación descansa sobre una reflexión acerca de situaciones determinadas (sin olvidar su dimensión histórica)
 - La observación participante *es* la experimentación física e intelectual de las vicisitudes de la traducción [@clifford1991, p. 41], es un arduo aprendizaje de lenguaje; una traducción de la experiencia a texto
 
-**La [[etnografía]] implica una estrategia de autoridad: la pretensión no cuestionada de ser fuente de verdad** (autoridades clásicas como las de M. Mead, Malinowski, *fundadas a la vez en fuerte formación científica y el 'espíritu aventurero'*), basada en la norma de crear teoría a partir de una investigación de primera mano [@clifford1991, pp. 42-44].
+**La [[notas/etnografía]] implica una estrategia de autoridad: la pretensión no cuestionada de ser fuente de verdad** (autoridades clásicas como las de M. Mead, Malinowski, *fundadas a la vez en fuerte formación científica y el 'espíritu aventurero'*), basada en la norma de crear teoría a partir de una investigación de primera mano [@clifford1991, pp. 42-44].
 
 La validación empírica del antropólogo la representa el [[rito de paso]] por el que él mismo se somete ante la comunidad.
 

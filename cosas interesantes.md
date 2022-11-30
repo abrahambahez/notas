@@ -19,6 +19,9 @@
 
 ## Aplicaciones de tecnología interesantes
 
+- Aplicaciones de investigación
+    - ResearchRabbit
+    - [Scite](https://scite.ai/): hasta pedes probar hipótesis
 - Aplicaciones de toma de notas colaborativas
     - [Sane](https://www.sane.fyi/)
 - Herramientas de visualización de datos
@@ -27,6 +30,7 @@
     - [Redash](https://redash.io/) múltiples fuentes de datos que se pueden graficar
     - [Metabase](https://www.metabase.com/): Herramienta de exploración de datos
     - [Retool](https://retool.com/): Integración de datos con salida a componentes de React
+
 
 ### Intefaces novedosas o poco comunes
 
