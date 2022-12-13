@@ -1,4 +1,4 @@
-La entrevista etnográfica es una [[técnica de investigación]] basada en un diálogo orientado por el problema de investigación en el contexto de una [[notas/etnografía]].
+La entrevista etnográfica es una [[técnica de investigación]] basada en un diálogo orientado por el problema de investigación en el contexto de una [[etnografía]].
 
 Para @restrepo2016, la entrevista etnográfica tiene las virtudes del dialogismo y la oralidad, permite el acceso a un registro expresivo más amplio y recupera varias dimensiones del contexto: la lengua, la cosmovisión, la memoria histórica, la identidad, la descripción en primer nivel de procesos, artes y saberes. La confianza es clave para el éxito del procedimiento. El conocimiento mutuo y del contexto de investigación forma parte de la confianza inicial. De acuerdo con el autor, los pasos para llevarla a cabo son:
                     

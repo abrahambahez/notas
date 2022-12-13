@@ -1,3 +1,5 @@
+[[conocimiento etnográfico]]
+
 Peirce distingue tres clases de razonamientos: el deductivo, el inductivo y el abductivo. Partamos de una distinción esquemática [basada en la exposición de @bonorinoramirez2012], muy escolar, si se quiere  para facilitar la comparación: podemos entender las diferencias entre cada tipo de razonamiento acudiendo a los tres elementos típicos de un silogismo: regla o premisa mayor, caso o premisa menor, resultado o conclusión. 
 
 Así, la deducción tiene la forma *regla; caso; por tanto, resultado*; el ejemplo típico es *todos los hombres son mortales, Sócrates es un hombre, por tanto, Sócrates es mortal*). La inducción tiene la forma: *caso; resultado; por tanto, regla*; ejemplo típico: *estos frijoles vienen de esta bolsa; estos frijoles son pintos; por tanto, todos los frijoles de esta bolsa son pintos*. La abducción viene de: *regla; resultado, por tanto, caso*, por ejemplo: *todos los frijoles de esta bolsa son negros; estos frijoles son negros; por tanto, estos frijoles vienen de esta bolsa*.

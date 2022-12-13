@@ -8,3 +8,5 @@ Para @linsribeiro&kemper2014 [p. 64] *la experiencia etnográfica queda conforma
 negociación de ignorancia y ansiedad, cuya meta es producir una fusión de horizontes que vuelva a hacer predecible la vida diaria de los participantes.»*
 
 De acuerdo con @biskupovic&brinckpinsent2018 [p. 9], *«para responder esas preguntas básicas del con-vivir, la etnografía es un proceso que nos permite observar conductas y que nos ayuda a asegurar la fiabilidad de nuestros datos obteniéndolos de “primera mano”.»* y añade: *«Actualmente existe una diversidad de modos de practicar la etnografía. La sociología dominante, marcada por una metodología heredera del positivismo, recibe de mejor manera etnografías naturalistas antes que experimentales (etnografía interpretativa, reflexiva, colaborativa, performativa, autoetnografía, etc.).»* [@biskupovic&brinckpinsent2018, p. 14].
+
+ver: https://cepalforja.org/sistem/bvirtual/wp-content/uploads/2017/05/LIBRO-Sistematizacin-Etnografica-Lewis-Pereira.pdf

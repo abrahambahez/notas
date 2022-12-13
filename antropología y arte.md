@@ -2,7 +2,7 @@ Para @ingold2013, preguntar cuál es la relación entre *pensar* y *hacer* recib
 
 El arte de la investigación no se encuentra entre antropólogos sino entre artistas. Los estudios de [[cultura material]] y de cultura visual se concentran en los resultados (objetos y representaciones visuales) y sus relaciones; pero ignoran *los procesos*, tanto el proceso de creación como el proceso de observación.
 
-La identificación de la [[antropología]] con la etnografía (que desestima *el arte de investigar* en su búsqueda de una descripción confiable) genera problemas en la colaboración entre antropólogos y artistas. La antropología puede expresarse de otras formas no escritas, como en cualquiera de las que se vale el arte, es posible pensar en una antropología pensada en esculturas o edificios.
+La identificación de la [[antropología]] con la [[etnografía]] (que desestima *el arte de investigar* en su búsqueda de una descripción confiable) genera problemas en la colaboración entre antropólogos y artistas. La antropología puede expresarse de otras formas no escritas, como en cualquiera de las que se vale el arte, es posible pensar en una antropología pensada en esculturas o edificios.
 
 La colaboración interdisciplinaria que abra la posibilidad de atravesar antropología, arte, [[arqueología]] y arquitectura debe involucrar la participación de todos: *debemos hacer las cosas por nosotros mismos*. A través de talleres, seminarios y cursos: a través de diálogos (incluso polílogos). Pero es importante para Ingold hacer la distinción previa entre antropología y etnografía, ya que eso permite tender el puente metodológico.
 

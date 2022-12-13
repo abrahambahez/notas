@@ -1,4 +1,4 @@
-Existen varias maneras de entender el tipo de conocimiento que se produce a través de la [[notas/etnografía]].
+Existen varias maneras de entender el tipo de conocimiento que se produce a través de la [[etnografía]].
 
 Una de ellas niega que la etnografía pueda producir generalizaciones, sino que más bien produce un [[conocimiento conjetural]].
 

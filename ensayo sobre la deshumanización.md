@@ -1,7 +1,9 @@
 ## Resumen de argumentos del texto
+
 Con fines de entender el **texto**, los dejo para que se entienda mi interpretación general ya que no es mi especialidad.
 
 ### Deshumanización
+
 En la discusión general veo dos clases de criterios para entender la deshumanización.
 
 El primer criterio tiene la forma *humanidad no es x*:
