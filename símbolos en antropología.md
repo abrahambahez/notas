@@ -1,6 +1,4 @@
-En antropología, la noción de símbolo ha sido vital para sostener algunas corrientes teóricas, que incluso llevan la referencia en el nombre, como es el caso de la antropología simbólica.
-
-![[antropología simbólica]]
+En antropología, la noción de símbolo ha sido vital para sostener algunas corrientes teóricas, que incluso llevan la referencia en el nombre, como es el caso de la [[antropología simbólica]].
 
 ![[símbolo turneriano]]
 

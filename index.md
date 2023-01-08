@@ -1,6 +1,7 @@
 ## Top of mind
 
 - [[ideas sobre los racismos]]
+- [[inbox blog]]
 
 ## Intereses de investigación
 

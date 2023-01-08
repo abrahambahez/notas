@@ -1,4 +1,4 @@
- cuerpo forma parte de los procesos cognitivos más allá del cerebro. Tener *un cuerpo determinado* puede ser determinante para los procesos cognitivos.
+El cuerpo forma parte de los procesos cognitivos más allá del cerebro. Tener *un cuerpo determinado* puede ser determinante para los procesos cognitivos.
 
 Por una parte, debido a las *experiencias* que son posibles bajo la conformación corporal; y también porque las condiciones en las que el cuerpo se relaciona con el entorno establece ciertas posibilidades de interacción, y todo esto influye en los principios y práctica de nuestros procesos cognitivos (mira por ejemplo la **teoría de las metáforas conceptuales** de [George Lakoff](https://en.wikipedia.org/wiki/George_Lakoff#Embodied_mind)).
 

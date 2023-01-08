@@ -1,3 +1,5 @@
+## Historia conceptual
+
 - [[tecnología como modo de relación]]
 - [[marco tecnológico]]
 - [[determinismo tecnológico]]
@@ -5,7 +7,14 @@
 - [[visión estándar de la tecnología]]
 - [[concepto histórico de tecnología]]
 
+## Y sociología
+
 - [[sociología de la ciencia]]
 - [[sociología de la tecnología]]
 - [[programa empírico del relativismo]]
 - [[construcción social de la tecnología]]
+
+## Aproximaciones
+
+- [[etnografía y tecnologías informacionales]]
+- [[cultura digital]]
