@@ -1,7 +1,8 @@
 ## Top of mind
 
+- [[ciber-antropología]]
 - [[ideas sobre los racismos]]
-- [[inbox blog]]
+- [[§blog inbox]]
 
 ## Intereses de investigación
 

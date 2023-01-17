@@ -1,3 +1,5 @@
+**[[vocabulario digital]]**
+
 ## Historia conceptual
 
 - [[tecnología como modo de relación]]

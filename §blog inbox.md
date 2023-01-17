@@ -1,6 +1,6 @@
 ## Nunca habrá revolución
 
-- [De la incomodidad permanente](De%20la%20incomodidad%20permanente.md)
+- [§blog incomodidad permanente](§blog%20incomodidad%20permanente.md)
 - Nihilismo
 - El individuo en el neoliberalismo
 - La incapacidad de imaginar un mundo sin capitalismo
