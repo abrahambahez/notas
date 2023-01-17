@@ -2,4 +2,4 @@
 .obsidian-mobile/*
 diario/
 .DS_Store
-
+*.txt
