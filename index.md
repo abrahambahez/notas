@@ -3,6 +3,7 @@
 - [[ciber-antropología]]
 - [[ideas sobre los racismos]]
 - [[§blog inbox]]
+- [[ideas 💡]]
 
 ## Intereses de investigación
 

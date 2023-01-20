@@ -1,4 +1,5 @@
 ## Fundamentos ontológicos de la gestión del conocimiento
+
 Parte importante del marco se basa en sostener un *antirrealismo* del proceso, esto significa que la teoría producida en las notas permanentes *no es real*, *es construida* a partir de uno o más marcos epistemológicos que regulan la evaluación entre lo verdadero y lo falso. Su máxima aspiración, por lo tanto, producir *representaciones adecuadas* del mundo.
 
 Aceptar este principio tiene ventajas que promueven la flexibilidad epistémica, la crítica constructiva.
@@ -104,7 +105,6 @@ Argumentos débiles:
 Argumentos fuertes:
 
 - Estructuran sistemas de *centralización* cognitiva, incluso aunque formen redes *descentralizadas*, pero no *distribuidas* [cfr. Brander](https://subconscious.substack.com/p/network-intersubjectives?s=r)
-
 
 ## A brutalist approach to the creative-constructivist method of knowledge management in Obsidian
 

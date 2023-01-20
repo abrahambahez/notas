@@ -32,8 +32,10 @@ Cuadruplicar mi productividad
 A través del condicionamiento operante y la delegación de tareas
 
 Métodos:
-- [[time blocking]]
+
+- [[bloqueo de tiempo (time blocking)]]
 - [[método time hacker]]
 
 Técnicas:
+
 - [[técnica de pomodoro]]
