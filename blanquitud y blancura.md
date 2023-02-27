@@ -1,4 +1,4 @@
-La blanquitud es un **ethos** del [[racismo]] que busca proyectar racionalidad, progreso, occidentalidad, civilización, modernidad, búsqueda prestigio, todo esto entre comillas.
+La blanquitud es un **[[ethos]]** del [[racismo]] que busca proyectar racionalidad, progreso, occidentalidad, civilización, modernidad, búsqueda prestigio, todo esto entre comillas.
 
 La blancura es una fuerte valoración del color de piel caucásico, así como de los rasgos étnicos y culturales de occidente:
 

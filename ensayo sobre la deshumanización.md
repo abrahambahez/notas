@@ -28,10 +28,10 @@ El deporte es una práctica humana porque sus practicantes lo son, por tanto es 
 Más aún, el deporte es una práctica *humanizante* en tanto promueve cualidades éticas, estéticas, políticas e incluso metafísicas. Por tanto, la deshumanización parece tener un efecto *anulatorio* o contradictorio de esta dimensión de la práctica. Este efecto puede ser parte intrínseca de la práctica si se considera el concepto de *farmakon*.
 
 ### La política del deporte
-El nacimiento del deporte en la tradición occidental está estrechamente relacionado con los fundamentos políticos de la misma, a través de tres coneptos: *isonomia, isegoria, isokratia*. De modo que la práctica del deporte está ligada a la práctica de la democracia.
+El nacimiento del deporte en la tradición occidental está estrechamente relacionado con los fundamentos políticos de la misma, a través de tres conceptos: *isonomia, isegoria, isokratia*. De modo que la práctica del deporte está ligada a la práctica de la democracia.
 
 ### Modelo dicotómico de Stuurman
-A partir de un análisis histórico conluye con cuatro dicotomías de deshumanización consideradas útiles para entender deshumanización por parte de instituciones deportivas:
+A partir de un análisis histórico concluye con cuatro dicotomías de deshumanización consideradas útiles para entender deshumanización por parte de instituciones deportivas:
 
 1. Civilización vs salvajismo
 2. Nosotros vs enemigos

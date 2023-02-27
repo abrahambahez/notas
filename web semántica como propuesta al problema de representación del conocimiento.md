@@ -1,6 +1,4 @@
-### web semántica como propuesta al problema de representación del conocimiento
-
-the systems themselves must have found solutions to some rather nagging epistemological problems, in particular the connection between informal language usage, computational linguistics and formal logic [@altheim2008, sect. semantic web, párr. 6].
+>the systems themselves must have found solutions to some rather nagging epistemological problems, in particular the connection between informal language usage, computational linguistics and formal logic [@altheim2008, sect. semantic web, párr. 6].
 
 Robert Brandom [citado en @altheim2008, sect. semantic web, párr. 7-9] distingue entre una dimensión *proposicional* (lo dicho) y *representacional* (¿lo referido?), un problema esencialmente semiótico, 
 
@@ -9,3 +7,5 @@ Robert Brandom [citado en @altheim2008, sect. semantic web, párr. 7-9] distingu
 Este problema lleva a admitir que en realidad, los esfuerzos por representar el conocimiento no lo hacen de una forma filosóficamente *realista*, sino *constructivista* (el conocimiento es construido socialmente a través del acuerdo de las comunidades que usan un dominio de lenguaje). 
 
 >*«**A key proposition here is that the entire enterprise of shared representation is a form of social agreement,** an instance of human communication, not an expression of a universal truth, and that the value of a proposition is not its truth but its utility.»* [@altheim2008, sect. semantic web, párr. 10]
+
+[[wikis semánticas como propuesta al problema de representación del conocimiento]]

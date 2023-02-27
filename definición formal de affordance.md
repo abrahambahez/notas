@@ -13,7 +13,7 @@ Tras rechazar que el correlato organísmico del *affordance* sea la escala corpo
 >Affords-φ (feature, ability), p. 189
 
 ## Affordances, habilidades y disposiciones
-Habilidad es distinta de *efectividad* aunque estén relacionadas. La primera es vista más como una *propiedad funcional* del animal, mientras que la segunda se asocia con la *disposición*. Sostener esto implica que las *[[affordances]]* sí están relacionadas con la evolución a trvés de la habilidad del animal.
+Habilidad es distinta de *efectividad* aunque estén relacionadas. La primera es vista más como una *propiedad funcional* del animal, mientras que la segunda se asocia con la *disposición*. Sostener esto implica que las *[[disponibilidad (affordance)]]* sí están relacionadas con la evolución a trvés de la habilidad del animal.
 
 ## Percepción de las affordances
 Si la percepción es también una relación entre el animal que percibe y aquello que es percibido, por lo que integrar la percepción al modelo de Chemero resultaría en algo así:

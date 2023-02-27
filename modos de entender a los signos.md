@@ -1,3 +1,5 @@
+[[semiótica]]
+
 En esta colección iré concentrando definiciones y aplicaciones de estudios de los signos: semiótica, semiología, antropología simbólica, filosofía y otras disciplinas. 
 
 ## En antropología simbólica y cultural

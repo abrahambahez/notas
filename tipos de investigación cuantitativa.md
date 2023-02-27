@@ -1,3 +1,5 @@
+#análisisDeDatos 
+
 Cada [[estrategia metodológica]] tiene en común su centralidad en la cuantificación.
 
 Exploratoria

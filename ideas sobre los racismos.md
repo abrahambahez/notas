@@ -1,3 +1,5 @@
+[[sistemas de distribución de opresión y privilegios]]
+
 ## Conceptos
 ### Expresiones de racismo
 - [[racialización]]

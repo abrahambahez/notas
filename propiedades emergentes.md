@@ -1,7 +1,7 @@
 ---
 sources: https://plato.stanford.edu/entries/properties-emergent/
 ---
-Las propiedades emergentes son fenómenos que pueden surgir a partir de la organización de un [[sistema]] como nuevas propiedades que existen en el sistema como un todo pero en los miembros individuales que lo componen.
+Las propiedades emergentes son fenómenos que pueden surgir a partir de la organización de un [[sistema]] como nuevas propiedades que existen en él, visto como un todo; pero *no* en los miembros individuales que lo componen.
 
 Ejemplos:
 

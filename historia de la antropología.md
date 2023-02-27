@@ -1,3 +1,5 @@
+[[antropología]]
+
 ## Antropología occidental
 - *El desarrollo de la teoría antropológica: historia de las teorías de la cultura* de Marvin Harris
 - *Historia de la Etnología* de Ángel Palerm

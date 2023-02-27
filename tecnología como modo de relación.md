@@ -2,7 +2,7 @@ En la tesis de @garciaarregui2013, la tecnología se entiende más como **un mod
 
 El cuerpo es un elemento central en los sistemas sociotécnicos amazónicos que puede explicar cómo la relativa austeridad de artefactos «se traduce» en un sofisticado repertorio de habilidades y destrezas físicas. Además el cuerpo es el centro de un complejo sistema de relaciones con el entorno (la práctica física de las técnicas y la abstracción teórica del conocimiento tecnológico convergen en el cuerpo, p. 19). 
 
-Los modos de relación son un concepto de Philippe Descola: «Formas de relación que estructuran localmente los vínculos entre entidades distinguidas por un mismo proceso de identificación, que permite a los colectivos diferenciarse entre ellos, y también exhibir una singularidad de su *ethos* a la cual todo observador resulta tempranamente sensible» [citado en @garciaarregui2013, p. 15]
+Los modos de relación son un concepto de Philippe Descola: «Formas de relación que estructuran localmente los vínculos entre entidades distinguidas por un mismo proceso de identificación, que permite a los colectivos diferenciarse entre ellos, y también exhibir una singularidad de su *[[ethos]]* a la cual todo observador resulta tempranamente sensible» [citado en @garciaarregui2013, p. 15]
 
 En la introducción:
 
@@ -34,3 +34,4 @@ En las conclusiones
 
 La tecnología es el intermediario en las relaciones sociedad-naturaleza, que en el caso de los ribereños del Bajo Amazonas corresponde a una *relación mimética*
 
+#humanidadesDigitales 

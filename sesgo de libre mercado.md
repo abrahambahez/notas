@@ -1,5 +1,3 @@
-
-
 Es una expresión particular del [[sesgo colonial]] que sugiere la universalidad de un argumento que depende de una sociedad en un contexto de libre mercado.
 
 Cuando una persona expone un argumento económico, sociológico o cultural cuyas premisas se sostienen por *la necesidad de un contexto de libre mercado* puede estar cometiendo lo que llamo un **[[sesgo]] de mercado**.

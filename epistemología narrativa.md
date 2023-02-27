@@ -3,7 +3,7 @@ La epistemología narrativa es una [[hipótesis]] que tiene como centro de conoc
 Algunas de sus características son:
 
 - Produce un conocimiento abductivo; si acaso, débilmente inductivo (el fuerte sería el estadístico)
-    - Opera con la *iconicidad* y con la *indexicalidad* más que con la *simbolicidad* ([[triada semiótica peirciana]])
+    - Opera con la *iconicidad* y con la *indexicalidad* más que con la *simbolicidad* ([[signo peirciano]])
     - Es predominantemente creativa, aunque tenga componentes analíticos fuertes
 - Produce teoría-relato que busca dar sentido, no explicaciones %% esto viene de la %% 
 - La verosimilitud (autoconsistencia) se privilegia sobre la veracidad (que sólo es posible para un único [[marco epistemológico]])

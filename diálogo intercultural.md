@@ -15,7 +15,7 @@ La primera formulación lógico-ontológica es de Leibniz en su principio de *id
 ##### La identidad en el mundo actual
 Debe entenderse en el marco de la globalización hegemónica y el conflicto que creó entre universalidad y particularidad
 
-Hay una crítica a la pretención de validez universal que el posmodernismo propone en dos aspectos: a) La disolución de las tradiciones, b) Como consecuencia, la afirmación de que la identidad es algo privado (múltiples pertenencias que el individuo puede elegir). Esa crítica se extiende a la visión que mira al individuo al ethos del capitalismo global (consumista y competitivo) o del posmodernismo (descentrado y *flexible*, que se contenta con una biografía de «turista», p. 51).
+Hay una crítica a la pretención de validez universal que el posmodernismo propone en dos aspectos: a) La disolución de las tradiciones, b) Como consecuencia, la afirmación de que la identidad es algo privado (múltiples pertenencias que el individuo puede elegir). Esa crítica se extiende a la visión que mira al individuo al [[ethos]] del capitalismo global (consumista y competitivo) o del posmodernismo (descentrado y *flexible*, que se contenta con una biografía de «turista», p. 51).
 
 A esa crítica se le opone incluir experiencias de la diversidad cultural y religiosa de la humanidad y no sólo de la parte que se considera importante. No hay identidad sin memoria:
 

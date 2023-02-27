@@ -1,3 +1,5 @@
+#humanidadesDigitales 
+
 **[[vocabulario digital]]**
 
 ## Historia conceptual
@@ -20,3 +22,4 @@
 
 - [[etnografía y tecnologías informacionales]]
 - [[cultura digital]]
+

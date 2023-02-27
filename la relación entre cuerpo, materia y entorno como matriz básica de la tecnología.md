@@ -1,4 +1,4 @@
-Los cambios tecnológicos que posibilitaron el vínculo moderno entre ciencia y tecnología devinieron históricamente de modelos previos basados en la relación entre cuerpo humano y el entorno: la *habilidad* (*techné* en griego, *ars* en latín), la fuerza corporal (componente básico de la *fuerza de trabajo* [^Marx20172034]) y sus posibilidades biomecánicas se *acoplan* a las [[affordances]] del entorno y, eventualmente, las transforman a través de modificaciones materiales de acuerdo con determinados marcos cognitivos y socioculturales.
+Los cambios tecnológicos que posibilitaron el vínculo moderno entre ciencia y tecnología devinieron históricamente de modelos previos basados en la relación entre cuerpo humano y el entorno: la *habilidad* (*techné* en griego, *ars* en latín), la fuerza corporal (componente básico de la *fuerza de trabajo* [^Marx20172034]) y sus posibilidades biomecánicas se *acoplan* a las [[disponibilidad (affordance)]] del entorno y, eventualmente, las transforman a través de modificaciones materiales de acuerdo con determinados marcos cognitivos y socioculturales.
 
 ![[acoplamiento y co-operación]]
 

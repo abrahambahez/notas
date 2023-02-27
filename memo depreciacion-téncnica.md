@@ -1,3 +1,4 @@
+# [[memos]] depreciación técnica
 La depreciación técnica puede calcularse a partir de varios indicadores.
 
 1. Valor residual = valor inicial / vida útil en años. Ej. 15 000(pesos) / 5(años de vida útil)

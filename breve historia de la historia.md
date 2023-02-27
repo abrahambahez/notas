@@ -1,3 +1,5 @@
+[[historia]]
+
 ## Discusión
 - Metáfora de la estructura de la historia: La espuma de la ola (los *grandes hombres*) y las corrientes marinas profundas (la *larga duración*)
 - El presentismo histórico o los **anacronismos**: trasladar esquemas mentales actuales a momentos pasados

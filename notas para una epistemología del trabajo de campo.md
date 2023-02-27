@@ -1,5 +1,4 @@
-## "Lo antropológico" en el trabajo de campo antropológico
-- Comentarios y 
+[[campo antropológico]]
 
 ## Mi propia teoría del campo
 

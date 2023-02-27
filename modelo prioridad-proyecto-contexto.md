@@ -1,12 +1,11 @@
 ---
 sources: https://plaintext-productivity.net/1-03-how-i-organize-my-todo-txt-file.html
 ---
-
-Este modelo, inspirado en [todo.txt](http://todotxt.org/) organiza tareas según 3 criterios:
+Este modelo de [[gestión de tareas]], inspirado en [todo.txt](http://todotxt.org/) organiza tareas según 3 criterios:
 
 1. Prioridad: Un valor ordenable (una letra de la  `A-Z` entre paréntesis, en la especificación de todo.txt)
 2. Proyecto: Etiqueta que denota proyectos (una cadena de texto precedida por `+` en la especificación de todo.txt)
-3. Contexto: Etiqueta de denota lo que David Allen entiende por contexto en el método GTD (una cadena de texto precedida por `@` en la especificación de todo.txt)
+3. Contexto: Etiqueta de denota lo que David Allen entiende por contexto en el método [[GTD]] (una cadena de texto precedida por `@` en la especificación de todo.txt)
 
 Algunas reglas de uso para usar estos criterios son:
 

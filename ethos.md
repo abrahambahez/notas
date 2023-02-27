@@ -1,0 +1,1 @@
+El ethos es un modo de hacer, ligado a actitudes, disposiciones y valores.

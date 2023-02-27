@@ -12,6 +12,7 @@
 - [[bibliografía anarquismo]]
 - [[bibliografía cognición extendida]]
 - [[bibliografía Restrepo Enfoques teóricos contemporáneos]]
+- [[Anark Recommended Reading List]]
 
 ### Conocimientos antropológicos y decolonialidad
 
@@ -30,7 +31,8 @@
     - [Redash](https://redash.io/) múltiples fuentes de datos que se pueden graficar
     - [Metabase](https://www.metabase.com/): Herramienta de exploración de datos
     - [Retool](https://retool.com/): Integración de datos con salida a componentes de React
-
+- Especificaciones
+    - [margin.love](https://margin.love)
 
 ### Intefaces novedosas o poco comunes
 

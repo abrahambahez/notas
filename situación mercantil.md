@@ -1,6 +1,6 @@
 Para para @appadurai1991, las cosas no son en esencia mercancías, sino que pueden llegar a actuar como tales en diversos contextos. Para identificar esos contextos, el autor define un tipo peculiar de [[situación]]: la *situación mercantil*. Las características de este [[constructo teórico]] piden que:
 
->\[...\] la situación mercantil en la vida social de cualquier “cosa” se defina como la situación en la cual su intercambiabilidad (pasada, presente o futura) por alguna otra cosa se convierta en su caractertstíca socialmente relevante [@appadurai1991, 29]
+>\[...\] la situación mercantil en la vida social de cualquier “cosa” se defina como la situación en la cual su intercambiabilidad (pasada, presente o futura) por alguna otra cosa se convierta en su característica socialmente relevante [@appadurai1991, 29]
 
 Derivada de esta definición, la situación mercantil se divide en tres aspectos: 
 

@@ -9,7 +9,7 @@ Aceptar este principio tiene ventajas que promueven la flexibilidad epistémica,
 Las notas permanentes no son sino una **teoría** individual del mundo
 
 Las notas de referencia son constructos de la **evidencia empírica** que interactúa con la teoría
-    
+
 ## App mentality vs Plain text mentality
 Las ventajas del texto plano, aún en su versión *non-linkable* están en su ligereza y facilidad para **buscar** en sus contenidos (no son búsquedas tan eficientes como en una base de datos, pero pueden ser muy poderosas). No quiero llenar mi bóveda de obsidian con archivos que contienen queries de búsqueda solamente, me gustaría que la aplicación me permitiera gestionarlos fuera de las notas (si quisiera documentar las búsquedas o los filtros lo haría en lenguaje natural y sin una sintaxis específica -o con múltiples-, sino sólo la lógica)
 

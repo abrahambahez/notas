@@ -1,3 +1,5 @@
+Hackear las cosas implica verlas como un recurso "sobreabundante", al menos así aparecen en la cultura urbana occidental. El sistema global de producción y distribución ha hecho más fácil acceder a *cosas* y reemplazarlas a gran velocidad, ya sea por [[obsolescencia programada]], [[obsolescencia percibida]] .
+
 Para los *life hackers*, las cosas tienen dos caras, los artefactos que valoran como esenciales (y enlistan en sus medios) y el resto, percibido como descartable. Bajo ésta distinción es que cualquier [[hack]] relacionado con cosas se hace evaluable.
 
 Así se hace relevante el minimalismo, con ideas como que *las cosas, igual que las tareas, ocupan un lugar en la carga mental*. La filosofía [[zen]] es comúnmente citada, aunque sea sólo a nivel estético, como es el caso de los productos Apple de Steve Jobs, estudioso (no tanto practicante) del budismo \[@reagle2019, cap. 5]\; otros favoritos son el *Walden* de Thoreau, quien también lista *cosas esenciales* para su experimento de retiro y comparte el mismo *ethos*.

@@ -11,9 +11,12 @@
     - La más importante es la familia de [*ledger*](https://hledger.org/#plain-text-accounting)
     - [Beancount](https://beancount.github.io/docs/beancount_language_syntax.html) es una alternativa
 - Automatización con texto plano
-    - Se trata de crear procesos automáticos a partir de texto plano (me recuerda a los procesos de [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) pero aplicado a humanos).
+    - Se trata de crear procesos automáticos a partir de texto plano (recuerda a los procesos de [infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) pero aplicado a humanos).
     - Mira el ejemplo de la app para Mac Bunch: https://bunchapp.co/
 
 ## Ideas
 - [[log ztk]]
 - [[enlaces de hipertexto como unidad relacional básica]]
+
+## Críticas
+- [[texto plano versus data estructurada]]

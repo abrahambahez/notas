@@ -1,4 +1,4 @@
-Un registro de decisión es un [[registro documental]] que permite definir la toma de una decisión, especialmente en el contexto de la [[gestión de proyectos]]. Con el fin de optimizarlos, se han propuesto estándares como:
+Un registro de decisión es un [[notas/registro documental]] que permite definir la toma de una decisión, especialmente en el contexto de la [[gestión de proyectos]]. Con el fin de optimizarlos, se han propuesto estándares como:
 
 - https://github.com/joelparkerhenderson/architecture-decision-record
 - https://adr.github.io/madr/

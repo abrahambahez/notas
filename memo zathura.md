@@ -1,6 +1,6 @@
-# Visor de documentos basado en Vim
+# [[memos]] Zathura
 
-Guía rápida desde https://wiki.archlinux.org/title/zathura
+Visor de documentos basado en Vim. Guía rápida desde https://wiki.archlinux.org/title/zathura
 
 - zathura can adjust the document to page-fit (a) 
 - or to fit width (s), 

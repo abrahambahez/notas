@@ -1,8 +1,10 @@
+#humanidadesDigitales 
+
 Cfr. Cómo hacer etnografía en una aldea habitada por inteligencias artificiales.
 
 La etnografía es un modo, entre muchos otros, de producir conocimiento sobre el mundo. Ese conocimiento interactúa mejor con otros (en diálogo inter-epistémico) si se le considera *abductivo*.
 
-De @han2021 el concepto de *no-cosas* (contrastar tecnología como cosas -objetos resultantes de modelos y procedimientos [[concepto histórico de tecnología]]- y tecnología como no-cosas -estados informacionales-), relacionado con el de [[infoesfera]] en @floridi2014
+De @han2021 el concepto de *[[no-cosas]]* (contrastar tecnología como cosas -objetos resultantes de modelos y procedimientos [[concepto histórico de tecnología]]- y tecnología como [[no-cosas]] -estados informacionales-), relacionado con el de [[infoesfera]] en @floridi2014
 
 De @munn2022 el cruce entre el mito de la automatización y las desigualdades actuales
 

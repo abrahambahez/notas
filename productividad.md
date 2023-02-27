@@ -7,7 +7,9 @@ De acuerdo con @reagle2019
     - Authorpreneurs
 - Los primeros sistemas de productividad life Hacking
     - 43 Folders
-    - GTD
+    - [[GTD]]
 
 - [[gestión de proyectos]]
-- [[gestión de tareas con modelo prioridad-proyecto-contexto]]
+- [[modelo prioridad-proyecto-contexto]]
+
+#gestión 

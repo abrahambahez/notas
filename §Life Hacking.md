@@ -1,0 +1,26 @@
+- Hacks
+    - qué es un [[hack]]
+    - hack nominal y hack óptimo
+- Hackers
+    - [[ethos del hacker]]
+    - Gurús, Geeks, Alpha Geeks
+- Lifehacking
+    - [[life hacking]] 
+    - Todo es un sistema: Ergo, todo es susceptible de ser *hackeado*
+- Cosas que se pueden hackear
+    - [[hacks de tiempo]]
+    - [[hacks de motivación]]
+    - [[hacks de cosas]]
+    - [[hacks de salud]]
+    - [[hacks de relaciones]]
+    - [[hacks de sentido]]
+    - Otras
+        - Aprendizaje
+        - Carrera
+        - Felicidad
+- Éticas
+    - Individualismo, egoísmo y narcicismo
+    - [[psicopatología del trabajo]]
+    - [[críticas al ethos del hacker]]
+    - [[productividad del hombre blanco]]
+    - [[problema del psicologismo]]
