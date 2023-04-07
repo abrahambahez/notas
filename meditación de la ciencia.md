@@ -2,7 +2,7 @@
 >Volver a conectar materia y conciencia es la tarea de una
 cultura emergente que se manifiesta sobre todo en las nuevas formas de ciencia y de religiosidad (p. 27)
 
-Qué es la meditación de la ciencia:
+Qué es la [[meditación]] de la ciencia:
 >\[...\] tiene que comenzar por un acto de recapacitación del pensar; un acto por el que el pensar se detenga en su actividad de reflexionar sobre cosas para recogerse y pensar qué le significa pensar. A este acto le llamamos meditación; y creemos que es necesario empezar por él, porque, como decíamos, el pensar ya no piensa. Está atrapado en un engranje de producción instrumental de saberes que en nombre del desarrollo y del progreso lo obliga a entenderse en términos de una función del sistema epistemológico sancionado por la civilización científico-técnica. Y para “recobrar el sentido” necesita precisamente meditar [@fornet-betancourt2009, p. 29]
 
 La ciencia de la que se habla es, por supuesto, la ciencia moderna, diferente de lo que la raíz *scire* denotaba. Es una ciencia positivizada. El poder y autoridad de la ciencia moderna se ha naturalizado y eso implica una *colonización* (pp. 32-33).

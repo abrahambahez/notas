@@ -1,7 +1,7 @@
 Su objetivo es recuperar la memoria de un hecho en tanto [[historia vivida]], buscando traer a flote la experiencia del [[interlocutor]]. Según @laramezaetal2010 [p. 69] tienen principalmente dos objetivos:
 
 1. Ser utilizadas en investigación histórica
-2. Integrar un archivo de Historia Oral
+2. Integrar un [[archivo]] de Historia Oral
 
 Se supone diferente de la [[entrevista etnográfica]] porque las preguntas *deben tener una historicidad*: un sujeto, un objeto o acción, un tiempo basado en el tiempo de la acción, un espacio para la acción [@laramezaetal2010, pp. 69-70]. Recomienda incluso comenzar con preguntas de cierta cronología.
 

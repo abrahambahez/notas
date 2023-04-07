@@ -14,7 +14,7 @@
 - [[bibliografía Restrepo Enfoques teóricos contemporáneos]]
 - [[Anark Recommended Reading List]]
 
-### Conocimientos antropológicos y decolonialidad
+### Conocimientos antropológicos y [[decolonialidad]]
 
 - Escobar, A. (2004) Worlds and Knowledges Otherwise: the Latin American Modernity/Coloniality Research Program. Cuadernos del CEDLA 16: 31-67.
 

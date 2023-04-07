@@ -1,0 +1,3 @@
+El código abierto es un modo de producción de software descentralizado, público y colectivamente mantenido por voluntarios que realizan trabajos de programación, pruebas, reportes de bugs, gestión y comunicación de proyectos sin esperar necesariamente una retribución económica
+
+- Cultura del [[don]], principalmente a través del [[trabajo voluntario]], lo que hace que se gane prestigio con la contribución

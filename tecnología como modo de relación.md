@@ -34,4 +34,4 @@ En las conclusiones
 
 La tecnología es el intermediario en las relaciones sociedad-naturaleza, que en el caso de los ribereños del Bajo Amazonas corresponde a una *relación mimética*
 
-#humanidadesDigitales 
+[[humanidades digitales]]

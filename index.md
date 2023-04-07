@@ -20,3 +20,8 @@
 
 - [[cosas interesantes]]
 - [[texto plano]]
+- [[memos]]
+- logs
+    - [[log podcasts]]
+    - [[log clase con Castillo Berthier]]
+    - [[log ztk]]

@@ -12,7 +12,7 @@ Técnicas:
 - Dar algo (compartir algo personal)
     - En referencia a @mauss2009
 - Pedir algo (validar la eficacia del [efecto Ben Franklin](https://www.businessinsider.es/efecto-benjamin-franklin-truco-psicologico-ser-agradable-758975))
-- ![[favi]]
+- [[favi]]
 
 Leer:
 

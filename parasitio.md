@@ -1,3 +1,4 @@
+[[dispositivo etnográfico]]
 <!-- parece hacer referenica a un sitio distinto del [[campo antropológico]] pero que lo complementa y lo delimita, de manera análoga al paratexto, pero no me queda claro aún -->
 
 - @marcus2013, en el contexto de [[etnografías contemporáneas]]<!-- revisar bibliografía de él mismo en el texto donde profundice más -->

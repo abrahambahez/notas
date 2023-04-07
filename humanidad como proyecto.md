@@ -4,4 +4,4 @@ La idea de *reproducción de la estructura social* está orientada del pasado al
 
 Ver: [Antropologie du projet](https://www.cairn.info/feuilleter.php?ID_ARTICLE=PUF_BOUTI_2012_01_0001) y [[ensayo sobre la deshumanización]]
 
-#humanidadesDigitales 
+[[humanidades digitales]]

@@ -1,7 +1,7 @@
 ---
 sources: "Herskovits, M. J. (1955). Cultural anthropology. New York: Alfred, A. Knopr. Inc. Ltd."
 ---
-El relativismo cultural es un [[marco teórico]] que se usa en la antropología, proveniente del [[culturalismo]] impulsado por Franz Boas,  y que se compone de proposiciones como las que describe @bartolome2008 [p.110], citando a M. Herskovits (1955):
+El relativismo cultural es un [[marco teórico]] que se usa en la antropología, proveniente del [[culturalismo]] impulsado por Franz Boas,  y que se compone de proposiciones como las que describe @bartolome2008 [p.110] basándose en @herskovits1955, y que resume como:
 
 - Los juicios están basados en la experiencia y la experiencia es interpretada por cada individuo con base en su propia endoculturación
 - El mecanismo rimario que funciona en la valoración de la cultura es el etnocentrismo

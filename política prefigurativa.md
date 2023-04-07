@@ -1,4 +1,4 @@
-La política prefigurativa es un término originado en el contexto del anarquismo para referirse a todo activismo que se implementa *como si ya vivieramos en el estado futuro* que se quiere lograr.
+La política prefigurativa es un término originado en el contexto del [[anarquismo]] para referirse a todo activismo que se implementa *como si ya vivieramos en el estado futuro* que se quiere lograr.
 
 Es una estrategia para evitar que los fines (una sociedad igualitaria) se vean éticamente cuestionados si los medios no siguen este principio (ética de la acción).
 

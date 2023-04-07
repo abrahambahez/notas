@@ -1,4 +1,4 @@
-#humanidadesDigitales 
+[[humanidades digitales]]
 
 Cfr. Cómo hacer etnografía en una aldea habitada por inteligencias artificiales.
 
@@ -10,6 +10,6 @@ De @munn2022 el cruce entre el mito de la automatización y las desigualdades ac
 
 De @marx2005 la idea de la relación dialéctica producción del consumo en varios sentidos: consumo de la cosa, consumo del sujeto, producción de la cosa y del sujeto.
 
-Los *autómatas que aprenden* (el *infómata* de Chul-Han es, posiblemente, una redundancia, pues todo autómata procesa información) deben ser considerados *agentes* dentro de la experiencia *onlife* con un grado de interlocución mínimamente definido respecto a un agente investigador. Los autómatas como agentes poseen una [[ontología informacional]], un mundo que intersecta con las ontologías antropológicas ([[giro ontológico]]) y filosóficas,[[compromiso ontológico]]
+Los *autómatas que aprenden* (el *[[infómata]]* de Chul-Han es, posiblemente, una redundancia, pues todo autómata procesa información) deben ser considerados *agentes* dentro de la experiencia *onlife* con un grado de interlocución mínimamente definido respecto a un agente investigador. Los autómatas como agentes poseen una [[ontología informacional]], un mundo que intersecta con las ontologías antropológicas ([[giro ontológico]]) y filosóficas,[[compromiso ontológico]]
 
 Los autómatas que aprenden están en una relación sistémica ([[sistema complejo]]) con ecologías y sistemas socioculturales.

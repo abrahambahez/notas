@@ -1,6 +1,6 @@
-Se trata de una iniciativa de *open knowledge* con múltiples proyectos que tiene el objetivo de trabajar con sistemas de notas interconectadas siguiendo una metodología de desarrollo *open-source*, lo que involucra el crecimiento de una comunidad.
+Se trata de una iniciativa de *open knowledge* con múltiples proyectos que tiene el objetivo de trabajar con sistemas de notas interconectadas siguiendo una metodología de desarrollo de [[código abierto]], lo que involucra el crecimiento de una comunidad.
 
-El principio general que lo guía es de la ==escritura como código==.
+El principio general que lo guía es de la [[escritura como código]]
 
 Los proyectos que pueden ser útiles son:
 

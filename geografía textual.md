@@ -6,4 +6,4 @@ Ver:
 - [BORGES, LOS ESPACIOS GEOGRÁFICOS Y LOS ESPACIOS LITERARIOS](https://www.ub.edu/geocrit/sn/sn-145.htm)
 - LA ÉCFRASIS EN EL SIGLO XV: MARAVILLA, METATEXTO Y ALEGORÍA de Barry Taylor
 
-#inbox 
+Relacionado con [[texto plano]] y [[espacio y experiencia]]

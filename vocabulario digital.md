@@ -3,4 +3,4 @@ Esta nota empieza inspirada por <https://otherinternet.substack.com/p/other-inte
 - [[memoria colectiva digital]]
 - [cripto-filantropía](https://www.figma.com/file/IV5AGF2aV75vau327SUKSy/CRYPTO-PHILANTHROPY?node-id=0%3A1)
 
-#humanidadesDigitales 
+[[humanidades digitales]]

@@ -1,3 +1,5 @@
+[[análisis de datos]]
+
 Desde <https://subconscious.substack.com/p/all-you-need-is-links?s=r>
 
 Etiquetas: 

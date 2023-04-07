@@ -2,7 +2,7 @@
 
 Excluir notas no-atómicas con: `-file:/^[@~\d§\(+A-Z]/`
 
-# [[index]] de palabras clave de interés
+# [[notas/index]] de palabras clave de interés
 ## desigualdad
 - opresión y privilegios
 - economía del cuidado

@@ -1,3 +1,5 @@
+[[dispositivo etnográfico]]
+
 La adquisición del [[habitus]]
 
 Para construir esta nota

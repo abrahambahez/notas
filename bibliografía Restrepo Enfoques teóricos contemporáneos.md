@@ -14,7 +14,7 @@ Rojas, Axel. 2011. [“Introducción: problematizar la interculturalidad”](htt
 **5. Teorías postcoloniales** [8 de febrero]  
 Jiménez, Mónica. 2010. [La incesante diáspora africana: afrocolombianas solicitantes de asilo en el norte chileno](https://drive.google.com/open?id=1ovZZEMXomJlJ7AUea4Waxore4omm-Pmm)[](https://drive.google.com/open?id=1O4XOUfzxR21FhoarugJtfgz4UBkkMFZw). _Nomadias. Feminista_(12): 89-103.
 
-**6. Opción decolonial** [8 de febrero]  
+**6. Opción decolonial** [[decolonialidad]] [8 de febrero]  
 Albán, Adolfo. 2015. “[Introducción](https://drive.google.com/open?id=1z5SqiVTRILjw1lPnU2lj6cHO9zlpIYom)” En: _Sabor, poder y aber: comida y tiempo en los valles afroandinos del Patía y Chota-Mira_. pp. 13-44. Popayán: Editorial Universidad del Cauca.
 
 **7. Feminismos y teoría queer** [9 de febrero]  

@@ -1,4 +1,4 @@
-#humanidadesDigitales 
+[[humanidades digitales]]
 
 **[[vocabulario digital]]**
 
@@ -10,6 +10,7 @@
 - [[ciclos de revuelo tecnológico (hype cycles)]]
 - [[visión estándar de la tecnología]]
 - [[concepto histórico de tecnología]]
+- [[infoesfera]]
 
 ## Y sociología
 
@@ -18,8 +19,11 @@
 - [[programa empírico del relativismo]]
 - [[construcción social de la tecnología]]
 
-## Aproximaciones
+## Aproximaciones y fenómenos
 
 - [[etnografía y tecnologías informacionales]]
 - [[cultura digital]]
-
+- [[código abierto]]
+- [[browser fingerprint]]
+- [[web inflada]]
+- [[web en texto plano]]

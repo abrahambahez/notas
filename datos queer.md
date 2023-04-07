@@ -1,0 +1,1 @@
+En el contexto del [[análisis de datos]], ¿cómo sería un *reporte queer*? una subversión de la [[razón instrumental]] blanca y capitalista a una expresión *desde el sur* [@beltran2020; @beltran2020a].
