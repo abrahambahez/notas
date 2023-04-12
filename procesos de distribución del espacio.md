@@ -1,4 +1,4 @@
-Como parte de los procesos de [[construcción del espacio]],  @hoffmann2021 describe tres tipoos de procesos:
+Como parte de los procesos de [[construcción del espacio]],  @hoffmann2021 describe tres tipos de procesos:
 
 - Exclusión: Privar a ciertos grupos del acceso al espacio, cfr. la noción de [[acumulación por desposesión]] propuesta por @harvey2004
 - Asignación: Segregar grupos a espacios específicos controlados por otros: ej. el *Apartheid*, las reservaciones norteamericanas, las *reducciones* o *pueblos de indios* coloniales durante el virreinato [@farriss1992, 254; @vergaraormeno1990]
