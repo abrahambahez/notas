@@ -1,1 +1,3 @@
 Es un modelo de estructura histórica de relación de poder que lo coloca en un núcleo de control centrar alrededor del cual se instala una esfera de *dependencia*. La dinámica de las estructuras centro-periferia tiene en abstracto múltiples elaboraciones, y puede encontrarse en teorías críticas latinoamericanas como las de la dependencia [@cueva1974] o las de la [[decolonialidad]] [@quijano2019] donde el feonómeno no sólo es visto como concentración sino también como reorganización y relocalización.
+
+[[estructura de organización social]]

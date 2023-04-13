@@ -27,10 +27,9 @@ También hay [doce principios](https://agilemanifesto.org/iso/es/principles.html
 -   Investment game - Lean Product Management / Mangalam Nandakumar
 -   Matriz de impacto / esfuerzo
 
-## Gestión
+## Modos de [[gestión]]
 
 -   Patton (2014) User Story Mapping
 -   Wysocki (2011) Executive’s guide to project management
 -   Wysocki(2010) Adaptive Project Framework
 -   Willink and Babin (2015). Extreme ownership
-#gestión #organización

@@ -25,3 +25,5 @@ Para @altheim2008 la representación del conocimiento basada en el lenguaje natu
 La propia palabra *conocimiento* no está lo suficientemente formalizada en un sentido unívoco y realista; por esa razón, su uso dentro de la práctica de la [[ontología informacional]] podría considerarse *informal*.
 
 >*«As Allen Newell noted in his influential address to the AI community, The Knowledge Level Newell, the use of the term “knowledge” within that community is “informal”»* [@altheim2008, sect. knowledge representation, párr. 3]
+
+Con la llegada de los [[LLM]] caben varios cuestionamientos sobre esta afirmación.
