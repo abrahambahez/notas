@@ -1,0 +1,1 @@
+Ana Lidia M. Domínguez Ruiz en su libro *Historia cultural del grito* lo aborda desde múltiples dm dimensions que van de la disciplina, buenos modales, comunicación, poder o violencia 
