@@ -27,3 +27,7 @@
 - [[browser fingerprint]]
 - [[web inflada]]
 - [[web en texto plano]]
+
+## Enlaces interesantes
+
+- https://cyberfeminismindex.com [[cosas interesantes]]
