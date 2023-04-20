@@ -21,12 +21,13 @@
 
 ## Aproximaciones y fenómenos
 
-- [[etnografía y tecnologías informacionales]]
+- [[§ etnografía y tecnologías informacionales]]
 - [[cultura digital]]
 - [[código abierto]]
 - [[browser fingerprint]]
 - [[web inflada]]
 - [[web en texto plano]]
+- [[movimiento maker]]
 
 ## Enlaces interesantes
 
