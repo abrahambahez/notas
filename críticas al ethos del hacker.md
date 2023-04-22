@@ -18,19 +18,7 @@ Sethi, en el post sobre la técnica del escándalo sexual, dice:
 > 
 > Would you run 8 miles to remind me to floss? I was paying Klarc $2 / hr (but gave him a hefty bonus after this incident). What are you doing to make yourself so valuable [that an] employer would pay 10–20x that amount?
 
-## La [[productividad del hombre blanco]] y el androcentrismo tecnológico
-
-El [[determinismo tecnológico]] es falso y la tecnología se hace normalmente por y para hombres:
-
->Frequently, a heralded innovation outshines precursors by virtue of a high-tech and masculine sheen. As one snarky columnist wrote of the 2017 boom in Bay Area coliving (i.e., having roommates in San Francisco): tech entrepreneurs often “find an existing service, privatize it, and claim to have ‘reinvented it.’” Similarly, an overheard comment, tweeted and then retweeted many times, is that “[San Francisco] tech culture is focused on solving one problem: What is my mother no longer doing for me?” One of those things is feeding you. And when hackers came up with meal substitutes, they were lauded as innovative tech creators. But this spotlight gave others pause. [@reagle2019, cap. 5, “Masculine, Entrepreneurial, Well-Educated, and White”]
-
-En este caso la [[economía del  cuidado]] tiene varias críticas que aportar.
-
->When San Francisco tech reporter Nellie Bowles attempted to explain Soylent to her mom, her mother responded, “Oh, you mean SlimFast?”
->
->I balked. No, Soylent is definitely tech, I explained, and it’s on my beat. It has a minimalist label and comes in iterative versions like software (we’re at Soylent 2.0). It has a young white male founder who philosophizes about it and connects it to broader themes of life efficiency and has raised $20m in venture capital funding on its promise of releasing us from the prison of food.
->
->However, after thinking about it, Bowles came to the conclusion that most Silicon Valley food innovation is “just rebranding what women have been doing for decades.
+[[androcentrismo tecnológico]]
 
 
 ## Respuestas individualistas a problemas colectivos
@@ -48,6 +36,6 @@ Esta actitud egocéntrica se enraiza profundamente en el *ethos* occidental del 
 >That post is an example of a larger problem with contemporary research, its reporting, and the self-help suggestions based on it. Consider the recent hoax study that concluded that eating chocolate accelerates weight loss. The study had real subjects (only fourteen), a typical methodology (subject to false positives), and a statistically significant result (with minuscule effects), and it was published by a rigorous peer-reviewed journal (so says the publisher).undefined This was a weak study best ignored, but many news sites reported the finding as fact, revealing problems with scientific rigor and journalistic vetting. [@reagle2019, cap. 4, sec. The Science of Motivation]
 
 
-## La alianza con el capitalismo y eñ  [[capitalismo cognitivo]]
+## La alianza con el capitalismo y el  [[capitalismo cognitivo]]
 
 >in 2004, two European scholars lamented these same philosophical foundations. In a much-discussed essay, UK media theorists Richard Barbrook and Andy Cameron warned that “a loose alliance of writers, hackers, capitalists and artists from the West Coast of the USA have succeeded in defining a heterogeneous orthodoxy for the coming information age.” They identified this “Californian Ideology” of the digerati as “an anti-statist gospel of cybernetic libertarianism: a bizarre mish-mash of hippie anarchism and economic liberalism beefed up with lots of technological determinism.”undefined Theirs was an astute ideological vivisection, even if their call for a European alternative was feeble. [@reagle2019, cap. 5, sec. The Californian Ideology and Cool Tools]

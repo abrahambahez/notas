@@ -33,6 +33,8 @@
     - [Retool](https://retool.com/): Integración de datos con salida a componentes de React
 - Especificaciones
     - [margin.love](https://margin.love)
+- Storytelling o narratividad
+    - [[métodos de diseño narrativo]]
 
 ### Intefaces novedosas o poco comunes
 

@@ -15,4 +15,4 @@ Respecto a la materialidad y la agencia, se dice que la agencia está constituid
 
 Los trazos seriales involucran formas de crear límites a nivel ambiental o social; por ejemplo, la necesidad de regular el sueño o la comida, el tipo de transporte disponible o incluso restricciones sociales como leyes o normas.
 
-Los conceptos de series, así como la acción serial y las categorías seriales, éstos se expanden con la consideración de los conceptos de prácticas estructurante y positividades estructurantes.
+Los conceptos de series, así como la acción serial y las categorías seriales, éstos se expanden con la consideración de conceptos como [[práctica estructurante]] y [[positividad estructurante]].

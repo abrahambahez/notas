@@ -7,7 +7,7 @@ Imagina que lo único que debes hacer es revisar un borrador que ya casi está t
 Tipos de notas que reflejan cada estado de desarrollo (p. 24 · Posición 510)
 
 1. *Fleeting notes*. Tomar notas efímeras desde cualquier lugar y momento es vital. Estas notas son breves y recuerdan ideas potenciales. Sólo sirven para ser revisadas en el futuro (idealmente el mismo día en que fueron hechas, antes de que el contexto que les da sentido se nos olvide, p. 24 · Posición 521)). Pueden ser desechadas después de ser evaluadas y (algunas) ser convertidas en permanentes.
-2. *Literature notes*. Notas de referencia. Sobre fuentes de otros autores. Ser consisos, selectivos y no citar sino elaborar sobre las ideas de la fuente: recuerda que escribir es pensar, y coleccionar citas es lo mismo que no haber leído. Estas notas se guardan dentro del sistema de referencia una vez que han dado pie a las permanentes (p. 24 · Posición 526).
+2. *Literature notes*. Notas de referencia. Sobre fuentes de otros autores. Ser concisos, selectivos y no citar sino elaborar sobre las ideas de la fuente: recuerda que escribir es pensar, y coleccionar citas es lo mismo que no haber leído. Estas notas se guardan dentro del sistema de referencia una vez que han dado pie a las permanentes (p. 24 · Posición 526).
 3. *Permanent notes* in the slip-box. Notas permanentes que se alimentan de las dos anteriores (ideally once a day and before you forget what you meant, 
     - al añadir notas permanentes a partir de las efímeras y las de literatura (p. 25 · Posición 529-539):
         - Hay que ubicarlas alrededor de una o más notas relacionadas que ya existían antes
