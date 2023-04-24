@@ -1,4 +1,4 @@
-Sistemas como el [[zettelkasten de Luhman]], al estar basados en el lenguaje natural, problematizan la implementación formal de una [[ontología informacional]], porque [[el lenguaje natural no es formalizable]]; pero también posibilitan muchas otras dimensiones que las sintaxis lógicas no tienen y que también forman parte de los sistemas cognitivos extendidos. 
+Sistemas como el [[zettelkasten de Luhman]], al estar basados en el lenguaje natural, problematizan la implementación formal de una [[ontología informacional]], debido al problema de la [[formalización del lenguaje natural]]; pero también posibilitan muchas otras dimensiones que las sintaxis lógicas no tienen y que también forman parte de los sistemas cognitivos extendidos. 
 
 ![[informalidad ontológica]]
 

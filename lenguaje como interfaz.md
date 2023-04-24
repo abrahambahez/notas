@@ -2,4 +2,4 @@ La popularización de los [[LLM]] hacen viable pensar que tanto máquinas como p
 
 Las máquinas no entienden nada. Pero debidamente entrenadas en el lenguaje, pueden *comunicarse* con nosotros. Por otro lado, para nosotros una palabra significa una combinación de *concepto, emoción, reacción fisiológica e irrepetibilidad*. Pero es, al fin, una palabra, un significante que la máquina puede evocar en contextos relevantes para producir en nosotros el significado al que jamás podrá acceder.
 
-Queda por evaluar si, dada esta tecnología, [[el lenguaje natural no es formalizable]].
+Queda por evaluar si, dada esta tecnología, es posible la [[formalización del lenguaje natural]].

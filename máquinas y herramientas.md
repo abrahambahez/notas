@@ -1,7 +1,7 @@
-Definir a la máquina no es sencillo: pasó de ser un instrumento para llevar cargas pesadas operado por la mano humana a tener una fuente de poder extra corporal y operativamente autónoma. La [[agencia]] humana opera *herramientas*, mientras que la máquina es el instrumento independiente del humano. La variable en juego es el **grado de independencia entre el cuerpo humano y el *autómata*** [@ingold2011a, pp. 300-301].
+Definir a la máquina no es sencillo: pasó de ser un instrumento para llevar cargas pesadas operado por la mano humana a tener una fuente de poder extra corporal y operativamente autónoma. La [[agencia]] humana opera *herramientas*, mientras que la máquina es el instrumento independiente del humano. La variable en juego es el **grado de independencia entre el cuerpo humano y el *autómata*** [@ingold2011a, 300-301].
 
-Las cinco etapas en el *continuum* de grados de independencia de André Leroi-Gourhan (*Gesture and Speech*; citado en p. 301):
-
+Las cinco etapas en el *continuum* de grados de independencia de André Leroi-Gourhan [*Gesture and Speech*, citado en @ingold2011a, 301]\:
+ 
 1. Acción manipulativa a mano limpia (*bare hands*)
 2. La mano ejecutando una *acción motora directa* que *mueve la herramienta* (usar un destornillador)
 3. La mano ejecutando una *acción motora indirecta* a través de la fuerza aplicada sobre un dispositivo operativo (usar fusta con un caballo)

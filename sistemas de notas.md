@@ -1,4 +1,4 @@
-## Fundamentos
+# Fundamentos
 
 Los sistemas de notas son una tendencia creciente de especificaciones, convenciones, aplicaciones, métodos y/o técnicas que buscan *sistematizar* la práctica de escribir notas.
 
@@ -10,26 +10,28 @@ Una nota puede entenderse de varias formas:
 
 1. Como práctica humana; relacionada fundamentalmente con la memoria de trabajo o con el proceso de aprendizaje (los apuntes)
 2. Como técnica cognitiva; relacionada con la producción creativa, científica, sobre todo en occidente
-3. Como una unidad intelectual que interactúa con **sistemas** cognitivos más complejos
+3. Como un proceso intelectual que interactúa con **sistemas** cognitivos más complejos
 
 Relacionado:
 
 - [[intuición experta en el trabajo con notas]]
 - [[masa crítica de notas]]
-- [[proceso dialógico entre notas]]
+- [[partir de preguntas, forzar vínculos en sistemas de notas]]
 
 ### Fundamentos cognitivos detrás de la escritura de notas
 
-1. La visión occidental popular de la mente-cerebro
-2. Las [[teorías de la cognición extendida]]
+1. La teoría occidental popular de la mente-cerebro
+2. Las [[hipótesis de la cognición extendida]]
 3. Las culturas escritas y las culturas orales
 4. Las tecnologías de esas culturas
 
 Relacionado:
 
+- [[elaboración escrita]]
+
 ### Fundamentos informacionales
 
-- [[el lenguaje natural no es formalizable]]
+- [[formalización del lenguaje natural]]
 - [[enlaces de categoría]]
 - [[esquemas de clasificación enumerativos]]
 - [[ontología informal]]

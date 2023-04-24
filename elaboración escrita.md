@@ -1,6 +1,6 @@
 Justificación
 
-Para @luhmann2021, aprender nombres: *«Obviously most knowledge can also be ordered by names»* (párr. 9) tanto de autora:es como de teorías, el problema es que los nombres no abordan son las conexiones conceptuales o la naturaleza de los problemas que esos textos intentan resolver
+Para @luhmann2021, aprender nombres: *«Obviously most knowledge can also be ordered by names»* (párr. 9) tanto de autores como de teorías, el problema es que los nombres no abordan son las conexiones conceptuales o la naturaleza de los problemas que esos textos intentan resolver
 
 >*«Still, even candidates in exams at the end of their studies want to be examined on Max Weber or, if that is too much, on Humberto Maturana, and they are prepared to report on what they know about these authors.»* (párr. 9)
 

@@ -1,3 +1,5 @@
+[[hipótesis de la cognición extendida]]
+
 - [Allen-Hermanson - Superdupersizing the mind: extended cognition and the persistence of cognitive bloat ](https://www.jstor.org/stable/41932759)
 - [Clark y Chalmers - The extended mind](http://scholar.google.com.mx/scholar_url?url=https://era.ed.ac.uk/bitstream/handle/1842/1312/TheExtendedMind.pdf%253Fsequence%253D1%2526isAllowed%253Dy&hl=es&sa=X&ei=LEXFX8iGD4rOmgGuq7GoAQ&scisig=AAGBfm3gV5YwXrLD9exuKENO6Hn1fGPRPQ&nossl=1&oi=scholarr)
 - [Sprevak - Extended cognition](https://marksprevak.com/publications/extended-cognition/)

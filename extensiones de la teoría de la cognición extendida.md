@@ -1,4 +1,4 @@
-Es posible extender a otros aspectos de la mente la *hipótesis de la cognición extendida*
+Es posible extender a otros aspectos de la mente la [[hipótesis de la cognición extendida]]:
 
 - **Extensión material de las emociones**. Colombetti et al. (2018)
 - **Extensión social de la cognición**. Gallagher (2011)
