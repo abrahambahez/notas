@@ -4,4 +4,4 @@ La [[productividad]] del hombre blanco podría considerarse una falacia informal
 
 >“universalizes a wealthy, white man’s experience as a workable method for others” and his get-rich-quick techniques “can only be pursued by a few people before becoming unsustainable; not everyone can game Google AdWords.”
 
-Y luego en el capítulo 5 afirma que *«[…] los [[hackers]] de la productividad y Ben Franklin comparten el hecho de no apreciar cómo la productividad es dependiente de trabajo "invisible" de otros.»*
+Y luego en el capítulo 5 afirma que *«[…] los [[hackers]] de la [[productividad]] y Ben Franklin comparten el hecho de no apreciar cómo la productividad es dependiente de trabajo "invisible" de otros.»*

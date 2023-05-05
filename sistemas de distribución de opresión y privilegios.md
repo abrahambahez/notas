@@ -5,4 +5,4 @@ Los sistemas de distribución de opresión y privilegios son configuraciones de 
 
 Estos criterios los convierten en sistemas inherentemente jerárquicos.
 
-#desigualdades
+[[desigualdad]]

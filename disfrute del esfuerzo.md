@@ -12,5 +12,3 @@ De acuerdo con @huberman2021 [min. 1:37:55] una [[técnica de gestión de motiva
 Huberman relaciona la estrategia del disfrute del esfuerzo con la [[mentalidad de crecimiento]].
 
 Para [@cavarretta2020] la relación entre el esfuerzo y la motivación suele entenderse *como consecuencia* (me esfuerzo porque me gusta la actividad, tiende a durar más) o, más comúnmente, *como causa* (me esfuerzo porque quiero obtener un resultado, tiende a durar menos), en su lugar, plantea verlo como un ciclo de retroalimentación donde *esfuerzo > performance > placer > motivación > esfuerzo*. Este ciclo es parecido al de la [[conducta adictiva]] y puede ser usado para propiciar conductas deseables en el corto y el largo plazo. El autor considera indeseable para estos esfuerzos la asociación cultural del esfuerzo como *dolor* (y por tanto, *opuesto al placer*).
-
-#inbox 

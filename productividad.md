@@ -12,4 +12,4 @@ De acuerdo con @reagle2019
 - [[gestión de proyectos]]
 - [[modelo prioridad-proyecto-contexto]]
 
-#gestión 
+[[gestión]]

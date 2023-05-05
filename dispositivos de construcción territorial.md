@@ -4,7 +4,7 @@ Siguiendo la idea de @hoffmann2021 sobre las técnicas y tecnologías de constru
 
 **Paisajes:** ¿Cómo se manifiesta el [[territorio]] en el mundo ecológico-cultural? Como paisaje. El [[paisaje]] encarna muchos de los niveles antes explorados, incluyendo sus condiciones históricas, muy antiguas en algunos lugares, lo que lo constituye en *objeto histórico*.
 
-Pero el [[paisaje]] es un proyecto político [@capel2016], en la ciudad y en los asentamientos se decide añadir, remover, destacar, honrar u olvidar según la dirección del poder y el momento político (p.e. la monumentalidad busca crear memoria política, la gentrificación obedece a intereses de grupos de poder), así como sus relaciones con las dinámicas de habitabilidad territorial no dirigidas como la migración, apropiaciones no regularizadas, proyectos [[territorio|territoriales]] a micro-escala como los domésticos (p.e. auto-construcción, conflictos barriales o agrupaciones vecinales que intervienen permanentemente en el espacio). 
+Pero el [[paisaje]] es un proyecto político [@capel2016], en la ciudad y en los asentamientos se decide añadir, remover, destacar, honrar u olvidar según la dirección del poder y el momento político (p.e. la monumentalidad busca crear memoria política, la [[gentrificación]] obedece a intereses de grupos de poder), así como sus relaciones con las dinámicas de habitabilidad territorial no dirigidas como la migración, apropiaciones no regularizadas, proyectos [[territorio|territoriales]] a micro-escala como los domésticos (p.e. auto-construcción, conflictos barriales o agrupaciones vecinales que intervienen permanentemente en el espacio). 
 
 **[[zonificación]]**
 

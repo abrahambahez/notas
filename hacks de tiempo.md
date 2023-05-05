@@ -6,7 +6,7 @@
         - [Building a Second Brain](https://youtu.be/SjZSy8s2VEE)
         - [[GTD]]
         - [[gestión ágil]]
-    - [[principio de Pareto]] o regla 80/20 aplicado a la productividad [@koch2011]
+    - [[principio de Pareto]] o regla 80/20 aplicado a la [[productividad]] [@koch2011]
     - Priorización
         - [matriz de Eisenhower](https://en.wikipedia.org/wiki/Priority_Matrix)
         - **Regla 1-3-5** de Alexandra Cavoulacos, quien propone terminar diariamente una tarea grande, tres tareas medianas y cinco tareas pequeñas

@@ -1,4 +1,4 @@
-#análisisDeDatos 
+[[análisis de datos]]
 
 El análisis de lista de contactos es una [[técnica de investigación]] o [[estrategia metodológica]] usada en el contexto de la [[etnografía digital]] para entender relaciones sociales mediadas digitalmente, de acuerdo con @pinketal2016 [p. 118]
 
