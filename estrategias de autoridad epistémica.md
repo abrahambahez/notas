@@ -1,0 +1,4 @@
+- [[citacionalidad]]
+- [[estar ahí]] (experiencia práctica)
+- reconocimiento gremial
+- [[ideas paradigmáticas]]

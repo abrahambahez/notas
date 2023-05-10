@@ -1,0 +1,3 @@
+Modelo de [[procesamiento de lenguaje natural]] que analiza a través de features-dimensiones:
+
+- Se definen features y cada feature es una dimensión extra del vector
