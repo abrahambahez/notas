@@ -55,7 +55,7 @@ El sujeto de la modernidad colonial es hombre, es blanco, es *pater familiæ* (p
 
 El conflicto entre el binarismo (suplantatorio) y el dualismo (complementario) lleva a Segato a concluir que
 
->Al comprender esto, entendemos que el doméstico es un espacio ontológica y políticamente entero, completo cn su política propia, con sus asociaciones propias, jerárquicamente inferior a lo público, pero con capacidad de autodefensa y de autotransdormación (p. 90)
+>Al comprender esto, entendemos que el doméstico es un espacio ontológica y políticamente entero, completo en su política propia, con sus asociaciones propias, jerárquicamente inferior a lo público, pero con capacidad de autodefensa y de autotransformación (p. 90)
 
 ### Críticas de Segato a las políticas de género
 La meta de los proyectos debería ser la promoción de la igualdad entre el colectivo de los hombres y el colectivo de las mujeres dentro de las comunidades (p. 91). Pero se produce una despolitización del espacio doméstico a través de dos errores:
