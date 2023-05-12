@@ -12,3 +12,17 @@ Existen imposiciones en varias dimensiones que son dirigidas por el sujeto que i
 - Imposición de la perspectiva desde la que se habla (locus de enunciación)
 - Imposición de las premisas a partir de las cuales se habla
 - Imposición de las categorías desde las que se enfoca la realidad
+
+## Problemas del trabajo de campo
+
+- Dirección teórica sesgada:
+    - [[problema de la autoría de la etnografía]]
+    - En la entrevista [@jocilesrubio2006]
+- Emociones negativas [@down&al2006]
+- [[intimidad etnográfica]] y desigualdades de poder
+- Desigualdades de género [@hanson2019]
+- Éticas del ocultamiento en «comunidades proscritas» [@suarez-vergne2020]
+- Dirección
+- <
+
+>Siendo consciente de que cualquier infracción personal, por pequeña que fuese, podía introducir mayores brechas en la confianza con los miembros del campo, los etnógrafos disponen de muchas técnicas para mantener sus relaciones en positivo, que incluyen brindar servicios para los demás (Adler y Adler 1993), manipular su apariencia y conducta (Van Maanen 1991), y forjar lazos más cercanos con miembros clave del entorno (Liebow 196 7). Sin embargo las relaciones se enfrían, la confianza se quiebra, y a veces los investigadores se exilian del campo. [@irwin2006, 163, falling out of the field]
