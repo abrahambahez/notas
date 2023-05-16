@@ -2,7 +2,7 @@
 
 El **acuerdo modernista** es un término de Latour que designa un *convenio* (cultural) que consiste en describir la naturaleza y la sociedad como entidades separadas. Este acuerdo no existe en todas las sociedades humanas (y tampoco de manera absoluta en las sociedades, p. 28).
 
-La interpretación de lo que es un [[sistema sociotécnico]] descansa fuertemente en ese *acuerdo modernista*, en esa separación excluyente sociedad-naturaleza. Por eso al discutirlo se enfrenta su propia definición.
+La interpretación de lo que es un sistema sociotécnico descansa fuertemente en ese *acuerdo modernista*, en esa separación excluyente sociedad-naturaleza. Por eso al discutirlo se enfrenta su propia definición.
 
 %%
 Referencias interesantes
