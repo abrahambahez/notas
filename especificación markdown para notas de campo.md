@@ -1,11 +1,8 @@
----
-date: 2022-11-10
----
-### Nombre del archivo 
+## Nombre del archivo 
 
 Debe ser fecha en `YYYY-MM-DD.md`
 
-### Sintaxis
+## Sintaxis
 
 Heredada de markdown:
 

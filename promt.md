@@ -1,4 +1,4 @@
-Una prompt puede contener cualquiera de los siguientes componentes:
+En el contexto de los [[LLM]] y el [[prompt engineering]], una *prompt* puede contener cualquiera de los siguientes componentes:
 
 **Instrucción** - una tarea o instrucción específica que deseas que el modelo realice
 

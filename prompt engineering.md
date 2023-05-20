@@ -4,7 +4,7 @@
 
 Desde el curso de [deeplearning.ai](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 
-### Escribir [[instrucciones claras y específicas]]
+### Escribir instrucciones claras y específicas
 Algunas tácticas usadas para la claridad son:
 
 #### Delimitadores
