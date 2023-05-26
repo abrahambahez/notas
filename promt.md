@@ -10,4 +10,4 @@ En el contexto de los [[LLM]] y el [[prompt engineering]], una *prompt* puede co
 
 No todos los componentes son necesarios para una prompt y el formato depende de la tarea en cuestión. Abordaremos más ejemplos concretos en las próximas guías.
 
-Iterar los prompts para optimizar resultados es necesario en todos los 
+Iterar los prompts para optimizar resultados es necesario en todos los casos.

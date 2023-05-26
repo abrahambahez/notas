@@ -1,6 +1,5 @@
----
-sources: https://www.youtube.com/embed/jS7bgRaCkoU
----
+![Antropologías disistentes y posibles](https://www.youtube.com/embed/jS7bgRaCkoU)
+
 De acuerdo con la antropóloga Annel Mejías Guiza [cfr. @restrepo&al2020] el sentido común disciplinario son aquellas prácticas históricas que *establecen* qué es la antropología, cómo se hace o incluso quién puede ser antropóloga:o. En ese sentido es capaz de establecer directrices como:
 
 - Dictar que la fundación de escuelas sean organizadas según las cuatro ramas boasianas

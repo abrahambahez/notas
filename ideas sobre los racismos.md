@@ -1,7 +1,9 @@
 [[sistemas de distribución de opresión y privilegios]]
 
 ## Conceptos
+
 ### Expresiones de racismo
+
 - [[racialización]]
 - [[racialismo]]
 - [[racismo]]
@@ -10,11 +12,14 @@
 - [[racialización étnica]]
 
 ### Grados de determinación
+
 - Naturalización ─ historización
 - Racismo de prejuicio, racismo de discriminación, racismo estructural (cada uno definido en función de ideas, acciones y estructuración de procesos sociales normalizadores)
 
 ## Argumentos
-### sobre la lógica que subyace a la clasificación
+
+### Sobre la lógica que subyace a la clasificación
+
 1. La idea de las características suficientemente distintas que utilizan los zootécnicos para diferenciar perros cuya reproducción es controlada ¿cómo se dan esas características suficientemente distintas?
 2. El conjunto de características que producen la diferenciación entre personas sirve a la legitimación de la estructura de poder
 3. Hay un nivel donde las expresiones de racismo son diversas, pero hay otro nivel, más formal, en el que comparten las mismas lógicas: es el nivel de la **clasificación**.
@@ -29,6 +34,7 @@
     2. La taxonomía da origen al racismo moderno
 
 ### sobre clasificación y continuidad
+
 - Clasificación y continuidad (pensamiento discontinuo de Dawkins, [[construcción escalar]], [[problema de la clasificación]])
 - La confusión entre lo biológico y lo cultural en la discusión sobre el racismo implica fuertemente la lógica de la [[construcción escalar]]. Conceptos como herencia y legado 
 - Raza es un constructo que clasifica por características presuntamente biológicas, pero la selección y la definición de esas características es altamente variable.
@@ -40,13 +46,16 @@ Dos lecturas sobre la determinación: una determinista rígida (destino) y otra 
 [[racialización étnica]]
 
 ## Preguntas
+
 ### ¿La historia se puede controlar? ¿lo histórico es «corregible»?
 
 ### ¿Cuándo comienza el racismo?
+
 - Criterio nominal: cuando se nombra
 - Criterio sociohistórico: cuando se instituye como [[sistemas de distribución de opresión y privilegios]]
 
 ## Notas históricas
+
 - [[racialización en México]]
 
 ## Problemas difíciles del racismo

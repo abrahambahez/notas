@@ -1,6 +1,5 @@
----
-sources: "https://www.youtube.com/embed/RROWX5mU9qg"
----
+![](https://www.youtube.com/embed/RROWX5mU9qg)
+
 Estamos ante un [[par epistémico]] cuando consideramos a alguien  tan inteligente, bien informado y libre de sesgos como uno. Cuando surgen dos posturas contradictorias entre dos personas consideradas pares epistémicos en esa materia, entonces es un caso de [[epistemología del desacuerdo]].
 
 Hay dos posibles actitudes ante el desacuerdo: la conciliación, o suspender el juicio; y la firmeza, o mantener las creencias ante el descuerdo.

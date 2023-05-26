@@ -26,7 +26,7 @@ Ver fotos capturadas en inbox
 
 ## 11. Jets'mek transnacional: Okuxkab y San Francisco, de Fortuny Lorte de Mola
 
-El Jets'mek está relacionado con caminar (ver referencias a Redfield) [[_c Monte]]
+El Jets'mek está relacionado con caminar (ver referencias a Redfield) 
 
 ## 12. Quincunx y política Yucateca - Castillo Cocom
 Ver fotos capturadas en inbox
