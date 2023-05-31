@@ -26,7 +26,7 @@ Los *constructores de sistemas* (ingenieros heterogéneos) desarrollan los compo
 
 Todo lo que no está bajo el control del sistema no puede considerarse un componente de él. Los factores ambientales y contextuales que afectan a los sistemas tecnológicos no son sus componentes.
 
->Los sistemas tecnológicos están defmidos por los límites del control ejercido por los operadores artefactuales y humanos. (p. 106)
+>Los sistemas tecnológicos están definidos por los límites del control ejercido por los operadores artefactuales y humanos. (p. 106)
 
 Los sitemas tecnológicos suelen estar ordenados a través de [[jerarquía]] (p. 107)
 

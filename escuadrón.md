@@ -1,6 +1,6 @@
 De acuerdo con @hart&al2020 de la organización de investigación independiente *Other Internet*, un tipo de [[grupo estructurado]] es el **escuadrón**, que se caracteriza porque mantiene cohesión, persistencia, cierto grado de auto-reconocimiento (un *nosotros*), unas reglas explícitas y un número muy reducido de miembros: *«no más de 12»*, muy por debajo del [[número de Dunbar]], que afirma que el máximo es de 150. Pueden ser grupos vecinales, de amigos, grupos domésticos o subgrupos de otros más grandes (como un equipo consistente dentro de videojuegos masivos), comunidades de práctica, grupos de afinidad.
 
-Los escuadrones comparten un *espacio de escuadrón*, que se desarrolla a través de grupos de mensajería directa, servidores privados en Discord.
+Los escuadrones comparten un *espacio de escuadrón*, que se desarrolla a través del [[sociosistema digital]], en este caso a través de grupos de mensajería directa, servidores privados en Discord.
 
 El elemento clave de cohesión de estos grupos es la **confianza**, que se cultiva a través de *squad vibes* o «vibras del escuadrón», ya que no existen elementos como incentivos financieros, de modo que se intercambian recursos creativo-emocionales (imágenes, videos, memes, bromas, música) que definen la reproducción del grupo y forman la base simbólica de su identidad.
 
