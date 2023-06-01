@@ -4,4 +4,4 @@ Posetnografía es ese *«intersticio temporal, espacial, conceptual y metodológ
 
 Posetnografía es *«el intervalo entre el "campo" y la "escritura"»* [@parriniroses2021, p. 76].
 
-@parriniroses2021 recupera el concepto de *correspondencia* de @ingold2017 para usarlo como *mecanismo de composición posetnográfica*, como una forma de buscar relaciones entre el campo y el texto, entre el antropólogo y sus interlocutores (sus experiencias, intereses y temas en común) cuando el texto aún no existe.
+@parriniroses2021 recupera el concepto de *[[correspondencia]]* de @ingold2017 para usarlo como *mecanismo de composición posetnográfica*, como una forma de buscar relaciones entre el campo y el texto, entre el antropólogo y sus interlocutores (sus experiencias, intereses y temas en común) cuando el texto aún no existe.

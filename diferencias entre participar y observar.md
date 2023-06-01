@@ -17,4 +17,4 @@ graph TD
     C1 --> C2[recolección de datos]
 ```
 
-Cuando Ingold habla de poner a la antropología de frente [@ingold2017, p. 156] da más importante al aprendizaje con correspondencia que a la escritura. Escribe también: *«Si el objetivo último de la antropología no es documental sino transformacional, no sería apropiado entregar un futuro idéntico a como lo hemos recibido del pasado.»* [@ingold2013, p. 13]
+Cuando Ingold habla de poner a la antropología de frente [@ingold2017, p. 156] da más importante al aprendizaje con [[correspondencia]] que a la escritura. Escribe también: *«Si el objetivo último de la antropología no es documental sino transformacional, no sería apropiado entregar un futuro idéntico a como lo hemos recibido del pasado.»* [@ingold2013, p. 13]

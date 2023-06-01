@@ -1,4 +1,4 @@
-Un sistema es una entidad abstracta que usamos para entender fenómenos y procesos que parecen seguir muchos de los siguientes atributos:
+Un sistema es un [[constructo teórico]] que describe una entidad abstracta que usamos para entender fenómenos y procesos que parecen seguir muchos de los siguientes atributos:
 
 - Tienen un conjunto de entidades a las que podemos atribuir *membresía*[^1]
 - Los miembros están relacionados actual o potencialmente de diferentes formas
