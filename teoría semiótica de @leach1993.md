@@ -1,4 +1,4 @@
-[[crítica de la teoría semiótica de E. Leach]]; cfr. p. 9 resaltado para una discusión de la teoría del don, por ejemplo, vs. [[el intercambio mercantil no excluye al trueque ni al obsequio]]
+[[crítica de la teoría semiótica de E. Leach]]; cfr. p. 9 resaltado para una discusión de la teoría del [[don]], por ejemplo, vs. [[el intercambio mercantil no excluye al trueque ni al obsequio]]
 
 ## empiristas y racionalistas
 
