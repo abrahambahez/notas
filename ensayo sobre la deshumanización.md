@@ -62,9 +62,7 @@ Un *homo technicus* argumentaría en contra de la reducción de lo tecnológico 
 
 Un *homo oeconomicus*, aparentemente lejano para el deporte, comparte exactamente la misma matriz de toda la cultura occidental, y que definitivamente pondría en duda: el individualismo y la racionalidad instrumental. Valores como el desarrollo individual, o un marco como el de un egoísmo filosófico para explicar prácticas competitivas pueden dejar de tener sentido en otras prácticas que podrían ser candidatas a 'deportes' pero desarrolladas fuera de la matriz occidental.
 
-Un tercer marco de interpretación, que supongo sería más útil e interesante, sería el de la humanidad como proceso de *subjetivación*, es decir, como el proceso de creación de sujetos. La diferencia es que estos procesos pueden producir *tipos humanos* completamente diversos, incluso contradictorios, sin que eso requiera considerar a uno *mejor* o *más deseable* que otro, a priori.
-
-La subjetivación puede verse como la disciplinación del cuerpo de Foucault, o como el Habitus de Bourdieu, pero debe involucrar un proceso donde mente-cuerpo forman un todo (a diferencia, otra vez, de la idea occidental más común).
+Un tercer marco de interpretación, que supongo sería más útil e interesante, sería el de la humanidad como proceso de *[[subjetivación]]*, es decir, como el proceso de creación de sujetos. La diferencia es que estos procesos pueden producir *tipos humanos* completamente diversos, incluso contradictorios, sin que eso requiera considerar a uno *mejor* o *más deseable* que otro, a priori.
 
 La humanidad como proceso sociohistórico de subjetivación cognitivo-corporal sigue siendo constructivista pero cambia el enfoque de la discusión sobre la deshumanización.
 

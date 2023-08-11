@@ -8,7 +8,7 @@ La lógica de empequeñecimiento sistemático de lo humano de esta historia que 
 - El cristianismo de cristiandad imperial que niega la igualdad humana del *imago Dei* y quita humanidad a los paganos p. 65
 - La modernidad capitalista que mercantiliza las relaciones humanas: *«Como no hay comunidad y como, por consiguiente, se reprime la idea de que un bien que no sea común, no es bien, la posesión egoísta de sí mismo así como la apropiación privada de las cosas se convierten en las referencias fundamentales para fundarse como sujeto, es decir, como un ser capaz de autodeterminarse y de establecer contratos con otros»* (p. 66).
 - El imperialismo colonialista europeo y su civilización del progreso que define a su opuesto, la barbarie desde el paradigma del *«desarrollo humano»* (p. 66)
-- La resistencia política y cultural de los pueblos colonizados que desenmascara la *falsedad de un humanismo burgués* (p. 66) y crean nuevas condiciones históricas y teóricas de convivencia humana (p. 67)
+- La [[resistencia]] política y cultural de los pueblos colonizados que desenmascara la *falsedad de un humanismo burgués* (p. 66) y crean nuevas condiciones históricas y teóricas de convivencia humana (p. 67)
 
 Somos parte de una **historia de inhumanidad** sobre la cual las teorías del reconocimiento y sus políticas derivadas llaman grandemente la atención. El otro es sujeto de un daño antropológico, político, cultural, entre otros. Pero las concepciones occidentales del reconocimiento son insuficientes: *«el otro no necesita tanto “abogados” que hablen por él como más bien un cambio de “jueces” y/o de las reglas de juego.»* (p. 68).
 

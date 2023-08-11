@@ -9,3 +9,5 @@ Para mantener la consistencia y facilitar el análisis global posterior, hay que
 Pueden escribirse comentarios más largos en un párrafo aparte y encerrar ese párrafo entre paréntesis, como sucede con el ejemplo que cita @emerson2011 [p. 83].
 
 Algunos párrafos de comentarios sumarios al inicio o al final de la nota diaria sirven para dar un resumen o destacar elementos de ella que son útiles para el interés de la investigación. En este caso sería útil separarlos como secciones independientes.
+
+Esta estrategia es un requisito de mi especulativa [[especificación markdown para notas de campo]]

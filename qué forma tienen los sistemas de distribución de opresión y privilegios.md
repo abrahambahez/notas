@@ -21,4 +21,4 @@ Un esquema muy burdo puede dar una idea de la fórmula anterior. Según veo es l
 - El clasismo
 	- El elitismo hegemónico (tecnocracias, *gnoseocentrismo*)
 
-A cada uno le corresponde una especie de resistencia o *lucha social* que también se transforma históricamente y que implica distintos postulados desde formas muy diversas de ver el mundo y sus valores centrales, como la justicia y la equidad, etcétera.
+A cada uno le corresponde una especie de [[resistencia]] o *lucha social* que también se transforma históricamente y que implica distintos postulados desde formas muy diversas de ver el mundo y sus valores centrales, como la justicia y la equidad, etcétera.

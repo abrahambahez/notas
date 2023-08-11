@@ -14,7 +14,7 @@ Por otra los elementos estructuradores como:
 
 - institucionalidad
 - estructura social
-- procesos de subjetivación:
+- procesos de [[subjetivación]]:
     - tradiciones
     - hábitos pericianos (disposiciones prácticas)
     - la noción de [[categoría serial]]

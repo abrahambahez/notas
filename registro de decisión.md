@@ -4,4 +4,4 @@ Un registro de decisión es un [[notas/registro documental]] que permite definir
 - https://adr.github.io/madr/
 - http://www.iaria.org/conferences2012/filesICCGI12/Tutorial%20Specifying%20Effective%20Non-func.pdf
 
-Ve la [[plantilla registro de decisión]].
+Ve la [[plan_decisión]].

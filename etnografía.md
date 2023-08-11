@@ -4,9 +4,11 @@ Para @restrepo2016, la etnografía es una *descripción* que busca una mirada de
 
 Para @emerson2011 [p. 1], la investigación etnográfica tiene dos componentes esenciales: la participación del investigador, es decir, [[observación participante]]; y la escritura regular y sistemática de lo observado y de los aprendizajes mientras se participa en la vida diaria de los otros, en un [[diario de campo]] que acumula los registros de esa información.
 
-Para @linsribeiro&kemper2014 [p. 64] *la experiencia etnográfica queda conformada, por tanto, como una serie de encuentros en un proceso mutuo de
-negociación de ignorancia y ansiedad, cuya meta es producir una fusión de horizontes que vuelva a hacer predecible la vida diaria de los participantes.»*
+Para @linsribeiro&kemper2014 [p. 64] «la experiencia etnográfica queda conformada, por tanto, como una serie de encuentros en un proceso mutuo de
+negociación de ignorancia y ansiedad, cuya meta es producir una fusión de horizontes que vuelva a hacer predecible la vida diaria de los participantes.»
 
-De acuerdo con @biskupovic&brinckpinsent2018 [p. 9], *«para responder esas preguntas básicas del con-vivir, la etnografía es un proceso que nos permite observar conductas y que nos ayuda a asegurar la fiabilidad de nuestros datos obteniéndolos de “primera mano”.»* y añade: *«Actualmente existe una diversidad de modos de practicar la etnografía. La sociología dominante, marcada por una metodología heredera del positivismo, recibe de mejor manera etnografías naturalistas antes que experimentales (etnografía interpretativa, reflexiva, colaborativa, performativa, autoetnografía, etc.).»* [@biskupovic&brinckpinsent2018, p. 14].
+De acuerdo con @biskupovic&brinckpinsent2018 [p. 9], «para responder esas preguntas básicas del con-vivir, la etnografía es un proceso que nos permite observar conductas y que nos ayuda a asegurar la fiabilidad de nuestros datos obteniéndolos de “primera mano”.» y añade: «Actualmente existe una diversidad de modos de practicar la etnografía. La sociología dominante, marcada por una metodología heredera del positivismo, recibe de mejor manera etnografías naturalistas antes que experimentales (etnografía interpretativa, reflexiva, colaborativa, performativa, autoetnografía, etc.).»[@biskupovic&brinckpinsent2018, p. 14].
+
+Para @vanmaanen1988 [1], «una etnografía es una representación escrita de una cultura (o aspectos selectos de una cultura)» y en cuanto tal «escribir una etnografía es un trabajo de oficina de Escritorio, no trabajo de campo» [@vanmaanen1988, 4]
 
 ver: https://cepalforja.org/sistem/bvirtual/wp-content/uploads/2017/05/LIBRO-Sistematizacin-Etnografica-Lewis-Pereira.pdf

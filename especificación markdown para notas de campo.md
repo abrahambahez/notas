@@ -17,5 +17,5 @@ Heredada de otras convenciones:
 
 Inspirada en otras propuestas:
 
-- Anotaciones [margin.love](https://margin.love): `[]`
+- Anotaciones, inspiradas en [margin.love](https://margin.love): `[]`
 - Referencias `[[]]`

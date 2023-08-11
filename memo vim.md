@@ -11,3 +11,4 @@ ver https://apuntes-snicoper.readthedocs.io/es/latest/editors/vim/spell_vim_es.h
 - `( )` Avanzar por oración, busca un punto seguido de una mayúscula
 - `{ }` Avanzar por párrafos
 - visual `U | u` mayúscula o minúscula 
+- Ctrl+V to enter visual block mode Move down with jj to select the columns of text in the lines you want to comment.Then hit Shift+I

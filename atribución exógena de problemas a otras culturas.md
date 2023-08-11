@@ -9,7 +9,7 @@ Cuando yo interpreto que en otro contexto cultural se padece el mismo problema s
 1. Del hecho de que un acto de violencia o dominación sea distinto culturalmente a los míos, no se sigue que la violencia o dominación no existan, sino que son construidas, practicadas y padecidas de forma distinta en cada cultura
 2. La forma intercultural más *«respetuosa»*  posible de abordar este problema es no intervenir con mis marcos culturales universalistas (por ejemplo, los derechos humanos), sino que debería, cuando menos:
     1. Entender la particularidad de la violencia desde el punto de vista de quien la ejerce y quien la recibe
-    2. Entender en qué sentido y de qué modo las dinámicas internas de los grupos generan respuestas de lucha, resistencia, conformidad, invisibilización, etcétera.
+    2. Entender en qué sentido y de qué modo las dinámicas internas de los grupos generan respuestas de lucha, [[resistencia]], conformidad, invisibilización, etcétera.
     3. Hacer explícitos los contextos y situaciones culturales (que implican elementos epistemológicos, éticos y estéticos, entre otros) en los cuales se practica la violencia
 
 La interpretación de este problema como un problema de comunicación intercultural refuerza la idea de una incomunicabilidad inicial en los encuentros interculturales.
