@@ -1,4 +1,4 @@
-## texto etnográfico impresionista
+Un [[texto etnográfico]] impresionista tiene las siguientes características:
 
 1. **Identidad textual**. El etnógrafo pone al lector en el trabajo de campo evento por evento, desde el punto de vista del observador externo, con mucho más transparencia y de formas mucho más concretas, con el riesgo de quedar atrapados en un flujo narrativo, que hace más difícil o incómodo, introducir comentarios extensos o demasiado teóricos
 2. **Conocimiento fragmentado**. La descripción del trabajo de campo cronológica o dispersa produce ciertos problemas o preocupaciones metodológicas para el lector por la forma narrativa que adopta y de este modo se hace difícil saber qué elementos de la narración serán importantes para el análisis o exactamente cuál es el tema que se quiere tratar

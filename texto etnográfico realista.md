@@ -1,6 +1,4 @@
-## texto etnográfico realista
-
-Para @vanmaanen1988 [cap. 3] un «cuento», o relato etnográfico realista tiene cuatro convenciones:
+Para @vanmaanen1988 [cap. 3] un «cuento», relato o [[texto etnográfico]] realista tiene cuatro convenciones:
 
 1. **Autor(idad) experiencial**. El narrador está ausente en la descripción, en la que predominan las descripciones de lo que la gente hace o dice. La autoridad descansa en la reputación experta del etnógrafo.
 2. **Formas típicas**. Descripciones largas llenas de detalles ínfimos sobre asuntos cotidianos que van desde creencias, ritos, prácticas, hábitos, entre otros, usualmente con la intención de introducir al lector en el mundo etnográfico.
