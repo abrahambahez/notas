@@ -10,5 +10,5 @@ Es evidentemente falso que una política que busca equilibrar una condición de 
 
 - La célebre (al menos en México) idea de que «la gente pobre está en ese estado porque *realmente no quiere* salir de él»
     - En [este artículo](https://elpais.com/ciencia/2021-02-12/la-meritocracia-y-otros-mecanismos-psicologicos-que-sirven-de-excusa-contra-los-impuestos.html), Javier Salas menciona el sesgo de ignorar la ventaja inicial en un juego competitivo (equivalente funcional de la desigualdad de oportunidades)
-- La necia resistencia a las políticas preventivas / retributivas como los vagones exclusivos para mujeres bajo la idea de que representan «discriminación inversa» hacia los hombres o los grupos privilegiados en esa relación de poder
+- La necia resistencia a las políticas preventivas / retributivas como los vagones exclusivos para mujeres bajo la idea de que representan «[[discriminación]] inversa» hacia los hombres o los grupos privilegiados en esa relación de poder
     - Curiosamente, la crítica cambia (aunque no se respete) cuando la política preferencial se dirige a personas con «discapacidades» físicas o mentales; tal vez sugiriendo que sólo los estados de *«desventaja evidente»* y permanente son aceptables (cuestión enteramente criticable respecto a considerarlos del todo desventajas)

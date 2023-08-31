@@ -43,7 +43,7 @@ El planteamiento general es muy interesante y la problematización da pie a vari
 
 Mi parte favorita en lo personal es la de la relación política-deporte, ahí hay una tesis sola, pero sin duda la crítica a instituciones tendría conclusiones más prácticas.
 
-El modelo de Stuurman parece muy útil porque da sobre todo indicadores concretos de observación y análisis. Veo en el modelo de Stuurman principios más generales de la filosofía, como el problema de la alteridad, la ética de la competencia y la filosofía de la agencia.
+El modelo de Stuurman parece muy útil porque da sobre todo indicadores concretos de observación y análisis. Veo en el modelo de Stuurman principios más generales de la filosofía, como el problema de la [[alteridad]], la ética de la competencia y la filosofía de la agencia.
 
 Lo que parece **necesario** en la discusión pero parece evitado por ahora es la discusión sobre el propio concepto de *humanización*, sin la cual se pueden producir varios puntos ciegos en la argumentación.
 

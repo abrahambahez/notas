@@ -14,7 +14,7 @@
 ### Grados de determinación
 
 - Naturalización ─ historización
-- Racismo de prejuicio, racismo de discriminación, racismo estructural (cada uno definido en función de ideas, acciones y estructuración de procesos sociales normalizadores)
+- Racismo de [[prejuicio]], racismo de [[discriminación]], racismo estructural (cada uno definido en función de ideas, acciones y estructuración de procesos sociales normalizadores)
 
 ## Argumentos
 

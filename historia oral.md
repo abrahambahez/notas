@@ -1,6 +1,6 @@
 De acuerdo con @garayetal1999 [p. 13, citando a William Baum] la historia oral busca preservar el conocimiento de los eventos históricos tal como fueron percibidos por los participantes.
 
-Como metodología es fundamental para el análisis de la época contemporánea. Utiliza la entrevista grabada como técnica principal, sin tomar en cuenta ninguna forma de muestreo [p. 14]. Esta técnica *democratiza la producción de fuentes* [p. 18] y permite complementar vacíos que los documentos tienen, sobre todo en relación con la experiencia cotidiana, la alteridad y la subalternidad [p. 21].
+Como metodología es fundamental para el análisis de la época contemporánea. Utiliza la entrevista grabada como técnica principal, sin tomar en cuenta ninguna forma de muestreo [p. 14]. Esta técnica *democratiza la producción de fuentes* [p. 18] y permite complementar vacíos que los documentos tienen, sobre todo en relación con la experiencia cotidiana, la [[alteridad]] y la subalternidad [p. 21].
 
 Hay una historia oral centrada en construir archivos de oralidad que sirvan como fuentes de consulta. Hay otra que usa ese material para realizar investigación propiamente [p. 14].
 

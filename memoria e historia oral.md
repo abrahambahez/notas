@@ -1,4 +1,4 @@
-Para @schwarzstein2001 una de las objeciones más comunes de la historiografía hacia el testimonio oral el la fiabilidad de la memoria del sujeto, de la cual desconfían. La autora cuestiona esta objeción al considerarla un prejuicio (ya que para ella la memoria es más una construcción que una recuperación de información) y al citar la actual crítica general de cualquier fuente historiográfica.
+Para @schwarzstein2001 una de las objeciones más comunes de la historiografía hacia el testimonio oral el la fiabilidad de la memoria del sujeto, de la cual desconfían. La autora cuestiona esta objeción al considerarla un [[prejuicio]] (ya que para ella la memoria es más una construcción que una recuperación de información) y al citar la actual crítica general de cualquier fuente historiográfica.
 
 La peculiaridad de la memoria es que no produce datos fijos [p. 76]
 

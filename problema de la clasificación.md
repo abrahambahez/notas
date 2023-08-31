@@ -17,8 +17,7 @@ Cuando clasificamos debemos estar conscientes de esta invisibilización para ase
 
 ¿Y en qué casos puede ser relevante? Pues claramente los casos donde negar la particularidad genera problemas para los miembros de la clasificación. Básicamente en los contextos éticos, sociales y culturales. Los grupos sociales pueden ser clasificados de diversas formas. Por lo tanto siempre existe el riesgo de que hay particularidades siendo negadas injustificadamente. El conocimiento deductivo se opone al [[conocimiento conjetural]].
 
-Ver [[marxismo y clasificación social]]
-
+Ver también [[clasificación social]], [[marxismo y clasificación social]].
 
 [^tipo-caso]: Un estudio más detallado de esta distinción ontológica de origen *peirciano* (semiótica de Charles Peirce) es el artículo de la encicplopedia de Stanford de Filosofía: [Types and Tokens](https://plato.stanford.edu/entries/types-tokens/), para una introducción más general, ve [Caso y tipo (Wikipedia)](https://es.wikipedia.org/wiki/Caso_y_tipo) ^12ef56
 

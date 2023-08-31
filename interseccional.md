@@ -1,0 +1,1 @@
+>Para definir la interseccionalidad sencillamente, se podría decir que hace consciente cómo diferentes fuentes estructurales de desigualdad (u “organizadores sociales”) mantienen relaciones recíprocas. [@plateromendez2014, 56]

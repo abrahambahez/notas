@@ -1,5 +1,7 @@
 # Pensar antes de vincular
+
 # Tipos de vínculos
+
 - La nota **es una instancia** de otra: *x* es una instancia de *y*
 - La nota **es una subclase** de otra, taxonómica u ontológicamente especificada: *x* es 
 - Instancia != subclase. Instancia: tipo-token; Subclase: subconjunto
