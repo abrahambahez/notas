@@ -12,7 +12,7 @@ Si partimos de que siempre ha habido interconexión cultural jerárquica es posi
 
 ### los modelos de articulación
 
-Entonces, en lugar de *dar por sentada* la autonomía de la comunidad originaria, se examina su proceso de construcción *como comunidad* en el espacio jerárquicamente interconectado que siempre existe, sin llegar a negar los efectos colonialistas de la expansión capitalista, pero...
+Entonces, en lugar de *dar por sentada* la [[autonomía]] de la comunidad originaria, se examina su proceso de construcción *como comunidad* en el espacio jerárquicamente interconectado que siempre existe, sin llegar a negar los efectos colonialistas de la expansión capitalista, pero...
 
 >al insistir en todo momento en las formas como se distribuyen espacialmente las relaciones jerárquicas de poder, nos es posible entender mucho mejor el proceso a través del cual un espacio adquiere una identidad específica como lugar (p. 237).
 

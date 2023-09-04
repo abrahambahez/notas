@@ -4,4 +4,4 @@
 - Mindset over method
 - Productive feedback over discusion
 - More documentation less meetings
-- [[Apps are state machines  The Essence of Software]]
+- [[apps-are-state-machines]]

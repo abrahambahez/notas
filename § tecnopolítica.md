@@ -6,7 +6,7 @@
 ## Libros
 
 - Rose-Stockwell, Tobias [Outrage Machine](https://www.outragemachine.org/)
-- [[Review - Networks of Outrage and Hope]]
+- [[review-networks-of-outrage-and-hope]]
 - Brander, Gordon; [web2 has a bad emperor problem](https://subconscious.substack.com/p/web2-has-a-bad-emperor-problem)
 - @han2021
-- [[Ezra Klein’s “Why We’re Polarized” and the Drawbacks of Explainer Journalism  The New Yorker]]
+- [[ezra-kleins-why-were-polarized-and-the-drawbacks-of-explainer-journalism]]

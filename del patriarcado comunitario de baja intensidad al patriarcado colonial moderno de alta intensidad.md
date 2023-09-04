@@ -4,7 +4,7 @@ Trata sobre las relaciones entre colonialidad y género a partir del método de 
 
 Una forma de violencia vinculada a las nuevas formas de guerra. Ejemplos relevantes son Guatemala, El Salvador, México y el Congo con prácticas de destrucción u ocupación depredadora de los cuerpos femeninos y feminizados.
 
-El derecho a la autonomía por sobre el derecho a la diferencia permite abordar prácticas complejas que están enfrentadas con los principios occidentales más básicos de derechos humanos (por ejemplo, un caso de prácticas infanticidas en Brasil por parte de comunidades indígenas), o bien:
+El derecho a la [[autonomía]] por sobre el derecho a la diferencia permite abordar prácticas complejas que están enfrentadas con los principios occidentales más básicos de derechos humanos (por ejemplo, un caso de prácticas infanticidas en Brasil por parte de comunidades indígenas), o bien:
 
 >[...] en la divulgación de la Lei María da Penha [en Brasil] contra la Violencia Doméstica, me llevó a un dilema semejante, pues cómo sería posible llevar el recursos de los derechos estatales sin proponer la progresiva dependencia de un Estado permanentemente colonizador cuyo proyecto histórico no puede coincidir con el proyecto de las autonomías y de la restaruración del tejido comunitario (p. 73)
 

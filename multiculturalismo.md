@@ -29,7 +29,7 @@ Así, demostró que los estados no se crearon en un vacío cultural, sino que lo
 1. La preservación de las culturas tradicionales
 Al decir que «Hay que preservar las culturas tradicionales» se está sugiriendo que esas culturas son homogéneas y estáticas. Realmente no hay una cultura qué reservar, porque hay una versión de ella para hombres y otra para mujeres, de grupos dominantes y subalternos, unas que impulsan transformaciones y otras que procuran mantener los cambios.
 
-El derecho a la diferencia multicultural es una cosa distinta de la preservación de una cultura en particular. El papel del Estado en este caso sería análogo al de su carácter de laico: garantizar derechos y libertades (bajo alguna clase de autonomía no clara), no posicionarse a favor de una cultura, etnia o religión. 
+El derecho a la diferencia multicultural es una cosa distinta de la preservación de una cultura en particular. El papel del Estado en este caso sería análogo al de su carácter de laico: garantizar derechos y libertades (bajo alguna clase de [[autonomía]] no clara), no posicionarse a favor de una cultura, etnia o religión. 
 
 2. La relación entre la diversidad cultural y el derecho a la igualdad
 
