@@ -1,4 +1,4 @@
-La estrategia de producto digital es la racionalización del proceso de [[diseño]], validación, desarrollo y posicionamiento de un bien, frecuentemente entregado en forma de [[software]] (bajo diversos modelos de negocio como SaaS, SwaS, suscripción, etcétera)
+La estrategia de producto digital es la racionalización del proceso de [[diseño]], validación, desarrollo y posicionamiento de mercado de un bien, frecuentemente entregado en forma de [[software]] (bajo diversos modelos de negocio como SaaS, SwaS, suscripción, etcétera)
 
 Este proceso tiene dos grandes fases:
 

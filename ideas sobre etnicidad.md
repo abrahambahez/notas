@@ -1,4 +1,3 @@
-[[_c Etnicidad v2]]
 ## La etnicidad es sensible a la escala
 
 Tanto identidad, como grupo étnico y etnicidad en general son sensibles a la escala en que se miran. @jones2002 [57] hace notar que la discusión sobre etnicidad posee una tensión entre lo específico y lo general.

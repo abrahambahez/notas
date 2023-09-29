@@ -43,8 +43,7 @@ Un típico día de trabajo con este sistema implica todos los pasos: leer, tomar
 ### cap. 10. leer para comprender
 
 - Leer es entablar un diálogo: revisa ==el círculo hermenéutico como modelo de pensamiento extendido#externalización del pensamiento en la práctica de toma de notas de orientación hermenéutica==.
-- Mente abierta: cuídate del ==sesgo de confirmación==: Una buena práctica después de desarrollar una idea propia es buscar ideas que buscan contradecirla y añadirlas a las notas permanentes, como una práctica de falsación (p. 70 · Posición 1508)
-- ==el modo de lectura más útil para el trabajo cognitivo es el de la elaboración==
+- Mente abierta: cuídate del [[sesgo de confirmación]]: Una buena práctica después de desarrollar una idea propia es buscar ideas que buscan contradecirla y añadirlas a las notas permanentes, como una práctica de falsación (p. 70 · Posición 1508)
 
 ### Cap. 11 - Toma notas inteligentes
 

@@ -14,6 +14,10 @@ Técnicas:
 - Pedir algo (validar la eficacia del [efecto Ben Franklin](https://www.businessinsider.es/efecto-benjamin-franklin-truco-psicologico-ser-agradable-758975))
 - [[favi]]
 
+Aplicaciones:
+
+- [[preguntas rompehielo para el café]]
+
 Leer:
 
 - https://es.wikipedia.org/wiki/C%C3%B3mo_ganar_amigos_e_influir_sobre_las_personas

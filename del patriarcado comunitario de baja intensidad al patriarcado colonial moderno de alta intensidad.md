@@ -15,7 +15,7 @@ La crítica de Segato sobre la [[colonialidad]] inherente al discurso universali
 
 >El caso límite del infanticidio indígena nos enseña que, en un ambiente dominado por la episteme de la colonialidad y hegemonizado por el discurso de los derechos universales, no resta posibilidad de defender la autonomía en términos de cultura, es decir, en términos relativistas del derecho a la diferencia. Es, definitivamente, imposible presentar una estrategia de defensa de la devolución de las autonomías a sociedades intervenidas y mantenidas en condiciones casi concentracionarias durante quinientos años si éstas contradicen con sus prácticas y normativas el frente de los derechos humanos universales y el frente de los derechos estatales en un campo tan sensible como los derechos de la infancia, que por esto mismo son siempre elegidos para afirmar la superioridad moral y el derecho a la misión civilizadora del colonizador (p. 74)
 
-¿Qué es un pueblo? un pueblo es el proyecto de ser una historia. La autonomía, desde el pluralismo histórico (¿un multiculturalismo con el factor tiempo en él?) consiste en en el poder de un pueblo para tramar su historia y desarrollar su propio proyecto histórico (p. 76).
+¿Qué es un [[pueblo]]? un pueblo es el proyecto de ser una historia. La autonomía, desde el pluralismo histórico (¿un multiculturalismo con el factor tiempo en él?) consiste en en el poder de un pueblo para tramar su historia y desarrollar su propio proyecto histórico [@segato2015, 76].
 
 El papel del Estado consistiría en garantizar y restituir las jurisdicciones propias y la deliberación interna. 
 
@@ -57,7 +57,7 @@ El conflicto entre el binarismo (suplantatorio) y el dualismo (complementario) l
 
 >Al comprender esto, entendemos que el doméstico es un espacio ontológica y políticamente entero, completo en su política propia, con sus asociaciones propias, jerárquicamente inferior a lo público, pero con capacidad de autodefensa y de autotransformación (p. 90)
 
-### Críticas de Segato a las políticas de género
+## Críticas de Segato a las políticas de género
 La meta de los proyectos debería ser la promoción de la igualdad entre el colectivo de los hombres y el colectivo de las mujeres dentro de las comunidades (p. 91). Pero se produce una despolitización del espacio doméstico a través de dos errores:
 
 - Al estar diseñado con enfoque en los individuos, que les quitan el contexto comunitario donde es relevante que se dirijan a promover la esfera doméstica y el colectivo de las mujeres como un todo, frente a la jerarquía del prestigio y el poder del espacio público comunitario y el colectivo de los hombres

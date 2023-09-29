@@ -7,6 +7,7 @@
 decantar cosas que uno ya sabe (según Restrepo)
 
 - [[aproximación táctica al campo]]
+- [[deuda de campo]]
 
 ## Referencias
 - @guber2019

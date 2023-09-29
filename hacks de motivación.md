@@ -1,6 +1,6 @@
 Hackear la motivación implica verla como un recurso que debe equilibrarse, sobre todo por su relación con la dopamina y la dinámica de este neurotransmisor [cfr. @lembke2021, el libro que reintrodujo esta idea].
 
-De acuerdo con @reagle2019 [cap. 4], la motivación trata con el concepto griego de *akrasia* y está vinculado con la *ergonomía*, el autocontrol. Cita ejemplos que buscan una explicación *operativa* de la motivación, como la [[ecuación de la procrastinación]] (publicada originalmente en [LessWrong](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination)). Conceptos psicológicos relevantes para probar cualquier [[hack]] de motivación son los siguientes.
+De acuerdo con @reagle2019 [cap. 4], la motivación trata con el concepto griego de *akrasia* y está vinculado con la *egonomía*de Thomas Schelling, y el autocontrol. Cita ejemplos que buscan una explicación *operativa* de la motivación, como la [[ecuación de la procrastinación]] (publicada originalmente en [LessWrong](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination)). Conceptos psicológicos relevantes para probar cualquier [[hack]] de motivación son los siguientes.
 
 ## Control fisiológico
 

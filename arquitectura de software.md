@@ -7,3 +7,7 @@ Es la expresión que refiere al diseño abstracto de un sistema de *[[software]]
 - Capas
     - Presentation, Domain, Data
     - Modelo vista-controlador
+
+Otros conceptos relacionados:
+
+- [[patrón de diseño]]

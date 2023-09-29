@@ -1,0 +1,1 @@
+Un atributo del [[racismo]] centrado en el color de piel como factor de clasificación principal. Esta práctica está más extendida en países con un [[racialismo]] explícito, como Estados Unidos. Una hipótesis similar para Latinoamérica es la [[pigmentocracia]].

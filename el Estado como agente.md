@@ -1,13 +1,9 @@
-## [[agencia]] y Estado
+Si [[el Estado tiende a la totalización]], entonces puede entenderse como un agente. Esta [[agencia]] puede ser entendida en principio como el resultado observable de unas prácticas políticas pautadas (aunque no siempre cumplidas) por una estructura jurídico-coercitivo-administrativa y unos discursos que buscan legitimar u orientar su reproducción. Es una estructura multidimensional, multiescalar y compleja, y por tanto su agencia comparte esos atributos.
 
-@dapuez2011, y luego hacerlo de modo crítico: @graeber2019; @graeber&wengrow2021; @scott1999; @xin2013
+Algunos autores como usan conceptos como «estatalidad» argumentando *en contra* de una investigación empírica del Estado, ya que no puede verse como «alguien que está ahí haciendo cosas»  [@martinez2017, 78]. Sin embargo, una parte de su actividad está en ejercer la [[agencia como proyecto]] a través de planes, iniciativas, legislaciones y políticas bajo la definición antes expuesta.
 
->Los Estados tienen un carácter dual peculiar. Son al mismo tiempo formas institucionalizadas de ataque y de extorsión y proyectos utópicos. La primera forma es, sin duda, el modo en que cualquier comunidad con un mínimo grado de [[autonomía]] experimenta la presencia del Estado; la segunda, sin embargo, es como suelen aparecer por escrito. [@graeber2019; 101]
+Para @graeber&wengrow2021, el Estado es una estructura que busca controlar tres *libertades fundamentales*, a saber, la libertad de movimiento, la libertad de no obedecer y la de reestructurar las relaciones sociales; esta estructura se vincula a tres *bases de poder social* más o menos desarrolladas en cada caso particular: la violencia directa, el control de la información, materializado en las burocracias, y el liderazgo carismático, presente, por ejemplo, en regímenes totalitarios y en democracias representativas sufragistas.
 
-También de @graeber2019 [101] los Estados son la *Totalidad imaginaria por excelencia*
+Akhil Gupta [@abrams&al2015] parte del concepto de «corrupción» para desentrañar al «Estado imaginado» [parecido pero no igual a la *comunidad imaginada* de @anderson1993, ya que Estado y nacionalismo no son equivalentes] en la India desde el análisis de situaciones de interacción entre personas y funcionarios, así como el análisis de periódicos nacionales y locales. 
 
-Segato y el mal de la utopía [@segato2016].
-
-[[@castaneda&al2004#8. Identidad y resistencia. Educación para los mayas de Yucatán, de Manzanilla Dorantes]] y la [[legibilidad]] del Estado, su intento por homogeneizar a la población
-
-
+@xin2013 aborda el problema de entender a China etnográficamente, y desplaza su atención de los datos empíricos que describen a ese objeto etnográfico a los de *una investigación etnográfica de conceptos por medio de la experiencia* [@xin2013, 34].

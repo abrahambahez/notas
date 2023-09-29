@@ -1,4 +1,4 @@
-Para @bartolome2008 la cultura es primeramente un *modo de hacer* y luego es posible que devenga un *modo de ser*, es decir, una identidad, ¿qué tal si, al igual que la fase mercantil de @appadurai1991, existe alguna clase de *[[situación idemcultural]]*?
+Para @bartolome2008 la cultura es primeramente un *modo de hacer* y luego es posible que devenga un *modo de ser*, es decir, una identidad, ¿qué tal si, al igual que la fase mercantil de @appadurai1991, existe alguna clase de *[[situación identitaria]]*?
 
 El primer modo de la [[cultura]] es una [[praxis]], el segundo requiere establecer un principio de diferenciación [@bartolome2008, p. 96, lo llama *el caracter relacional de la cultura*]. 
 

@@ -8,7 +8,8 @@ Heredada de markdown:
 
 - Título: 1 `#`
 - Lista: `-`, `*`
-- Cita: `>`
+- Cita: `>` o bien,
+    - Cita en línea `-cita-`
 - Énfasis 1 y 2: `**,__`
 
 Heredada de otras convenciones:

@@ -7,4 +7,4 @@ Es un [[modo de razonamiento]] que opera por similitud o semejanza entre dos ele
 - Analogías formales: dos objetos tienen propiedades comunes, independientes de su contexto de procedencia o temporalidad. Enfoque histórico directo
 - Analogías relacionales: Dos objetos tienen continuidad temporal y/o espacial. enfoque comparativo general
 
-![[cómo evaluar el razonamiento analógico]]
+Ver [[cómo evaluar el razonamiento analógico]].

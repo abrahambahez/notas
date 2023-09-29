@@ -1,0 +1,3 @@
+- [[💡 Ideas de gestión de conocimiento con Notion]]
+- [[💡ideas y consejos desde el desarrollo de software]]
+- [[💡ideas para desarrollar apps]]

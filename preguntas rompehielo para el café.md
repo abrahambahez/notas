@@ -1,0 +1,14 @@
+- Te gusta escuchar música cuando trabajas, cuál
+    - Norteño
+    - Cartel de Santa
+- Grupo de música favorito
+    - Desvelado Bobby Pulido
+    - La mentira Luismi
+- Serie favorita
+    - Grey's Anatomy
+    - Bleach
+- Videojuego favorito
+    - KOF
+    - Mortal Kombat
+- Qué querías ser de niña:o
+- Meme favorito y por qué

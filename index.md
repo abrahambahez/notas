@@ -4,7 +4,7 @@
 - [[campo antropológico]]
 - [[muerte del individuo]]
 - [[mundos domésticos igualitarios]]
-- [[sistemas de notas]]
+- [[§ sistemas de notas]]
 
 ## Disciplinas
 
@@ -18,7 +18,7 @@
 
 ## Colecciones
 
-- [[cosas interesantes]]
+- [[§ cosas interesantes]]
 - [[texto plano]]
 - [[memos]]
 - logs
