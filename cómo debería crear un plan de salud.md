@@ -1,4 +1,4 @@
 #inbox 
 
-- el problema con los chequeos médicos innecesarios ([[garcíarada2023chequeosMedicos]])
+- el problema con los chequeos médicos innecesarios ([[@garcíarada-chequeo-medicos]])
 - 

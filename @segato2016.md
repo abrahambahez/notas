@@ -1,0 +1,19 @@
+# Entrevista a la Dra. Rita Segato - La colonialidad del saber.
+Rita Laura Segato
+
+undefined
+
+
+* Mdnotes File Name: [[segato2016]]
+
+Antropología bajo demanda - Poner a disposición del otro tu caja de herramientas
+
+Antropología bajo demanda - Poner a disposición del otro tu caja de herramientas
+
+Espejo mágico - Dice la verdad
+
+Ensayo como estilo latinoamericano por excelencia (en el contexto de dispositivos textuales occidentales, masculinizados)
+
+* Es más libre
+* Es autoral en lugar de autoritario
+

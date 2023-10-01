@@ -1,6 +1,6 @@
 - Estrategias adaptativas
 - Estrategias reactivas
-    - [[why-the-best-product-managers-love-interruptions]]
+    - [[@aha-why-the-best-product-managers-love-interruptions]]
 - 
 
 ---

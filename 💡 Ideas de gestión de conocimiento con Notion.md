@@ -1,4 +1,4 @@
-[[karma knowledge]] Ideas de implementación:
+Ideas de implementación:
 
 - Usar páginas y subpáginas como el [[folgezettel]]
 - Usar (back)links para navegación creativa
