@@ -38,7 +38,7 @@ Relacionado:
 
 - Escritura de notas
 - [[vínculos entre notas]]
-- [[prácticas de escritura de notas]]
+- [[técnicas de escritura]]
 
 # Referencias, reflexiones
 

@@ -1,0 +1,12 @@
+- 6:30 Cena
+- 7:00 Comida mascotas
+- 7:15 limpiar cocina y trastes 
+    - Meter y doblar ropa
+    - Preparar agua
+- 7:40 barrer y trapear 
+- 8:10 subir cosas, prender bomba
+    - meditación 5m
+- 8:15 comida (otra vez) mascotas
+- 8:30 leer
+- 9:00 preparación para dormir
+    - Higiene: baño, dientes, uñas 

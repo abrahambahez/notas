@@ -26,9 +26,9 @@ En el prefacio de la *Contribución a la crítica de la economía política* tie
 
 ##### Cómo interpretar a Marx
 
-1. El concepto de modo de producción en Marx no es una definición acabada, extensa o formalmente desarrollada
+1. El concepto de [[modo de producción]] en Marx no es una definición acabada, extensa o formalmente desarrollada
 
-2. Modo de producción es una abstracción que se concreta al perder generalidad y aplicarse a medida que se analiza el proceso histórico de una sociedad determinada. Es el caso del capitalismo analizado por Marx
+2. [[Modo de producción]] es una abstracción que se concreta al perder generalidad y aplicarse a medida que se analiza el proceso histórico de una sociedad determinada. Es el caso del capitalismo analizado por Marx
 
 3. No explicar a Marx mejor de lo que él se explica a sí mismo
 

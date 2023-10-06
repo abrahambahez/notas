@@ -1,5 +1,4 @@
-[[sistemas de distribución de opresión y privilegios]]
-
+#inbox 
 ## Conceptos
 
 ### Expresiones de racismo

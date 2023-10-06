@@ -1,6 +1,6 @@
 Desde @wood2018
 
-Los estados contemporáneos promueven los mapas, nacieron junto a ellos y son uno de sus principales instrumentos de realización de su soberanía.
+Los estados contemporáneos promueven los mapas, nacieron junto a ellos y son uno de sus principales instrumentos de realización de su [[soberanía]].
 
 Más que representaciones, los mapas son sistemas de proposiciones, argumentos que afirman “esto está allí” dentro de lo que el mundo podría ser. 
 

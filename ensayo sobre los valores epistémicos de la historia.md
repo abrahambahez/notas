@@ -1,11 +1,7 @@
----
-bibliography: "/home/sabhz/Docs/Referencias/referencias.bib"
-lang: es
-title: "Conclusiones. Discusión de historia oral a la luz de dos paradigmas"
----
 En este texto discutiré brevemente dos paradigmas de interpretación de la historia oral y defenderé la utilidad del segundo como herramienta interdisciplinaria preferente.
 
 ## El paradigma del objetivismo histórico
+
 Desde el punto de vista de una historia *objetiva* (no sólo positiva sino también la que es más empírica que fenomenológica o sociocultural), la historia se recarga excesivamente el documento escrito, ya sea por pretensiones de objetividad, o por necesidad metodológica.
 
 Otorga [[privilegio epistémico]] a la [[testificación]], incluso clasifica sus fuentes como directas o indirectas a partir de ella como criterio básico de autenticidad.

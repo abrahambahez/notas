@@ -2,7 +2,7 @@
 Kathryn Burns (2008)
 
 ## Resumen
-los argumentos y temas principales, de este capítulo: (1) que las políticas, categorías y prácticas del racismo son de una gran especificidad histórica, moldeadas por luchas sumamente locales, así como por rivalidades imperiales y por políticas de construcción del Estado; y (2) que vale la pena hacer más sensible nuestro trabajo, no sólo a estas complejas historias, sino a las maneras en las que se relacionan con nuestro presente.6 Los académicos empleamos con mucha frecuencia el término “raza” entre comillas. Este es una forma de desestabilizar la raza —de indicar que las categorías que reconocemos como “raciales” no son estables o panhistóricas—, pero es sólo el inicio de un proyecto que podemos llevar más lejos. #rsm/abstract
+los argumentos y temas principales, de este capítulo: (1) que las políticas, categorías y prácticas del racismo son de una gran especificidad histórica, moldeadas por luchas sumamente locales, así como por rivalidades imperiales y por políticas de construcción del Estado; y (2) que vale la pena hacer más sensible nuestro trabajo, no sólo a estas complejas historias, sino a las maneras en las que se relacionan con nuestro presente.6 Los académicos empleamos con mucha frecuencia el término “raza” entre comillas. Este es una forma de desestabilizar la raza —de indicar que las categorías que reconocemos como “raciales” no son estables o panhistóricas—, pero es sólo el inicio de un proyecto que podemos llevar más lejos. (abstract)
 
 ## Notas
 <!--Resumen GPT--> 

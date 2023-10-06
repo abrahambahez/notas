@@ -1,6 +1,6 @@
 El [[racismo]] es un sistema que organiza poder y privilegio que nace con el colonialismo y se extiende más generalmente. Forma de ejercer poder basado en la idea de [[raza]]; a partir de la biologización se justifica una «objetividad» del maltrato. Establecimiento de jerarquía entre grupos humanos.
 
-Hay un hábito visual racializado. Se forman estructuras diferenciales que atribuyen características esenciales a grupos de personas, no sólo físicas, sino intelectuales y morales, entre otros; como consecuencia se justifican tratos excluyentes, opresiones y explotaciones.
+Hay un [[hábito]] visual racializado. Se forman estructuras diferenciales que atribuyen características esenciales a grupos de personas, no sólo físicas, sino intelectuales y morales, entre otros; como consecuencia se justifican tratos excluyentes, opresiones y explotaciones.
 
 Peter Wade, en su comentario del video afirma que el racismo puede entenderse en tres ámbitos:
 

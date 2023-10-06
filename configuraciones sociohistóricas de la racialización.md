@@ -1,6 +1,6 @@
 ¿Por qué es relevante diferenciar por los atributos que cada proceso histórico racializó? @quijano2019 [p. 261] afirma que fue herencia del poder colonial y ahora de la distribución desigual global
 
-Hay un desmadre en el tiempo y en el espacio, la configuración actual hombre-blanco-anglo/europeo-heterosexual no creo que pueda extenderse mucho hacia atrás en la historia, sino que cobra otras formas, lo mismo con el espacio, *african-american* no es lo mismo que *mulato* ni *afro-brasileño*, ¿o sí? y esas categorías ni siquiera designaron en el pasado a identidades
+El tema puede crear mucha confusión. La configuración actual hombre-blanco-anglo/europeo-heterosexual no creo que pueda extenderse mucho hacia atrás en la historia, sino que cobra otras formas, lo mismo con el espacio, *african-american* no es lo mismo que *mulato* ni *afro-brasileño*, ¿o sí? y esas categorías ni siquiera designaron en el pasado a identidades
 
 En cuanto a escala se relaciona con:
 

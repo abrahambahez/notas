@@ -1,6 +1,6 @@
 Para @reygadas2007, una de las aproximaciones más populares a lo largo de la segunda mitad del siglo XX para conceptualizar el problema de la desigualdad fue el marxismo, pues era el paradigma que explicaba la desigualdad durante los años 60 y 70. Lo hacía a través de algunas ideas concretas, como:
 
-- El capitalismo como modo de producción, era el responsable del subdesarrollo y sus disparidades
+- El capitalismo como [[modo de producción]], era el responsable del subdesarrollo y sus disparidades
 - La explotación era el principal mecanismo de generación de desigualdades
 
 Sin embargo, su modelo explicativo tenía algunos problemas:

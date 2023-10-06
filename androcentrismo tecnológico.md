@@ -2,7 +2,7 @@ El [[determinismo tecnológico]] es falso y la tecnología se hace normalmente p
 
 >Frequently, a heralded innovation outshines precursors by virtue of a high-tech and masculine sheen. As one snarky columnist wrote of the 2017 boom in Bay Area coliving (i.e., having roommates in San Francisco): tech entrepreneurs often “find an existing service, privatize it, and claim to have ‘reinvented it.’” Similarly, an overheard comment, tweeted and then retweeted many times, is that “[San Francisco] tech culture is focused on solving one problem: What is my mother no longer doing for me?” One of those things is feeding you. And when hackers came up with meal substitutes, they were lauded as innovative tech creators. But this spotlight gave others pause. [@reagle2019, cap. 5, “Masculine, Entrepreneurial, Well-Educated, and White”]
 
-En este caso la [[economía del  cuidado]] tiene varias críticas que aportar.
+En este caso la [[economía del cuidado]] tiene varias críticas que aportar.
 
 >When San Francisco tech reporter Nellie Bowles attempted to explain Soylent to her mom, her mother responded, “Oh, you mean SlimFast?”
 >

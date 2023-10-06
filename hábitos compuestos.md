@@ -2,7 +2,7 @@
 sources: https://fs.blog/habits-james-clear/
 ---
 
-Un hábito compuesto es el tratamiento de un hábito de manera análoga a la idea del [interés compuesto](https://es.wikipedia.org/wiki/Inter%C3%A9s_compuesto) con la finalidad de llevarlos a un crecimiento exponencial.
+Un [[hábito]] compuesto es el tratamiento de un hábito de manera análoga a la idea del [interés compuesto](https://es.wikipedia.org/wiki/Inter%C3%A9s_compuesto) con la finalidad de llevarlos a un crecimiento exponencial.
 
 @reagle2019 [cap. 4, sec. The Science of Motivation] escribe:
 

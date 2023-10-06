@@ -1,0 +1,1 @@
+capitalismo como estructura hiper-abstracta 

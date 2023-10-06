@@ -1,6 +1,4 @@
-## Resumen de argumentos del texto
-
-Con fines de entender el **texto**, los dejo para que se entienda mi interpretación general ya que no es mi especialidad.
+Lectura de un texto inédito sobre la deshumanización del deporte, cuyas propuestas me parecieron interesantes.
 
 ### Deshumanización
 

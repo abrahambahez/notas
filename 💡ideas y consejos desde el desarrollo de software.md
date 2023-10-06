@@ -4,4 +4,4 @@
 - Mindset over method
 - Productive feedback over discussion
 - More documentation less meetings
-- [[@jackson-apps-are-state-machines]]
+- [[@jackson2022-08-02apps-are-state-machines]]

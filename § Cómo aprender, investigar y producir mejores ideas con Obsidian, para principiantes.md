@@ -28,5 +28,5 @@
         - Índices
 - Estrategias de trabajo
     - 
-    - Time blocking
+    - [[bloqueo de tiempo (time blocking)]]
     - 
