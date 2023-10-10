@@ -15,7 +15,7 @@
     - [[hacks de relaciones]]
     - [[hacks de sentido]]
     - Otras
-        - Aprendizaje
+        - Aprendizaje, ver [[técnica de aprendizaje]]
         - Carrera
         - Felicidad
 - Éticas

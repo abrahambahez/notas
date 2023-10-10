@@ -1,5 +1,5 @@
 # Tales of the field: On writing ethnography
-John Van Maanen (1988)
+John Van Maanen (2011)
 
 >Mi propia visión es que la acumulación de etnografía indica y mejora un largo dominio del discurso humano más de lo que revela algún avance en nuestro entendimiento formal de los asuntos culturales [cap. prefacio, p. x]
 

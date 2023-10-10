@@ -6,3 +6,6 @@ Como dijera alguna vez Fredric Jameson, hoy parece "más fácil imaginar el fin 
 
 ## Notas
 capitalismo como estructura hiper-abstracta 
+
+Capitalismo y salud mental 
+Capitalismo y deseo

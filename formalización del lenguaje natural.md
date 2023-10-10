@@ -1,4 +1,4 @@
-La idea de formalizar el lenguaje natural ha sido uno de los proyectos más ambiciosos de corte racionalista / positivista. Este esfuerzo fue abordado por brillantes mentes de la filosofía occidental como Wittgenstein, Carnap y Quine,
+La idea de formalizar el lenguaje natural ha sido uno de los proyectos más ambiciosos de corte racionalista / positivista. Este esfuerzo fue abordado por brillantes mentes de la filosofía occidental como Wittgenstein, Carnap y Quine, entre otros.
 
 Un ejemplo célebre es la célebre distinción de Carnap (1978 §2 *«El significado de una palabra»*) entre proposiciones *con sentido* (aquellas verificables, lógicamente operativas —participan de la derivación—) y pseudproposiciones (sin sentido) metafísicas; así como la identificación de éstas últimas con un emotivismo (§7, *«La metafísica como expresión emotiva ante la vida»*).
 
@@ -26,4 +26,4 @@ La propia palabra *conocimiento* no está lo suficientemente formalizada en un s
 
 >*«As Allen Newell noted in his influential address to the AI community, The Knowledge Level Newell, the use of the term “knowledge” within that community is “informal”»* [@altheim2008, sect. knowledge representation, párr. 3]
 
-Con la llegada de los [[LLM]] caben varios cuestionamientos sobre esta afirmación.
+Con la llegada de los [[LLM]] caben varios cuestionamientos sobre esta afirmación dada la posibilidad del [[lenguaje como interfaz]].

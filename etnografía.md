@@ -9,6 +9,6 @@ negociación de ignorancia y ansiedad, cuya meta es producir una fusión de hori
 
 De acuerdo con @biskupovic&brinckpinsent2018 [p. 9], «para responder esas preguntas básicas del con-vivir, la etnografía es un proceso que nos permite observar conductas y que nos ayuda a asegurar la fiabilidad de nuestros datos obteniéndolos de “primera mano”.» y añade: «Actualmente existe una diversidad de modos de practicar la etnografía. La sociología dominante, marcada por una metodología heredera del positivismo, recibe de mejor manera etnografías naturalistas antes que experimentales (etnografía interpretativa, reflexiva, colaborativa, performativa, autoetnografía, etc.).»[@biskupovic&brinckpinsent2018, p. 14].
 
-Para @vanmaanen1988 [1], «una etnografía es una representación escrita de una cultura (o aspectos selectos de una cultura)» y en cuanto tal «escribir una etnografía es un trabajo de oficina de Escritorio, no trabajo de campo» [@vanmaanen1988, 4]
+Para @vanmaanen2011 [1], «una etnografía es una representación escrita de una cultura (o aspectos selectos de una cultura)» y en cuanto tal «escribir una etnografía es un trabajo de oficina de Escritorio, no trabajo de campo» [@vanmaanen2011, 4]
 
 ver: https://cepalforja.org/sistem/bvirtual/wp-content/uploads/2017/05/LIBRO-Sistematizacin-Etnografica-Lewis-Pereira.pdf

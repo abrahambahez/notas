@@ -5,7 +5,7 @@ Para @adler2014 se trata de la lectura para la información. Su objetivo es obte
 
 La primera consiste en la revisión ordenada y sistemática de una serie de elementos [paratextuales](https://es.wikipedia.org/wiki/Paratexto) con el objetivo de evaluar la propuesta de la obra, su tema principal y su argumento general <!--Ver en las plantillas el checklist de prelectura-->
 
-La segunda *debe ser una lectura de corrido, sin detenerse en las partes que puedan complicarse.* En esta categoría son relevantes los cursos de lectura «rápida», que para Adler sólo son buenos cuando nos enseñan a **leer a diferentes velocidades** y eleegir cuál es la mejor velocidad posible. 
+La segunda *debe ser una lectura de corrido, sin detenerse en las partes que puedan complicarse.* En esta categoría son relevantes los cursos de lectura «rápida», que para Adler sólo son buenos cuando nos enseñan a **leer a diferentes velocidades** y elegir cuál es la mejor velocidad posible. 
 
 La lectura rápida consiste en dirigir los ojos a la parte superior de las palabras; la vista se acomoda a las escalas; después de una sesión de lectura, ayudar la acomodación mirando al horizonte.
 

@@ -1,4 +1,4 @@
-Técnica (o conjunto de técnicas) de aprendizaje consolidada por por Piotr Woźniak [@wozniakgorzelanczyk] a partir de un algoritmo de «repaso» de fragmentos de información que se van jerarquizando conforme la persona retroalimenta al sistema sobre la dificultad que tuvo para recordarlos.
+Es una [[técnica de aprendizaje]] (o conjunto de técnicas) consolidada por por Piotr Woźniak [@wozniakgorzelanczyk] a partir de un algoritmo de «repaso» de fragmentos de información que se van jerarquizando conforme la persona retroalimenta al sistema sobre la dificultad que tuvo para recordarlos.
 
 Los fragmentos de información tienen varias formas:
 
