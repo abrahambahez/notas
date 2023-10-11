@@ -1,6 +1,6 @@
 - Hacks
     - qué es un [[hack]]
-    - hack nominal y hack óptimo
+    - hack nominal (opera un un rango «normal» esperado) y hack óptimo (opera por encima del rango «normal»)
 - Hackers
     - [[ethos del hacker]]
     - Gurús, Geeks, Alpha Geeks
@@ -17,7 +17,7 @@
     - Otras
         - Aprendizaje, ver [[técnica de aprendizaje]]
         - Carrera
-        - Felicidad
+        - Felicidad ([[@illouz&cabanas2019]] sobre el sesgo ideológico que subyace a este criterio)
 - Éticas
     - Individualismo, egoísmo y narcicismo
     - [[psicopatología del trabajo]]

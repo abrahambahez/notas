@@ -1,3 +1,0 @@
-- [Against Automaticity – Carcinisation](https://carcinisation.com/2023/08/22/against-automaticity/) 
-- [My Coffee Maker Just Makes Coffee](https://bt.ht/one-thing)
-- [My Coffee Maker Just Makes Coffee](https://bt.ht/one-thing)

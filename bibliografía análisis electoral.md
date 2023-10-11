@@ -8,7 +8,7 @@
 
 [Fake news y la construcción de la contra agenda mediática : elecciones en México 2021](https://www.torrossa.com/en/resources/an/5397795)
 
-[2º Estudio Nacional "Cómo usan #instagram los mexicanos" - N Más/Televisa - Alejandra Gallardo](https://youtu.be/jOnqIcSozPI?si=u4xbH_UafoZFxFvy)
+[2º Estudio Nacional "Cómo usan instagram los mexicanos" - N Más/Televisa - Alejandra Gallardo](https://youtu.be/jOnqIcSozPI?si=u4xbH_UafoZFxFvy)
 
 [Participación electoral y desarrollo humano: apuntes metodológicos para el análisis territorial y multidimensional del voto en México y Centroamérica](https://www.jstor.org/stable/40421110)
 

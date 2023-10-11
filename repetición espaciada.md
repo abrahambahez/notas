@@ -2,6 +2,6 @@ Es una [[técnica de aprendizaje]] (o conjunto de técnicas) consolidada por por
 
 Los fragmentos de información tienen varias formas:
 
-- Completar partes de una frase (*close deletion*)
+- Completar partes de una frase (*cloze deletion*)
 - Responder una pregunta y ver la respuesta correcta
 - Responder una pregunta abierta, con la finalidad de visualizar la aplicación práctica de la información. Esta es una innovación de  [Andy Matuschak](https://notes.andymatuschak.org/Spaced_repetition_systems_can_be_used_to_program_attention)

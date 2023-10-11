@@ -1,5 +1,3 @@
-#inbox 
-
 # Análisis electoral
 
 ## Encuestas
@@ -22,7 +20,7 @@ En el caso de México, el modelo de «Transición democrática» afirma que se p
 
 ## Campañas
 
-[[posfactualidad]], [[posvedad]] (fake news, deepfake, granjas de bots, polarización)
+[[posfactualidad]], [[posverdad]] (fake news, deepfake, granjas de bots, polarización)
 
 ## Conceptos
 

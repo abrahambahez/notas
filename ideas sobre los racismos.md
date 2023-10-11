@@ -1,4 +1,3 @@
-#inbox 
 ## Conceptos
 
 ### Expresiones de racismo

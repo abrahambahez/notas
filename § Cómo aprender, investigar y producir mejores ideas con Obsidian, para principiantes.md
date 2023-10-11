@@ -1,4 +1,3 @@
-#inbox 
 # § Cómo aprender, investigar y producir mejores ideas con Obsidian, para principiantes
 
 - Presentación 

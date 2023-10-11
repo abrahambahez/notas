@@ -1,4 +1,4 @@
-Usa el algoritmo de [[repetición espaciada]] aplicado a un sistema de notas. 
+Aprovecha el algoritmo de [[repetición espaciada]] aplicado a un sistema de notas. 
 
 Como análogo de la [[lectura incremental]] creo que debe seguir la misma definición mínima. En este caso:
 

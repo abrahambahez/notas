@@ -6,7 +6,7 @@
 ## Libros
 
 - Rose-Stockwell, Tobias [Outrage Machine](https://www.outragemachine.org/)
-- [[@barassi2013-02-19-review-networks-of-outrage-and-hope]]
+- «Networks of outrage»
 - Brander, Gordon; [web2 has a bad emperor problem](https://subconscious.substack.com/p/web2-has-a-bad-emperor-problem)
 - @han2021
-- [[@Metcalf2020-03-11ezra-kleins-why-were-polarized]]
+- Ezra klein, «Why we're polarized»

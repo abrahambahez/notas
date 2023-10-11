@@ -2,7 +2,7 @@
     - [[escasez de tiempo]]
     - Entonces las estrategias se dividen en optimizar el tiempo u optimizar las necesidades.
 - Optimizar las necesidades:
-    - [[modelo captura-proceso-ejecución-medición]]
+    - [[modelo captura-proceso-ejecución-retroalimentación]]
         - [Building a Second Brain](https://youtu.be/SjZSy8s2VEE)
         - [[GTD]]
         - [[gestión ágil]]

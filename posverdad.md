@@ -1,5 +1,3 @@
-#inbox 
-
 Puede definirse como la condición de aceptar algo como verdadero en condiciones como las siguientes:
 
 - A pesar de que las evidencias empíricas muestran lo contrario

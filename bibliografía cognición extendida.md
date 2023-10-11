@@ -1,4 +1,4 @@
-[[hipótesis de la cognición extendida]]
+Artículos sobre la [[hipótesis de la cognición extendida]]
 
 - [Allen-Hermanson - Superdupersizing the mind: extended cognition and the persistence of cognitive bloat ](https://www.jstor.org/stable/41932759)
 - [Clark y Chalmers - The extended mind](http://scholar.google.com.mx/scholar_url?url=https://era.ed.ac.uk/bitstream/handle/1842/1312/TheExtendedMind.pdf%253Fsequence%253D1%2526isAllowed%253Dy&hl=es&sa=X&ei=LEXFX8iGD4rOmgGuq7GoAQ&scisig=AAGBfm3gV5YwXrLD9exuKENO6Hn1fGPRPQ&nossl=1&oi=scholarr)
@@ -7,7 +7,7 @@
 - ["Internalism and Externalism in the Philosophy of Mind and Language"](http://www.iep.utm.edu/int-ex-ml/)
 - ["Consciousness as the emergent property of the interaction between brain, body, & environment: the crucial role of haptic perception"](http://www.consciousness.it/iwac2005/Material/Morasso.pdf)
 
-Referencias
+Otras referencias
 
 Colombetti, G., Krueger, J., & Roberts, T. (2018). Affectivity Beyond the Skin. Frontiers in psychology, 9, 1307. link: [(PDF) Enactive Affectivity, Extended - ResearchGate www.researchgate.net › publication](https://www.researchgate.net/publication/281546276_Enactive_Affectivity_Extended)
 

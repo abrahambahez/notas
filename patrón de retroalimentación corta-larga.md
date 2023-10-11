@@ -13,4 +13,4 @@ En el contexto de la [[neuroplasticidad]], la creación de hábitos como conduct
 En el contexto de los métodos de [[pensamiento de diseño]] y [[gestión de producto]] se busca un proceso (ideal) progresivo e iterativo que puede ir del prototipado de baja calidad (retroalimentación rápida) y llega hasta las iteraciones del software productivo (retroalimentación larga), que son más estructuradas y pueden durar años.
 
 
-- [ ] #inbox investigar tipos de feedback en teoría de sistemas
+- [ ] investigar tipos de feedback en teoría de sistemas
