@@ -2,18 +2,12 @@ Esta nota documenta un sub-proceso de mi [[inbox de lectura]], a saber, el de mi
 
 Dadas las especificaciones de la [[lectura incremental]]:
 
-- El inbox de lectura incremental es una colección de Zotero llamada 'Leyendo'
-- Opciones para priorizar la lista
-    - Los items de la colección están ordenados por el campo 'Adicional'. El campo 'Adicional' usa el hack de [priorización de todo.txt](https://github.com/todotxt/todo.txt#priority), de modo que DEBE comenzar siempre con (A-Z) y debajo de eso cualquier otro contenido. Todos los items de esta colección deben estar priorizados
-    - Usar un semáforo de etiquetas de colores (en MacOs o Zotero) desde verde (fácil-no importante, baja prioridad) hasta rojo (difícil-importante, alta prioridad) 
-- La prioridad se asigna en función del interés/dificultad/urgencia del texto (más cercano a 'A' mientras más crece en esos tres parámetros)
-- Los items de la colección deben tener su nota de literatura asociada
-- Al abrir un item debo buscar fragmentos (subrayados) y/o hacer notas con paráfrasis/preguntas orientadas a la creación de flashcards en las notas de literatura añadiendo las etiquetas del plugin de repetición espaciada en Obsidian
-- Puedo cambiar al siguiente item siempre que quiera, buscando actualizar la nota de literatura con los nuevos fragmentos (aunque sea manual)
+Es mejor un sistema de [[repetición espaciada]] que **todo este indexado y sea el algoritmo el que nos ayude a mantener la relevancia de cada cosa**. Esto aplica para [[escritura incremental]] y para [[mi proceso de lectura incremental]] así como para aprendizaje de proyectos específicos.
 
-En una sesión aparte (esto es una diferencia con [[@wozniak2013]], ya que en super memo los fragmentos y los ítems están intercalados) haré la revisión de fragmentos.
+- Usar como base las notas de literatura, no los textos en sí 
+    - Las lecturas ya están filtradas como relevantes (ver el diagrama de [[inbox de lectura]]) así que sólo debo garantizar que todas las notas que están allí son de cierto valor, el algoritmo de encargará de darle importancia a las mejores para mí
+- Añadir a las notas la url para abrir el archivo (por ahora es un proceso semi-manual o totalmente manual)
+- El proceso se pasa a Obsidian abro la nota de literatura que corresponde, uso la url para abrir el archivo original, obtengo subrayados, hago tarjetas y luego repasos de tarjetas creadas
+    - El proceso se hace con el plugin de Incremental Writing
 
-- Abrir Obsidian
-- Comenzar revisión de repetición espaciada
-- Modificar los ítems para irlos mejorando
-- Crear notas permanentes si se siente oportuno
+Tal vez esto implique volver a separar tipos de notas, no importa. (Corrección) No fue necesario porque el Plugin no añade automáticamente los nuevos archivos que entran a un directorio, sólo aquellos con alguna etiqueta. Así que etiquetaré las notas de literatura para dar seguimiento.

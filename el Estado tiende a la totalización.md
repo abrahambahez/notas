@@ -1,4 +1,4 @@
-La fuerza soberana de un Estado requiere forzosamente implementar proyectos que unifiquen y homogeneicen a las personas. Su [[gobernabilidad]] está directamente relacionada con su capacidad de parecer y actuar como una totalidad a todas las escalas de su territorio.
+La fuerza soberana de un Estado requiere implementar proyectos que unifiquen y homogeneicen a las personas. Su [[gobernabilidad]] está directamente relacionada con su capacidad de parecer y actuar como una totalidad a todas las escalas de su territorio.
 
 Para @scott1999, los Estados necesitan la homogeneización de sus pobladores para hacerlos *legibles*, y lo hacen a través de categorías generadas por ellos y a través de la dispositivos de subjetivación como la escuela [caso de Yucatán @castaneda&al2004, 167]. @graeber2019 [101] sostiene algo similar cuando afirma que los Estados son la *Totalidad imaginaria por excelencia*.
 

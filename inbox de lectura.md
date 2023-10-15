@@ -13,7 +13,7 @@ graph TD
 Proceso:
 
 - Mi inbox de textos será una carpeta respaldada en ~/Drive/inbox-lecturas/ 
-    - Por default todo texto (principalmente leo textos) o referencia al texto (en formato .bib) que sea mínimamente interesante debería caer
+    - Por default todo texto (principalmente leo textos) o referencia al texto (en formato .bib) que sea mínimamente interesante debería caer en ese directorio
     - Opcionalmente, creo que sería útil renombrar los archivos con su "citekey" más probable, para priorizarlo podría usar el hack de [priorización de todo.txt](https://github.com/todotxt/todo.txt#priority) sustituyendo la @ por (a-z)
 - Cada texto debería recibir una [[lectura inspeccional]] de evaluación para decidir si es importante o no (este método implica decisiones, ver [[inboxes según Matuschak]])
     - Idealmente cada revisión debe terminar en una decisión: se va a lectura incremental, sólo a referencia o se borra

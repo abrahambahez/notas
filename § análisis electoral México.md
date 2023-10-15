@@ -1,5 +1,7 @@
 # Análisis electoral
 
+
+
 ## Encuestas
 
 Mide intención del voto antes de la elección, pero suelen ser más usadas con otros propósitos: [[encuestas como propaganda]]
@@ -31,13 +33,3 @@ En el caso de México, el modelo de «Transición democrática» afirma que se p
 # Referencias
 
 - [[bibliografía análisis electoral]]
-- [x] Terminar @alaminoschica&alaminosfernandez2017
-- [x] Terminar https://www.scielo.cl/scielo.php?pid=S0719-367X2022000300007&script=sci_arttext&tlng=en#B32
-- [ ] file:///Users/sabhz/Downloads/1062-3486-1-SM.pdf
-- [ ] https://eu.eustat.eus/documentos/datos/CV13_05.pdf
-- [ ] file:///Users/sabhz/Downloads/1013-1016-1-PB.pdf
-
-
-# Noticias relevantes
-
-- Reglamento del INE para re-elegir diputados y senadores

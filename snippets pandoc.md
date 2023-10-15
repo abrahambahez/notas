@@ -1,5 +1,3 @@
-# [[memos]] Pandoc
-
 Exportar a md con citas hechas
 
 ```pandoc

@@ -82,13 +82,12 @@ Como investigadora, quiero encontrar un dato en la plataforma que sé que ya exi
 **Checklist calidad** (para medir el cumplimiento de la estructura de la sesión)
 
 Antes de la presentación 
-
-- [ ] Se tienen a la mano los enlaces, la hoja de evaluación y las personas de Karma 
-- [ ] Los involucrados leyeron las notas previas sobre el usuario
+- [x] Se tienen a la mano los enlaces, la hoja de evaluación y las personas de Karma 
+- [x] Los involucrados leyeron las notas previas sobre el usuario
 
 Al terminar la presentación
 
-- [ ] Se siguió el script fielmente
-- [ ] Se leyó textualmente el mensaje de qué vamos a hacer
-- [ ] El usuario aclaró todas sus dudas
-- [ ] Se llenaron todos los campos de la evaluación
+- [x] Se siguió el script fielmente
+- [x] Se leyó textualmente el mensaje de qué vamos a hacer
+- [x] El usuario aclaró todas sus dudas
+- [x] Se llenaron todos los campos de la evaluación

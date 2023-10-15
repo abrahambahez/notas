@@ -5,7 +5,7 @@
 - Estas notas deben agruparse en un sólo lugar, que suele llamarse *[[inbox]]* (p. 24 · Posición 513), la recomendación es que sea un *inbox central* de modo que sea sencillo ubicarlas para trabajarlas después (p. 29 · Posición 634)
 - De preferencia deben procesarse el mismo día que fueron escritas; no deben pasar más de un par de días porque pierden valor (al perder contexto) con el tiempo. Eventualmente olvidarás qué querías decir con ellas
 - Cuando las revises decide si se convertirán en notas permanentes, serán desechadas, o esperarán un poco más. 
-- No las dejes demasiado tiempo, **deben moverse para mantener el [[inbox]] y vacío**, o se borran o se convierten en permanentes
+- No las dejes demasiado tiempo, **deben moverse para mantener el [[inbox]] vacío**, o se borran o se convierten en permanentes
 - No hay una fórmula para saber qué notas valdrán la pena, sigue tu intuición, que sólo se hará buena con la práctica: [[intuición experta en el trabajo con notas]]
 
 ## Cómo crear notas de referencia / literatura

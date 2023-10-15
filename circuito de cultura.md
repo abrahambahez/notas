@@ -1,4 +1,4 @@
-El circuito de cultura es un [[modelo conceptual]] propuesto por @hall1996 para analizar cualquier [[artefacto cultural]] en el contexto de 
+El circuito de cultura es un [[modelo teórico]] propuesto por @hall1996 para analizar cualquier [[artefacto cultural]] en el contexto de 
 
 Sus componentes son la [[representaciones|representación]], la [[identidad personal]], la producción, el consumo y la regulación; cada uno de los cuales forma un círculo (circuito)
 

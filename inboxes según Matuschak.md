@@ -1,6 +1,6 @@
 Matuschak elaboró una serie de reflexiones sobre los [[inbox]] en este esquema: https://notes.andymatuschak.org/zShQzFXDGrA1bTMCnbM9Qud
 
-Esta nota resume algunas de sus ideas relevantes para mis intereses:
+Esta nota resume algunas de sus ideas relevantes para mí:
 
 - Si un [[inbox]] no se procesa no tiene mucho valor, en esto sigue a David Allen: su propósito es ese, es lo que los diferencia de una simple lista de cosas
 - La métrica de confiabilidad de un [[inbox]] es: $o>=i$ donde ‘o’ es la *tasa de salida* e ‘i’ es la *tasa de entrada* de ítems a la bandeja

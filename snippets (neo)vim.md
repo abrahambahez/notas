@@ -1,5 +1,3 @@
-# [[memos]] Vim
-
 ## Corrección ortográfica simple
 Ver https://neovim.io/doc/user/spell.html
 

@@ -8,4 +8,5 @@ David Graeber (2014)
 
 Capítulos:
 
-1. Expone la tesis de que la deuda es, antes que económico, un asunto moral, «uno debe pagar sus deudas» es una expresión paradigmática de esto. Esa afirmación es una de las dos ideas están generalmente expandidas, la otra es que «los prestamistas son malas personas», lo que se refleja en historias moralizantes contra el préstamo con intereses. Estrategias para contrarrestar esa idea fueron usar grupos subalternos para cargar el estigma (como los judíos en la Francia medieval) o promover discursos sobre la culpa del deudor.
+1. Expone la tesis de que la deuda es, antes que económico, un asunto moral, «uno debe pagar sus deudas» es una expresión paradigmática de esto. Esa afirmación es una de las dos ideas están generalmente expandidas, la otra es que «los prestamistas son malas personas», lo que se refleja en historias moralizantes contra el préstamo con intereses. Estrategias para contrarrestar esa idea fueron usar grupos subalternos para cargar el estigma (como los judíos en la Francia medieval) o promover discursos sobre la culpa del deudor. El dinero convierte la moralidad en un asunto aritmético y justifica cosas que de otro modo nos parecerían reprobables 
+2. El mito del trueque. Diferencia entre deuda y obligación es la cuantificación 

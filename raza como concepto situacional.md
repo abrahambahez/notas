@@ -2,5 +2,7 @@
 
 La categoría de [[raza]] funciona como un marco de interpretación posible en una [[situación identitaria]], que puede llevar al [[perfilamiento racial]] o a la [[discriminación]] efectiva en una interacción de poder.
 
-#memo ¿Qué consecuencias tiene la raza como concepto situacional para entender su uso en la historia? :: tiene que redefinirse, no puede estandarizarse su identificación, el análisis comparativo es difícil
-<!--SR:!2023-09-28,1,230-->
+#memo 
+
+¿Qué consecuencias tiene la raza como concepto situacional para identificarla a lo largo de la historia? :: el concepto de «raza» tiene que redefinirse en cada situación, no puede estandarizarse su identificación
+<!--SR:!2023-10-30,18,230-->
