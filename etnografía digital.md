@@ -1,5 +1,17 @@
-Un artículo sobre [netnografía en comunidades virtuales cerradas](https://escholarshare.drake.edu/bitstream/handle/2092/2198/DMR091201R.pdf?sequence=1)
+La [[etnografía]] como base para el estudio de fenómenos mediados, posibilitados, iniciados o influenciados por tecnologías digitales, especialmente las comunicativas.
 
-Un capítulo en O'Reilly sobre etnografía en el contexto de [Managent of Extreme Situations](https://learning.oreilly.com/library/view/management-of-extreme/9781786301291/c05.xhtml#c05)
 
-https://jdsr.se/ojs/index.php/jdsr/article/view/24/16
+Ver:
+
+- [[§ etnografía y mediación algorítmica]]
+- [[humanidades digitales]]
+- [[§ tecnopolítica]]
+- [[§ ciber-antropología]]
+
+
+Referencias a integrar
+
+- [[@pinketal2016]] - Libro básico de etnografía digital
+- [[@deseta2020]] - Mitos sobre etnografía digital
+- [[@wade2020]] - Guía de bolsillo sobre netnografía
+- [[@lievre&al2019]] - Un capítulo en O'Reilly sobre etnografía en el contexto de Managent of Extreme Situations

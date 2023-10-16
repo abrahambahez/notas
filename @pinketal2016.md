@@ -1,5 +1,64 @@
 # Digital ethnography: Principles and practice
 
+
+# Notas
+## Conceptos relevantes
+
+- **Experiencia**: relacionada con la sensorio-afectiva, el concepto de [[sensorium]] es clave y va más allá de los 5 sentidos definidos en occidente. La experiencia digital y no-digital no son dos cosas diferentes, son la misma experiencia vivida simultáneamente y por tanto, lo digital y lo no-digital se retroalimentan
+- **Prácticas**: impacto de lo digital en las acciones que se pueden realizar en todos los ámbitos de la vida, incluyendo lo privado-doméstico y lo público-laboral-social
+    - The ubiquity of digital media in everyday life makes it at once obvious and easy to find, but at the same time it is difficult to separate out the ways that people use digital media from the wider rhythms and routines of everyday living and embodied senses of self.
+- **Cosas** (cultura material y tecnologías digitales como _cosas_): El uso de "cosas" por sujetos y ambientes en el tiempo, la _apropiación_ de las cosas
+- **Relaciones**: Mientras que originalmente las relaciones sociales estaban definidas por ciertos grados de _proximidad_, las tecnologías digitales han posibilitado la interacción sin requerir distancia física, modificando la _territorialidad_ de las relaciones: podemos estar cerca aunque haya distancias kilométricas entre nosotros. Estos cambios fundamentan la [[co-presencia]]
+    - Expresiones de la paradoja: mientras la tecnología nos acerca con quienes están lejos, también puede alejarnos de quienes están cerca
+    - Comunidades migratorias que revelan nuevos modos de "estar ahí" (migrantes de estratos bajos que pueden mantener más contacto con sus familias lejanas, migrantes de estratos altos -expatriados- que mantienen mucho de su forma de vida -incluso su idioma- en países lejanos)
+- **Mundos sociales.** Este concepto no tiene una historia teórica muy larga, es usado por Pink [p. 131] como herramienta heurística: _By social worlds, we mean those relatively bounded – but never airtight – domains of social life. Ethnographers typically immerse themselves in these worlds by spending long periods of time with their research participants. The potential variation of these worlds is as vast of that of human sociocultural diversity. They can range widely from the worlds inhabited by bikers, surfers, farmers, nuns or herders, to those of online poker players, 3D virtual environments, Facebook groups or Weibo sers._ Dado que el concepto de red y comunidad puede resultar problemático para entender varios fenómenos sociales mediados por tecnologías digitales (¿son una comunidad o una red los _Indignados_ del 15M?) se propone que mundo social puede ser un sustituto conceptual
+- **Localidades**. Antes solían referirse a espacios físicamente situados, _microcosmos_, eventualmente han sido reemplazados por conceptos como _glocalidad_ que desafían su dimensión física
+- **Eventos**. Los eventos pueden entenderse de diversas formas, algunas útiles son como:
+    - Relatos basados en múltiples puntos de vista que se rehacen en cada oportunidad añadiendo características que reflejan configuraciones socioculturales
+    - Constelaciones de procesos que coinciden y luego no, pueden representar tanto eventos _mundanos_ como espectaculares [p. 181]. Los eventos digitales son independientes de la _espectacularización_ típica de la tv, ahora una evento relevante puede ser sobre un contenido mundano
+
+### Conceptos secundarios en la obra
+
+- [Ecologías comunicativas](https://palabraclave.unisabana.edu.co/index.php/palabraclave/article/view/5774/html) El estudio del entorno como posibilitador de comunicación entre diversos tipos de sujetos
+- **Ritmos digitales** (proyecto de KPMG): investigar usos de lo digital como una práctica que está a lo largo del día a día de las personas
+- **Prosumición**
+- **Circuitos culturales**: as a framework that enabled cultural studies scholars to identify and explore the moments – production, consumption, representation, identity and regulation – wherein culture defines and shapes the meaning of media technologies.
+- **Vida social de las cosas**: hacer la biografía de una cosa nos informa los diversos usos, contextos y significados que esa cosa tiene a lo largo del tiempo, esto es, su vida social
+- **Doble articulación** (_double articulation_): las tecnologías son cosas que vinculan lo _privado_ y lo _público_ y facilitan la negociación de sentidos dentro y fuera de espacios domésticos [@pinketal2016, p. 89]
+- **Teoría de la domesticación**: apropiación, objetivación, incorporación y conversión son fases por las que pasan las _"cosas domesticadas"_
+- **Co-presencia**: las relaciones humanas están también definidas por cualidades y disponibilidades (affordances) de las tecnologías digitales, no sólo por la ubicación física u territorializada de la persona
+- **Comunidades de práctica**: _refers to the ‘doing’ of community through active participation in sets of shared practices that bind people together (Lave and Wenger, 1991)_ [@pinketal2016, p. 132]
+- **Socialidad** (_sociality_) The concept of socialities refers, not to a specific type of social relationship per se, but rather to the qualities of social relationships. It is an open concept that enables us to recognise that social relations between people are multiple, can be fluid, and change at different rates. Hence, it also allows us to conceptualise how the ways in which people become related or ‘connected’ to each other through and with digital technologies might be similarly changing. [@pinketal2016, p. 135]
+- **Conocimiento local** (_local knowledge_) Conocimiento compartido por un conjunto de sujetos vinculados (digital o físicamente) a partir de _puntos de encuentro_
+- **Mundos virtuales** como _conjuntos de locaciones_ [p. 161]
+
+## Métodos de investigación
+
+### Recreación videográfica
+
+La recreación videográfica (_video re-enacted_) es una estrategia metodológica usada en contextos de etnografía digital. De acuerdo con [@pinketal2016, cap. 2]:
+
+> A second method, the video re-enactment, invites participants to engage in a more detailed demonstration of everyday activities (Pink and Leder Mackley, 2014). In the project discussed here this included bedtime and morning routines, which were selected because they involve uses of media and energy (including switching on and off).
+
+La recreación videográfica puede usarse para estudiar hábitos (rutinas matutinas, verspertinas, nocturnas), prácticas cotidianas [_day in the life_, cfr. @pinketal2016, p. 71]
+
+### Video tour
+
+El video tour es una estrategia metodológica usada en el contexto de la etnografía digital, de acuerdo con @pinketal2016 [cap. 2]:
+
+> This method encourages participants to show the researcher their home and share the ‘feelings’ of its textures, air flows, temperatures, sounds and smells.
+
+### Escenarios de uso
+
+Los escenarios de uso son una estrategia metodológica usada en el contexto de la etnografía digital, de acuerdo con @pinketal2016 [p. 116]:
+
+> Along with standard interview techniques, Hjorth used the ‘scenarios of use’ method – a deep interviewing technique, developed with Michael Arnold – that involves reviewing a participant’s typical day from the moment they wake up until the moment they go to sleep. Participants are asked to share information about when they use media and why, with interviewers asking further questions about the detail of the everyday and mundane. Interviews often last for two to three hours. Scenarios of use and re-enactments assist discussion of some of the tacit and familiar practices that can be overlooked in ordinary interviews. Alongside the scenarios of use method, participants were also asked to collate a diary over a month, including visual images such as screen shots, so that the researcher could gain a sense of some of the key phone applications that participants were using, as well as how and why they used them.
+
+### Análisis de lista de contactos
+
+El análisis de lista de contactos es una técnica de investigación o estrategia metodológica usada en el contexto de la etnografía digital para entender relaciones sociales mediadas digitalmente, de acuerdo con @pinketal2016 [p. 118]
+
+> One of the key techniques used in the latter study was an analysis of individuals’ contact lists through a discussion of all the names and numbers saved in their phone (Horst and Miller, 2005). Participants documented each contact’s name and relationship to them, the last time they spoke with that person, what they talked about and how frequently they sent or received calls and messages from them. This contact list study also involved going through the entire phone, such as looking through pictures saved, screen savers, music, ringtones and other forms of customisation. Combined with the broader ethnographic research that Horst carried out between 1999 and 2002 and again in 2004, 2007 and 2009, the contact list study enabled Horst to understand the structure of relationships and networks activated through mobile phones. It also generated insights into some of the broader social implications of these structures, particularly gender relations in families, for understanding the meaning of the mobile phone in people’s everyday lives (Figure 5.3).
 # Anotaciones (18/5/2022 18:55:50)
 
 "Researching the digital rhythms of the home" (“Digital ethnography: principles and practice”, 2016, p. 70)

@@ -1,5 +1,7 @@
 La etnografía es una [[estrategia metodológica]] cualitativa en ciencias sociales que se caracteriza por ser no dirigida [@guber2019, p. 13] y que tiene diversos fines, como el comprender desde la realidad desde la perspectiva de los miembros [@guber2019, p. 10].
 
+La etnografía es un modo, entre muchos otros, de producir conocimiento sobre el mundo. Ese conocimiento interactúa mejor con otros (en diálogo inter-epistémico) si se le considera *abductivo*, ver al [[conocimiento etnográfico como abducción]].
+
 Para @restrepo2016, la etnografía es una *descripción* que busca una mirada de primer orden (un ver el mundo desde la perpectiva de las personas que se quieren leer). El trabajo de campo etnográfico va más allá de la recolección del material empírico, pues es a través de la empatía, la experiencia, el [[estar ahí]], que se alcanza una comprensión mental, emocional y corporal que constituye la experiencia cultural de lo diferente. Su escritura es un trabajo de destilación, de curaduría, de lectura en sentido amplio.
 
 Para @emerson2011 [p. 1], la investigación etnográfica tiene dos componentes esenciales: la participación del investigador, es decir, [[observación participante]]; y la escritura regular y sistemática de lo observado y de los aprendizajes mientras se participa en la vida diaria de los otros, en un [[diario de campo]] que acumula los registros de esa información.

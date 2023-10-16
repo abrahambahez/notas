@@ -1,5 +1,3 @@
-## Implicaciones de los modos de vida
-
 - **El concepto de sociedad es un complejo de [[modos de vida]], cada uno tiene su ideología específica y un sistema específico de prácticas ligadas a sus clases**
 - **Los diferentes grupos de la sociedad se malinterpretan unos a otros**: *«When one life-mode is considered from the point of view of another, it can never be perceived ‘as it really is’, i.e. as theoretically constructed. Nor can it be perceived in terms of those who actually live this life-mode. Rather, it is perceived as interpreted through the conceptual universe of the other life-mode.»*
 - Considerando la diferencias de los diferentes mundos conceptuales:

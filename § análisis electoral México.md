@@ -1,7 +1,5 @@
 # Análisis electoral
 
-
-
 ## Encuestas
 
 Mide intención del voto antes de la elección, pero suelen ser más usadas con otros propósitos: [[encuestas como propaganda]]

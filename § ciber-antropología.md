@@ -21,7 +21,7 @@
 
 ## Aproximaciones y fenómenos
 
-- [[§ etnografía y tecnologías informacionales]]
+- [[§ etnografía y mediación algorítmica]]
 - [[cultura digital]]
 - [[código abierto]]
 - [[browser fingerprint]]
