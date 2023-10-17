@@ -52,3 +52,16 @@ Ver también dos notas donde documento ideas y proceso al respecto:
 
 - [[§ sistemas de notas]]
 - [[log ztk]]
+
+### Plugins de Obsidian requeridos para esto:
+Todos son plugins no oficiales:
+
+- Citations
+- Incremental Writing
+- Spaced Repetition
+- Pandoc Reference list
+
+Además, uso [Zotero](https://www.zotero.org/) como gestor de referencias con los siguientes plugins:
+
+- Zotfile
+- BetterBibtex
