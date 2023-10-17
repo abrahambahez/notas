@@ -2,8 +2,8 @@ Capacidad del cerebro de reorganizar sus conexiones neuronales para aprender nue
 
 #memo 
 
-La neuroplasticidad es la capacidad {{del cerebro de reorganizar sus conexiones neuronales para aprender nuevas cosas}}
-<!--SR:!2023-10-17,2,230-->
+La neuroplasticidad es la capacidad **del cerebro de reorganizar sus conexiones neuronales para aprender nuevas cosas**
+<!--SR:!2023-10-18,1,210-->
 
-Los dos procesos de la neuroplasticidad son la {{sinaptogénesis y la poda sináptica}}
-<!--SR:!2023-10-17,2,230-->
+Los dos procesos de la neuroplasticidad son la **sinaptogénesis y la poda sináptica**
+<!--SR:!2023-10-18,1,210-->

@@ -11,7 +11,7 @@ Las notas permanentes no son sino una **teoría** individual del mundo
 Las notas de referencia son constructos de la **evidencia empírica** que interactúa con la teoría
 
 ## App mentality vs Plain text mentality
-Las ventajas del texto plano, aún en su versión *non-linkable* están en su ligereza y facilidad para **buscar** en sus contenidos (no son búsquedas tan eficientes como en una base de datos, pero pueden ser muy poderosas). No quiero llenar mi bóveda de obsidian con archivos que contienen queries de búsqueda solamente, me gustaría que la aplicación me permitiera gestionarlos fuera de las notas (si quisiera documentar las búsquedas o los filtros lo haría en lenguaje natural y sin una sintaxis específica -o con múltiples-, sino sólo la lógica)
+Las ventajas del texto plano, aún en su versión *non-linkable* están en su ligereza y facilidad para **buscar** en sus contenidos (no son búsquedas tan eficientes como en una base de datos, pero pueden ser muy poderosas). No quiero llenar mi bóveda de Obsidian con archivos que contienen *queries* de búsqueda solamente, me gustaría que la aplicación me permitiera gestionarlos fuera de las notas (si quisiera documentar las búsquedas o los filtros lo haría en lenguaje natural y sin una sintaxis específica -o con múltiples-, sino sólo la lógica)
 
 ## Análisis cualitativo del grafo del zettelkasten
 El análisis cualitativo del grafo de zettelkasten se enfoca en **identificar estructuras heterárquicas** de una [[comunidad de nodos]], con lo cual visibiliza la [[ontología informal]] del grafo
@@ -31,12 +31,12 @@ Relaciones de los enlaces entre las referencias y las notas
 
 Las referencias que citan notas usan los conceptos para su argumentación ==esto debería evitarse creando la relación inversa==
 
-Las notas citan las referencias para **fortalecerse** teórica o empíricamente
+Las notas citan las referencias para **fortalecerse** teórica o empíricamente.
 
 ## 2022-01-22
 Sintaxis [[OKR]] en texto plano.
 
-La sintaxis para escribir [[okr]] en texto plano debería respetar las siguientes convenciones:
+La sintaxis para escribir [[OKR]] en texto plano debería respetar las siguientes convenciones:
 
 1. Cada elemento debe escribirse sólo en una línea de texto
 2. El *objetivo* debe ser *padre* de los *resultados clave*

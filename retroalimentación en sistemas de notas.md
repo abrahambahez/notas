@@ -1,4 +1,3 @@
-#inbox
 Una retroalimentación sistemática en un proceso de trabajo cognitivo iterativo puede ser: 
 
 - Personal: actualiza las notas en función de nuevo conocimiento o información

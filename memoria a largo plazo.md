@@ -6,8 +6,8 @@ Por lo general la memoria a largo plazo se divide en «explícita/declarativa» 
 
 #memo 
 
-La memoria a largo plazo puede dividirse en {{explícita o implícita, declarativa o procedimental}}
-<!--SR:!2023-10-16,1,210-->
+La memoria a largo plazo puede dividirse en **explícita-declarativa o implícita-procedimental**
+<!--SR:!2023-10-17,1,190-->
 
 Menciona dos ejemplos de memoria explícita o declarativa :: memoria episódica y memoria semántica
-<!--SR:!2023-10-16,1,208-->
+<!--SR:!2023-10-17,1,188-->

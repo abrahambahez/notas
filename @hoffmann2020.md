@@ -31,7 +31,7 @@ Para entender las transformaciones en y del espacio hay que observar las prácti
 
 Me refiero aquí a espacios tradicionalmente asociados a pueblos o comunidades pensadas como estables –las comunidades indígenas rurales- y que, en contextos de movilidad, se reconfiguran in situ, en los lugares de origen de los migrantes. Tomaré dos ejemplos, el del pueblo misak en Colombia y el del territorio comunal maya en Belice.
 
-[[la visión misak de la expansión del espacio]]
+La [[visión misak de la expansión del espacio]]
 
 ### \*Maya Homeland\* en el sur de Belice
 

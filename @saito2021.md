@@ -14,7 +14,7 @@ Lo cotidiano es muy problemático de definir, dada la inmensa variedad de modos 
 
 Lo estético, en la estética de lo cotidiano, parte de al menos dos puntos de interés. El primero es el estatus de las sensaciones corporales, que pueden provenir de percepciones del entorno o de actividades corporales (sea que se centren en el propio cuerpo o en el uso de herramientas). El segundo se refiere a la distinción entre su uso *honorífico* y su uso *clasificatorio*. El sentido *honorifico* es el más común tanto del discurso intelectual como el popular; y se trata de atribuirle una propiedad estética a aquello que produce una experiencia positivamente significativa y satisfactoria. En el segundo sentido se entiende a lo estético como una percepción producida por sensaciones e imaginación, independientemente del efecto específico que tenga (que puede ser de algo disgustante, monstruoso) y sin tener que entenderlo como *objeto artístico*.
 
-![[@saito2021 experiencia estética de lo cotidiano]]
+[[experiencia estética de lo cotidiano]]
 
 ### § 3. «Desfamiliarización» de lo familiar
 

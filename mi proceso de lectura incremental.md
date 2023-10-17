@@ -2,7 +2,7 @@ Esta nota documenta un sub-proceso de mi [[inbox de lectura]], a saber, el de mi
 
 Dadas las especificaciones de la [[lectura incremental]]:
 
-Es mejor un sistema de [[repetición espaciada]] que **todo este indexado y sea el algoritmo el que nos ayude a mantener la relevancia de cada cosa**. Esto aplica para [[escritura incremental]] y para [[mi proceso de lectura incremental]] así como para aprendizaje de proyectos específicos.
+Es mejor un sistema de [[repetición espaciada]] que **todo este indexado y sea el algoritmo el que nos ayude a mantener la relevancia de cada cosa**. Esto aplica para [[escritura incremental]] y para así como para aprendizaje de proyectos específicos.
 
 - Usar como base las notas de literatura, no los textos en sí 
     - Las lecturas ya están filtradas como relevantes (ver el diagrama de [[inbox de lectura]]) así que sólo debo garantizar que todas las notas que están allí son de cierto valor, el algoritmo de encargará de darle importancia a las mejores para mí

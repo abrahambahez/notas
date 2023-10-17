@@ -1,5 +1,3 @@
-#inbox 
-
 Para @ahrens2017 [57], desarrollar [[intuición experta]] es mejor que la planificación en contextos de investigación: *«Don’t make plans. Become an expert.»*.
 
 Esta forma de abordaje privilegia cosas como la [[cognición encorporada]] (p. 58 · Posición 1212) o el [[enactivismo]] y requiere ciclos de retroalimentación cortos y constantes, porque es un [[proceso iterativo]], no lineal. Para Ahrens: *«gut feeling is not a mysterious force, but an incorporated history of experience»* (p. 59 · Posición 1243)

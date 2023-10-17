@@ -4,5 +4,5 @@ Según este modelo, toda tarea mental que realizamos es procesada por la memoria
 
 #memo 
 
-La memoria de trabajo engloba a la {{memoria a corto plazo y la memoria sensorial}}
-<!--SR:!2023-10-17,2,230-->
+La memoria de trabajo engloba a la **memoria a corto plazo y la memoria sensorial**
+<!--SR:!2023-10-22,5,230-->

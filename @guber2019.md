@@ -1,11 +1,6 @@
 # La etnografía: Método, campo y reflexividad
 Rosana Guber
 
-undefined
-
-
-* Mdnotes File Name: [[guber2019]]
-
 Perplejidad por la diversidad humana
 
 Perplejidad por la diversidad humana

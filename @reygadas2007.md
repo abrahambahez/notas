@@ -1,15 +1,6 @@
 # La desigualdad después del (multi) culturalismo
 Luis Reygadas
-
-undefined
-
-
-* Mdnotes File Name: [[reygadas2007]]
-
-\### ¿Hacia dónde va la antropología?
-
-\### ¿Hacia dónde va la antropología?
-
+## ¿Hacia dónde va la antropología?
 pp. 356
 
 Reygadas comienza el capítulo citando el caso de la propuesta de C. Geertz de tener un análisis de la cultura en dos etapas:

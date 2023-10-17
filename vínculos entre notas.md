@@ -1,10 +1,11 @@
-# Pensar antes de vincular
+El criterio clave para enlazar notas es **pensar antes de vincular**.
 
 # Tipos de vínculos
+Los enlaces expresan relaciones explícitas entre ideas. algunos tipos de enlaces son:
 
 - La nota **es una instancia** de otra: *x* es una instancia de *y*
 - La nota **es una subclase** de otra, taxonómica u ontológicamente especificada: *x* es 
-- Instancia != subclase. Instancia: tipo-token; Subclase: subconjunto
+    - Instancia != subclase. Instancia: tipo-token; Subclase: subconjunto, ver [[discusión sobre las diferencias entre clase y tipo]]
 - La nota **es una dependencia** semántica de un argumento o relato: *x* es parte de la proposición *p*
 - La nota **es formalmente similar o igual** a otra nota con que se relaciona (requiere especificación)
 - La nota **es semánticamente similar o igual** a otra nota con que se relaciona

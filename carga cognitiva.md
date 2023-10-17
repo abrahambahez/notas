@@ -11,5 +11,5 @@ Tipos de carga cognitiva:
 
 #memo 
 
-Los 4 tipos de carga cognitiva son {{intrínseca, ajena, relevante y colaborativa}}
-<!--SR:!2023-10-16,1,230-->
+Los 4 tipos de carga cognitiva son **intrínseca, ajena, relevante y colaborativa**
+<!--SR:!2023-10-18,2,230-->

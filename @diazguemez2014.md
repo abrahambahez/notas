@@ -24,7 +24,7 @@ La primera modernización urbana de Mérida ocurrió durante la segunda mitad de
 
 A principios de los años 1950 la nueva periferia de Mérida era un conglomerado de colonias que habían surgido como consecuencia del ideal revolucionario de terminar con el *"problema inquilinario"* (según Leopoldo Tommasi, *"La ciudad de ayer, de hoy y de mañana"*, citado en la p. 13)
 
-La ampliación de la ciudad fue vista como una oportunidad para crear nuevos espacios para la vivienda, rodeada de [[manifestaciones posrevolucionarias de memoria en Mérida]].
+La ampliación de la ciudad fue vista como una oportunidad para crear nuevos espacios para la vivienda, rodeada de manifestaciones posrevolucionarias de memoria en Mérida.
 
 Esto convirtió a Mérida en el centro de Yucatán en todos los sentidos. Su crecimiento demográfico posterior demuestra el desequilibrio respecto a las otras ciudades
 

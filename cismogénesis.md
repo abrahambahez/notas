@@ -2,14 +2,14 @@ Término acuñado por Gregory Bateson a propósito de un ritual llamado *naven* 
 
 #memo 
 
-La cismogénesis es {{un proceso de retroalimentación entre grupos o personas que puede ser simétrica o complementaria}}
-<!--SR:!2023-10-16,1,228-->
+La cismogénesis es **un proceso de retroalimentación entre grupos o personas que puede ser simétrica o complementaria**
+<!--SR:!2023-10-18,2,228-->
 
-Los dos tipos de cismogénesis son {{simétrica y complementaria}}
-<!--SR:!2023-10-17,2,230-->
+Los dos tipos de cismogénesis son **simétrica y complementaria**
+<!--SR:!2023-10-21,4,230-->
 
 Qué es la cismogénesis simétrica :: Aquella donde los interactuantes responden con la misma acción y en igual magnitud (don con don, violencia con violencia)
-<!--SR:!2023-10-16,3,250-->
+<!--SR:!2023-10-23,7,250-->
 
 Qué es la cismogénesis complementaria :: Aquella donde los interactuantes responden con acciones contrarias e interdependientes (dominación/sumisión)
 <!--SR:!2023-10-17,2,230-->

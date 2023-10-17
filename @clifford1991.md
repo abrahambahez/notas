@@ -7,5 +7,3 @@ James Clifford (1991)
 ## Notas
 
 - [[modos de formación de la autoridad etnográfica]]
-
-{{autoridad etnográfica}}

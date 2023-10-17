@@ -13,7 +13,6 @@ La cualidad de *ser* una persona o *tener* personalidad. Su traducción suele se
 - Puede aprender, adquirir conocimientos y desarrollar habilidades.
 - Tiene la capacidad de comunicarse y expresar sus ideas y sentimientos.
 - Puede tener creencias, valores y opiniones propias.
-
 - Tiene la capacidad de tomar decisiones y actuar de manera autónoma.
 - Es consciente de sí mismo y de su entorno.
 - Tiene emociones y sentimientos.
@@ -32,7 +31,7 @@ Las dinámicas de atribución de *personhood* varían mucho dentro de los grupos
 - Animales no humanos
 - Fetos
 - Seres humanos con sensibles problemas cognitivos
-- Inteligencias artificiales
+- [[inteligencia artificial]]
 - Cosas (antropología de las cosas)
 - Entidades metafísico-religiosas (dioses, espíritus, artefactos rituales)
 - Desde una perspectiva religiosa, el alma
