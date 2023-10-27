@@ -4,6 +4,7 @@ La anarquía es la doctrina política que pugna por la abolición de la jerarqu�
 
 - Negación del estado
     - antiautoritarismo
+    - [[principio de incompletitud del poder]]
     - ¿es posible un antiautoritarismo fundado en la [[heterarquía]]?
 - Ética y política prefigurativa
 - Cooperativismos (no son universales, hay posturas individualistas)

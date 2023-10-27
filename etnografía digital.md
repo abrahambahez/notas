@@ -1,13 +1,11 @@
 La [[etnografía]] como base para el estudio de fenómenos mediados, posibilitados, iniciados o influenciados por tecnologías digitales, especialmente las comunicativas.
 
-
 Ver:
 
 - [[§ etnografía y mediación algorítmica]]
 - [[humanidades digitales]]
 - [[§ tecnopolítica]]
 - [[§ ciber-antropología]]
-
 
 Referencias a integrar
 

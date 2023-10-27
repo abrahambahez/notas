@@ -24,7 +24,7 @@ Indignación (2014)
 
 "Por eso queremos hablar primero del tiempo para los pueblos, porque lo primero que nos metimos en la cabeza fue que todos los pueblos del mundo cambian todo el tiempo, además no todas las personas que viven en un pueblo son iguales y piensan lo mismo (¡que diferentes somos los de Yucatán que los uaches del DF de ahora! Todos hablamos castilla pero aquí en Yucatán se habla muy diferente)" (Indignación, 2014, p. 21) 
 
-"Y lo más importante que aprendimos es el pueblo maya está vivito y coleando. ¿Han visto por toda la península las casas de los dueños de las haciendas henequeneras abandonadas hasta con árboles creciendo dentro?" (Indignación, 2014, p. 21) 
+"Y lo más importante que aprendimos es el [[pueblo maya]] está vivito y coleando. ¿Han visto por toda la península las casas de los dueños de las haciendas henequeneras abandonadas hasta con árboles creciendo dentro?" (Indignación, 2014, p. 21) 
 
 "La revolución que hubo en México acabó con esa terrible esclavitud ¿Han visto ahí por Zaci algunas iglesias en ruinas? ¡Nadie va a pensar que por la guerra dejó de existir la religión católica!" (Indignación, 2014, p. 22) 
 

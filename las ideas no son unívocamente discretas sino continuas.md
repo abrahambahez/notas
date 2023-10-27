@@ -13,4 +13,4 @@ Las fronteras que establecemos con las ideas podrían obedecer a reglas pragmát
 
 ¿A qué se debe nuestra tendencia a convertir ideas en unidades discretas? Posiblemente para reducir la [[carga cognitiva]], [link](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_carga_cognitiva). Posiblemente la propia noción de *idea* debería ser mejor especificada.
 
-[[alternativas a la noción de idea]]
+Dada esta limitación conceptual considero algunas [[alternativas a la noción de idea]].

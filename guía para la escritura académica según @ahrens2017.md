@@ -19,14 +19,14 @@ Tipos de notas que reflejan cada estado de desarrollo (p. 24 · Posición 510)
 
 - No se trata de *coleccionar*, sino desarrollar ideas, argumentos y discusiones (p. 24 · Posición 523).
 - Usa siempre oraciones completas, referencias correctamente hechas; en fin, ser tan preciso, claro y breve como sea posible (p. 24 · Posición 525).
-- Es mejor seguir tu interés por la vía del mejor camino posible. Seguir la intuición y la emoción también (p. 25 · Posición 542). Seguir este sencillo proceso nos llevará eventualmente a acumular suficiente conocimiento de calidad como para empezar a escribir sobre él (p. 25 · Posición 548), ==la intuición es el primer criterio táctico para tomar decisiones de trabajo cognitivo==
+- Es mejor seguir tu interés por la vía del mejor camino posible. Seguir la intuición y la emoción también (p. 25 · Posición 542). Seguir este sencillo proceso nos llevará eventualmente a acumular suficiente conocimiento de calidad como para empezar a escribir sobre él (p. 25 · Posición 548), ==la intuición es el primer criterio táctico para tomar decisiones de [[trabajo cognitivo]]==
 - No se escribe el texto final sin ideas propias desarrolladas y densamente vinculadas. Extrae las notas potencialmente relevantes, prueba ordenarlas de forma diferente, conectarlas y ver redundancias o desarrollos (p. 25 · Posición 549)
 
 ## fase de escritura del borrador
 
 Los borradores se forman con colecciones de argumentos (p. 26 · Posición 555), prueba a escribir alguno, edítalo, corrígelo y conviértelo en un manuscrito. ¡Escribe! La corrección y detalle, pulir el estilo, pueden venir después (p. 26 · Posición 558).
 
-No dejes que ninguna idea desarrollada se desperdicie. Las ideas de las notas permanentes son más valiosas a largo plazo que los borradores de proyectos mismos. Si una buena idea no es relevante en el contexto de tu proyecto actual, *crea una nota permanente sobre ella de todos modos* y añádela a la caja de notas. Servirá a proyectos futuros (p. 26 · Posición 569.
+No dejes que ninguna idea desarrollada se desperdicie. Las ideas de las notas permanentes son más valiosas a largo plazo que los borradores de proyectos mismos. Si una buena idea no es relevante en el contexto de tu proyecto actual, *crea una [[nota atómica]] sobre ella de todos modos* y añádela a la caja de notas. Servirá a proyectos futuros (p. 26 · Posición 569.
 
 Un típico día de trabajo con este sistema implica todos los pasos: leer, tomar notas de literatura, conectarlas con las notas permanentes del sistema y crear nuevas, ubicándolas coherentemente dentro del sistema. Trabajar en borradores (combinaciones de argumentos formados por las notas permanentes), encontrar huecos argumentales y tratar de llenarlos o plantear direcciones futuras para tener más información.
 
@@ -35,7 +35,7 @@ Un típico día de trabajo con este sistema implica todos los pasos: leer, tomar
 
 ### cap. 9 - separar y entrelazar tareas
 
-- Cada tarea del trabajo cognitivo requiere atención y tiempo dedicado específicos (pp. 50-54 · Posiciones 1181-1129)
+- Cada tarea del [[trabajo cognitivo]] requiere atención y tiempo dedicado específicos (pp. 50-54 · Posiciones 1181-1129)
 - Diferentes tareas de ese trabajo requieren diferentes tipos de atención: corregir un texto no es lo mismo que crearlo. Oscilamos entre una concentración profunda y pensamientos abstactos y una libertad creativa de exploraciónd e ideas (p. 56 · Posición 1180)
 - La capacidad mental para manejar la atención es la condición necesaria pero no suficiente; el sistema de trabajo cognitivo debe facilitar esos cambios
 - [[intuición experta en el trabajo con notas]]
@@ -48,20 +48,20 @@ Un típico día de trabajo con este sistema implica todos los pasos: leer, tomar
 ### Cap. 11 - Toma notas inteligentes
 
 - El proceso de las notas inteligentes es acumulativo y deliberado. Equivale a una carrera larga donde cada pensamiento aumenta nuestra capacidad de producir trabajos intelectuales finalizados
-- En el apartado 11.2 (pp. 81-84 · Posiciones 1720-1806) Ahrens está de acuerdo con que ==el trabajo cognitivo no es privativo ni del individuo ni del cerebro==
-- Pero una vez que tenemos masa crítica de notas surge el problema de la ==capacidad de recuperación de ideas==
+- En el apartado 11.2 (pp. 81-84 · Posiciones 1720-1806) Ahrens está de acuerdo con que ==el [[trabajo cognitivo]] no es privativo ni del individuo ni del cerebro==
+- Pero una vez que tenemos masa crítica de notas surge el problema de la [[capacidad de recuperación de ideas]]
 
 #### Cap. 12 desarrollar ideas
 
 Emergencia de temas
 
-- Idealmente, las nuevas notas se escriben haciendo ==referencias explícitas== a notas ya existentes, pero no siempre es posible (p. 93 · Posición 1972). 
+- Idealmente, las nuevas notas se escriben haciendo referencias explícitas a notas ya existentes, pero no siempre es posible (p. 93 · Posición 1972). 
 - A partir de la creación de secuencias de notas (como las ramas en [[zettelkasten de Luhman]] o de su densidad vinculatoria) los temas emergen naturalmente como nodos; esa emergencia es la estructura del desarrollo de textos y proyectos. ^p93b
     - Combinan las ventajas de lo abstracto con lo temático
 - No es necesario escribir nuevas notas sólo para llenar vacíos en secuencias de notas. Escribimos sólo porque nos ayudará a pensar mejor. Los vacíos argumentales pertenecen a los manuscritos (p. 93 · Posición 1989)
 - «Las referencias entre las notas son mucho más importantes que las referenicas indexables desde una nota; por eso lo único que se pone en los índices son puntos de entrada. Unos pocos sabiamente elegidos (esto es, densamente vinculados explícitamente)  son suficientes para cada punto de entrada» (p. 94 · Posición 2004-2011) ^p-94-pos2004
 - La dinámica del sistema consiste en extraer información de fuentes lineales para mezclarla, agitarla para hacer emerger patrones nuevos; finalmente usamos esos patrones para construir nuevos textos lineales (p. 94 · Posición 1996)
-- ==La consideración de cómo desarrollar un tema pertenece a las notas y no a un nivel meta- jerárquico== (p. 95 · Posición 2016)
+- ==La consideración de cómo desarrollar un tema pertenece a las notas y no a un nivel meta-jerárquico== (p. 95 · Posición 2016)
 - Toda consideración sobre la estructura de un tema es solamente otra consideracion sobre una nota, sujeta a cambios y dependiente del grado de desarrollo de nuestro entendimiento (p. 95 · Posición 2020)
 - Tipos de enlaces usados por Luhmann:
     - enlaces referidos desde el index como puntos de partida (Luhmann tenía 25 de estos enlaces, loq ue )

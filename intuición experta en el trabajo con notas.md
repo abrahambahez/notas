@@ -9,14 +9,14 @@ Por eso:
 1. Es necesario que establezcas *una práctica diaria* para escribir notas permanentes, es decir, ideas completas, breves y bien elaboradas
 2. Es necesario que la exposición a la *[[retroalimentación]] sea sistemática*, el sistema de notas debería permitirnos escribir ideas y enfrentarlas constantemente ante nuevas entradas de información. [[retroalimentación en sistemas de notas]]
 3. Es necesario que las ideas que escribas sirvan para construir argumentos y textos más complejos, cuando alcances un volumen mínimo de notas (cfr. [[masa crítica de notas]]) *debes comenzar a producir contenidos más finales*: libros, artículos, videos, etcétera.
-4. Yo debo añadir una cosa más: es necesario que incorpores en tu práctica diaria la reflexividad, que te permitirá no sólo iterar sobre tus ideas sino sobre tus prácticas. Pero recuerda que ==cómo la escritura es pensamiento y aprendizaje==.
+4. Yo debo añadir una cosa más: es necesario que incorpores en tu práctica diaria la reflexividad, que te permitirá no sólo iterar sobre tus ideas sino sobre tus prácticas. Pero recuerda [[cómo la escritura es pensamiento y aprendizaje]].
 
 No hagas planes, sigue tu intuición, que al principio será mala, pero eventualmente lograrás mejorar la calidad del contenido. Si quieres pensar en términos de indicadores:
 
 - El número de notas permanentes creadas en el tiempo (por día, por semana)
 - El número de artículos, libros, contenido final producido de las notas permanentes
 - El tiempo que dedicas a cada fase del proceso debe ir disminuyendo hasta un punto razonable: crear esquemas de artículos, crear borradores a partir de los esquemas, crear textos finales, revisarlos y publicarlos a partir de los borradores
-- La facilidad con la que exploras, descubres y recuperas notas. Este es un indicador más cualitativo sobre la ==capacidad de recuperación de ideas==
+- La facilidad con la que exploras, descubres y recuperas notas. Este es un indicador más cualitativo sobre la ==[[capacidad de recuperación de ideas]]==
 
 Escribe, escribe, reflexiona, escribe.
 

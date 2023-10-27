@@ -1,4 +1,6 @@
-— Edgar Cabanas, Eva Illouz (2019) *Paidós*
+# Happycracia
+
+Edgar Cabanas, Eva Illouz 2019, [zotero](zotero://select/items/@illouz&cabanas2019)
 
 ¿Crees que la felicidad es la meta más importante en tu vida? ¿Crees que el fin último de la política, la economía, aquello que valida su eficacia, es facilitar la felicidad en los consumidores y ciudadanos? Tal vez sí. Pero ¿qué significa exactamente, ser feliz? ¿Cómo es posible comparar tu felicidad con la mía, sobre todo pensando en que, lo que dos personas creen que necesitan para alcanzar la felicidad jamás será lo mismo?
 

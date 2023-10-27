@@ -1,17 +1,19 @@
-Las redes neuronales son funciones matemáticas estructuradas cuyo objetivo es *aprender* (desde la perspectiva del [[aprendizaje profundo]]) a partir de procesar datos de entrada y generar un resultado deseable de salida que esté alineado con los propósitos
-La relación entre neuronas se da gracias a una función de activación.
+Las redes neuronales son funciones matemáticas estructuradas cuyo objetivo es *aprender* (desde la perspectiva del [[aprendizaje profundo]]) a partir de procesar datos de entrada y generar un resultado deseable de salida que esté alineado con los propósitos de su entrenamiento.
+
+La relación entre neuronas se da gracias a una **función de activación**.
 
 Una neurona es una función que calcula una **suma ponderada de las entradas** seguida de la aplicación de una función no lineal. <!--SR:!2023-10-20,3,250-->
 
-![Red neuronal](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Colored_neural_network_es.svg/1280px-Colored_neural_network_es.svg)
+![Red neuronal](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Colored_neural_network_es.svg/1280px-Colored_neural_network_es.svg.png)
 
 Técnicas:
 
 - [[retropropagación en redes neuronales]]
 
-#memo 
+#memo
 Tres tipos de redes neuronales son:
 ?
 - Redes neuronales convulsionales
 - Redes neuronales recurrentes
 - [[transformadores (redes neuronales)]]
+<!--SR:!2023-10-25,1,210-->

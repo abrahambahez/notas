@@ -1,14 +1,6 @@
 # Y sin embargo se vive. De la infravivienda a la vivienda urbana en Mérida, Yucatán, México
 Carmen García,Angélica Álvarez
 
-undefined
-
-
-* Mdnotes File Name: [[garciayalvarez2003]]
-
-Copia
-
-Copia
 
 **...y sin embargo se vive. De la infravivienda a la vivienda urbana en Mérida Yucatán México** **(Resumen)**
 

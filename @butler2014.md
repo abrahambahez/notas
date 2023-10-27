@@ -3,9 +3,9 @@ Judith Butler (2014)
 
 > la libertad de reunión bien puede ser una pre- condición de la política misma. [49]
 
-Para Butler todo Estado democrático está siempre excedida por una  la [[soberanía]] popular que no puede contener del todo. Esta soberanía es una amenaza potencial, una «energía anarquista o principio de revolución permanente, pero este principio depende *«de un conjunto de cuerpos aglutinados y aglutinantes, cuyas acciones los cons­tituyen efectivamente como “el pueblo”»* [50]
+Para Butler todo Estado democrático está siempre excedida por una  la [[soberanía]] popular que no puede contener del todo. Esta soberanía es una amenaza potencial, una «energía anarquista o principio de revolución permanente, pero este principio depende *«de un conjunto de cuerpos aglutinados y aglutinantes, cuyas acciones los cons­tituyen efectivamente como “el [[pueblo]]”»* [50]
 
-El pueblo no puede abarcar la totalidad de las personas que presume representar, pero el «nostros» del pueblo hace más que representar, pues *se auto-constituye*, se auto-crea [50]. Lo hace como un acto del habla auto-designante y auto-constituyente: al momento de ser enunciado se produce como pluralidad social (como sujeto plural), pero no se auto-describe.
+El pueblo no puede abarcar la totalidad de las personas que presume representar, pero el «nostros» del [[pueblo]] hace más que representar, pues *se auto-constituye*, se auto-crea [50]. Lo hace como un acto del habla auto-designante y auto-constituyente: al momento de ser enunciado se produce como pluralidad social (como sujeto plural), pero no se auto-describe.
 
 «Nosotros, el pueblo» es una frase que autoriza políticamente y es el acto de habla de la soberanía popular (aunque no es exclusivo de ellos, pues el Estado también lo usa), y esta enunciación comienza desde la reunión de cuerpos, que son capaces de resistencia a la vez que necesitados de protección [65], y también de una infraestructura de [[movilidad]] segura que es derecho, precondición y ejercicio de la protesta. Por tanto, la reunión de cuerpos antecede a la vocalización de la frase [59].
 

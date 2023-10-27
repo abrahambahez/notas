@@ -15,7 +15,7 @@ Política exterior muy selectiva de recepción/rechazo de ciertas personas [@yan
 
 ## indigenismo mexicano
 
-La obra *Forjando Patria* de Manuel Gamio es un texto fundacional de la *[[mestizofilia]]* que inaugura el proyecto indigenista. El indigenismo como la visión no indígena sobre lo indígena [Villoro, 1950](https://introconquista.files.wordpress.com/2019/09/villoro-los-grandes-momentos-del-indigenismo.pdf) y como proceso de asimilación de los pueblos indígenas por parte del Estado tuvo en Aguirre Beltrán en uno de sus más importantes exponentes. El concepto de raza desaparece del discurso oficial.
+La obra *Forjando Patria* de Manuel Gamio es un texto fundacional de la *[[mestizofilia]]* que inaugura el proyecto indigenista. El indigenismo como la visión no indígena sobre lo indígena [Villoro, 1950](https://introconquista.files.wordpress.com/2019/09/villoro-los-grandes-momentos-del-indigenismo.pdf) y como proceso de [[asimilación]] de los pueblos indígenas por parte del Estado tuvo en Aguirre Beltrán en uno de sus más importantes exponentes. El concepto de raza desaparece del discurso oficial.
 
 Para @lomnitz2014 la crítica del indigenismo por parte de generaciones de antropólogos de los 70 (como la de Stavenhagen ─siete tesis equivocadas sobre América latina─) no rompió la dependencia de la antropología mexicana con el pasado cercano al poder y disminuyó su importancia en la toma de decisiones.
 

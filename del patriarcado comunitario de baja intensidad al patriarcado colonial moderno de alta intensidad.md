@@ -15,7 +15,7 @@ La crítica de Segato sobre la [[colonialidad]] inherente al discurso universali
 
 >El caso límite del infanticidio indígena nos enseña que, en un ambiente dominado por la episteme de la colonialidad y hegemonizado por el discurso de los derechos universales, no resta posibilidad de defender la autonomía en términos de cultura, es decir, en términos relativistas del derecho a la diferencia. Es, definitivamente, imposible presentar una estrategia de defensa de la devolución de las autonomías a sociedades intervenidas y mantenidas en condiciones casi concentracionarias durante quinientos años si éstas contradicen con sus prácticas y normativas el frente de los derechos humanos universales y el frente de los derechos estatales en un campo tan sensible como los derechos de la infancia, que por esto mismo son siempre elegidos para afirmar la superioridad moral y el derecho a la misión civilizadora del colonizador (p. 74)
 
-¿Qué es un [[pueblo]]? un pueblo es el proyecto de ser una historia. La autonomía, desde el pluralismo histórico (¿un multiculturalismo con el factor tiempo en él?) consiste en en el poder de un pueblo para tramar su historia y desarrollar su propio proyecto histórico [@segato2015, 76].
+¿Qué es un [[pueblo]]? un pueblo es el proyecto de ser una historia. La autonomía, desde el pluralismo histórico (¿un multiculturalismo con el factor tiempo en él?) consiste en en el poder de un pueblo para tramar su historia y desarrollar su propio proyecto histórico [@segato2015, 76]. ^51da1c
 
 El papel del Estado consistiría en garantizar y restituir las jurisdicciones propias y la deliberación interna. 
 

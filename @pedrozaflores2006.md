@@ -75,7 +75,7 @@ Respecto a los planes de estudio, hay varios modelos donde se proponen planes (p
 
 * **de distribución.** estimular la participación en tros departamentos (créditos optativos)
 * **de educación general** Visión y formación de conjunto, social, cultural y científico
-* **de exploración global.** Cursos exploratorios articulados en una problemática (este podría ser un método de \[\[elaboración escrita de ideas\]\], junto al próximo de síntesis)
+* **de exploración global.** Cursos exploratorios articulados en una problemática (este podría ser un método de [[elaboración escrita]], junto al próximo de síntesis)
 * **por problemas capitales.** Estudiar las corrientes históricas y plantear problemas más relevantes en la historia humana
 * **desarrollo longitudinal de hábitos intelectuales.** dominar asignaturas desde los peldaños inferiores hasta los de suma dificultad
 * **por estudio de caso.** Ofrecer toda la información necesaria sobre un tema o un individuo

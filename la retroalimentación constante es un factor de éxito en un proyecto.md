@@ -1,1 +1,3 @@
-De acuerdo con @ahrens2017 [p. 48]
+Para gran parte de la teoría de la [[gestión de proyectos]].
+
+También aplica para el [[trabajo cognitivo]] [@ahrens2017, 48]

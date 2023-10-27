@@ -1,7 +1,5 @@
 ---
-sources:
-    - https://memory.ai/timely-blog/time-scarcity
-    - http://web.mit.edu/fnl/vol/154/williams.htm
+sources: https://memory.ai/timely-blog/time-scarcity,http://web.mit.edu/fnl/vol/154/williams.htm
 ---
 La escasez de tiempo es un ==derivado conceptual== del término económico de [[escasez]] pero aplicado al *[[tiempo como recurso]]*. El tiempo es limitado (de hecho, fijo), pero necesario para satisfacer una creciente lista de necesidades, cosas que hacer, proyectos que cumplir, cuidado que dar, etcétera. Por tanto, la escasez de tiempo se produce socioculturalmente a partir de un eje de *percepción* de necesidad o deseo, teóricamente ilimitado; respecto del recurso percibido como constante, el tiempo.
 

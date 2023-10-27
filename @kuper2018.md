@@ -21,7 +21,7 @@ Segun Henry **Morgan** creó una línea teórica donde la evolución de las soci
 
 ### Geografía, *folklore* y difusionismo: La escuela Alemana
 
-La noción de Johann G. von **Herder** de *Kultur* se refiería a un sistema de valores e ideas que se expresa en el lenguaje, los relatos populares, la música y las artes; de modo que cada pueblo tiene un espíritu particular (p. 6).
+La noción de Johann G. von **Herder** de *Kultur* se refiería a un sistema de valores e ideas que se expresa en el lenguaje, los relatos populares, la música y las artes; de modo que cada [[pueblo]] tiene un espíritu particular (p. 6).
 
 Para la antropología alemana, hay una fuerte influencia de la **geografía**, que llega a sugerir un determinismo geográfico de la cultura y las características raciales de los pueblos (p. 7).
 

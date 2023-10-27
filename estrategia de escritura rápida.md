@@ -1,4 +1,4 @@
-Están influenciadas por el [[patrón de divergencia - convergencia]].
+Está influenciada por el [[patrón de divergencia - convergencia]].
 
 Si debo entregar un texto pronto sobre un tema del cual no tengo suficientes notas, hago lo siguiente.
 

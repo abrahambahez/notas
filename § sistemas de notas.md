@@ -38,7 +38,7 @@ Relacionado:
 
 - Escritura de notas
 - [[vínculos entre notas]]
-- [[técnicas de escritura rápida]]
+- [[estrategia de escritura rápida]]
 
 # Referencias, reflexiones
 

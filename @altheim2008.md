@@ -1,5 +1,5 @@
 # Informal ontology design: A wiki-based assertion framework
-Murray Altheim
+Murray Altheim, [zotero](zotero://select/items/@altheim2008)
 
 ## Resumen
 

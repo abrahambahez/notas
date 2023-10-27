@@ -324,7 +324,7 @@ Nancy Marguerite Farriss
 
 #### Un mundo colonial dividido (pp. 143-190)
 
-- Un repunte demográfico siguió hacia el siglo XVIII consolidó la supervivencia del pueblo maya
+- Un repunte demográfico siguió hacia el siglo XVIII consolidó la supervivencia del [[pueblo maya]]
 
 - Consecuentemente, el desequilibrio demográfico de pocos españoles ante muchos indígenas es un punto de partida para entender el desarrollo económico de la región
 
@@ -480,7 +480,7 @@ Nancy Marguerite Farriss
 
 - Los franciscanos como muchos misioneros de la Nueva España lucharon por siglos para mantener a los indígenas asentados en esas disposiciones en lugar de las suyas
 
-- En 1582 el primer censo posterior a las congregaciones computó 26 parroquias que contenían 177 comunidades. Todos los procesos de asimilación al programa español influyeron en la mayor o menor pérdida de autonomía administrativa de los pueblos unificados
+- En 1582 el primer censo posterior a las congregaciones computó 26 parroquias que contenían 177 comunidades. Todos los procesos de [[asimilación]] al programa español influyeron en la mayor o menor pérdida de autonomía administrativa de los pueblos unificados
 
 - Un orden social simplificado (pp. 263-271)
 

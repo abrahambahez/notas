@@ -16,7 +16,7 @@ Las ventajas del texto plano, aún en su versión *non-linkable* están en su li
 ## Análisis cualitativo del grafo del zettelkasten
 El análisis cualitativo del grafo de zettelkasten se enfoca en **identificar estructuras heterárquicas** de una [[comunidad de nodos]], con lo cual visibiliza la [[ontología informal]] del grafo
 
-En el [[zettelkasten de Luhman]] original, la limitación física de la nota exigía que existiera en una ubicación específica cada vez, con lo cual un sistema analógico representa físicamente una [[jerarquía]] específica. En los sistemas digitales, la transclusión elimina virtualmente esa limitación.
+En el [[zettelkasten de Luhman]] original, la limitación física de la nota exigía que existiera en una ubicación específica cada vez, con lo cual un sistema analógico representa físicamente una [[jerarquía]] específica. En los sistemas digitales, la [[transclusión]] elimina virtualmente esa limitación.
 
 ## 2021-09-26
 Relaciones de los enlaces entre las notas

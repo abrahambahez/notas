@@ -153,7 +153,7 @@ Con base en estos modelos se realiza el análisis de la narración bíblica de l
 
 A través del análisis de la secuencia ritual, los elementos, su disposición espacial y su rol temporal durante cada momento, se da cuenta de la transformación simbólica del rito del sujeto principal Aarón como multi-actante (es a la vez sacerdote y sujeto de transformación divina, e incluso de sacrificio) pero que siguen respetando la secuencia establecida por el modelo de los ritos de paso. Esto aplica, con sus respectivas diferencias, para cada versión del mito.
 
-Así, el sentido va transitando, o mejor dicho, transmutando a lo largo del ritual (objetivo principal a nivel simbólico) hasta que, consumado el rito, el sujeto ritual, Aarón, a alcanzado una categoría sacerdotal que le permite establecer un vínculo de intermediario entre Dios y su pueblo.
+Así, el sentido va transitando, o mejor dicho, transmutando a lo largo del ritual (objetivo principal a nivel simbólico) hasta que, consumado el rito, el sujeto ritual, Aarón, a alcanzado una categoría sacerdotal que le permite establecer un vínculo de intermediario entre Dios y su [[pueblo]].
 
 El análisis metafórico además da cuenta de la similitud formal que tiene con los ritos cristianos de la misa, la figura del Cristo - cordero y por supuesto, el proceso ritual del sacrificio del propio cristo como condición para cumplir plenamente su narrativa sagrada.
 

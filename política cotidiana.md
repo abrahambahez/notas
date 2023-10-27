@@ -1,2 +1,1 @@
 La antropóloga Mariana Mora llama «política *kuxlejal*» o política cotidiana en la experiencia de las comunidades zapatistas relacionadas con términos como [[mandar obedeciendo]] y de [[autonomía]] basada en la participación directa en el diseño y toma de decisiones.
-

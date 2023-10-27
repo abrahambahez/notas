@@ -1,6 +1,6 @@
 El principio de caridad es una [[posición interpretativa]] que promueve entender el discurso del otro de la forma *más racional posible*, y tomar la mejor interpretación posible de sus argumentos.
 
->*Maximizar la 'verdad' o la 'razón' en los dichos del otro*.
+>Maximizar la 'verdad' o la 'razón' en los dichos del otro.
 
 Existen diversas elaboraciones del principio, de las cuales destacan las hechas por
 

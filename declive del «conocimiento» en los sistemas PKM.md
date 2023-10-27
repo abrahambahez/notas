@@ -1,4 +1,4 @@
-El análisis de algunos enunciados en notas permanentes de jardines digitales públicos podría mostrar que el sistema por sí mismo no promueve el conocimiento, es decir, es decir, no sirve para la [[gestión de conocimiento]].
+El análisis de algunos enunciados en notas permanentes de jardines digitales públicos podría mostrar que el sistema por sí mismo no promueve el conocimiento, es decir, es decir, no sirve para la [[gestión del conocimiento]].
 
 Hay varios riesgos que no dependen del método ni de la forma: la ingenuidad, la [[posfactualidad]] y [[sesgo de confirmación]] (*echo chamber*, *filter bubbles*)
 

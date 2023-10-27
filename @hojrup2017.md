@@ -1,14 +1,8 @@
 # State, Culture and Life-Modes: The Foundations of Life-Mode Analysis.
 Thomas Højrup
 
-undefined
 
-
-* Mdnotes File Name: [[hojrup2017]]
-
-\## Lecturas posteriores
-
-\## Lecturas posteriores
+## Lecturas posteriores
 
 - [La cultura de los "trabajadores" autónomos](https://recyt.fecyt.es/index.php/sociologiatrabajo/article/view/59503)
 

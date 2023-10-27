@@ -1,7 +1,7 @@
 Algunas características de un [[sistema]] (en abstracto) son:
 
 - Autorregulación: operan ante variaciones de las condiciones del ambiente, corresponden a las compensaciones internas al sistema que sustituyen, bloquean o complementan estos cambios con el objeto de mantener invariante la estructura sistémica, es decir, hacia la conservación de su forma.
-- Autonomía de los subsistemas. Los elementos que componen al sistema son sistemas independientes entre sí y capaces de generar [[propiedades emergentes]] (resultados de las interacciones entre elementos que generan propiedades nuevas que no pueden explicarse a partir de las propiedades de los elementos aislados)
+- Autonomía de los subsistemas. Los elementos que componen al sistema son sistemas independientes entre sí y capaces de generar [[comportamientos emergentes]] (resultados de las interacciones entre elementos que generan propiedades nuevas que no pueden explicarse a partir de las propiedades de los elementos aislados)
 - Neguentropía: sistemas que, al menos temporalmente, revierten esta tendencia (a la desorganización, llamada entropía) al aumentar sus estados de organización (organización, información).
 - Equifinalidad: "Puede alcanzarse el mismo estado final, la misma meta, partiendo de diferentes condiciones iniciales y siguiendo distintos itinerarios en los procesos organísmicos" (von Bertalanffy)
 - [[retroalimentación]]: Son los procesos mediante los cuales un sistema abierto recoge información sobre los efectos de sus decisiones internas en el medio, información que actúa sobre las decisiones (acciones) sucesivas.

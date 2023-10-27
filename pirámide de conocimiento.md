@@ -7,5 +7,5 @@ Donde:
 	- Como hecho
 	- Como señal
 - *Information*: Un conjunto de datos estructurados u ordenados (clasificados o con atributos como metadatos). Normalmente los procesos de información reducen la masa de datos según el interés particular que se tenga 
-- *Knowledge*: Relaciones entre diferentes tipos de información que crean una estructura coherente. También es *know-how*, procedimientos, instrucciones, control de 
+- *Knowledge*: Relaciones entre diferentes tipos de información que crean una estructura coherente. También es *know-how*, procedimientos, instrucciones, control de procesos
 - *Wisdom*: No queda muy bien desarrollado

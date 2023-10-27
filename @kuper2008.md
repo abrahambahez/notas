@@ -29,7 +29,7 @@ _alta cultura vs cultura popular
 
 "En la tradición francesa, se representa la civilización como un logro distintivamente humano, progresivo y acumulativo." ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
 
-"Seguro que la auténtica Kultur del pueblo alemán sería preferible a la artificial Civilization de una élite francófona, cosmopolita y materialista" ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
+"Seguro que la auténtica Kultur del [[pueblo]] alemán sería preferible a la artificial Civilization de una élite francófona, cosmopolita y materialista" ([Kuper 2008:12](zotero://open-pdf/library/items/V6DGJT7S?page=12))
 
 "Y, sin embargo, aunque se expresen según nuevos códigos, los discursos sobre la cultura no son inventados li-s que han persistido durante generaciones, expandiéndose desde Eu– hechizan a los escritores contemporáneos. Las nuevas formulacio-" ([Kuper 2008:14](zotero://open-pdf/library/items/V6DGJT7S?page=14))
 

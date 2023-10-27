@@ -4,8 +4,8 @@ Para lograrlo son entrenados usando métodos de [[aprendizaje profundo]], así c
 
 #memo 
 ¿qué es un modelo de AI generativa? :: son modelos capaces de generar información a partir de prompts
-<!--SR:!2023-10-19,3,250-->
+<!--SR:!2023-10-28,9,250-->
 
 ¿qué técnicas o métodos se usan para entrenar un modelo de IA generativa? :: aprendizaje profundo
-<!--SR:!2023-10-19,3,250-->
+<!--SR:!2023-10-25,1,210-->
 

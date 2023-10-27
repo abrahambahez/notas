@@ -9,5 +9,3 @@ Es un acrónimo que representa un conjunto de verbos que pueden usarse para gene
 - **R**everse, **R**earrange
 
 Funciona como un método de [[pensamiento de diseño]] diseñado por [Alex Faickney Osborn](https://en.wikipedia.org/wiki/Alex_Faickney_Osborn)
-
-[[creatividad]]

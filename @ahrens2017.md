@@ -21,5 +21,5 @@ Cap. 7 - Nobody Ever Starts From Scratch: plantea la idea del proceso iterativo 
 
 Es erróneo *decidir sobre qué vas a escribir antes de escribir cualquier cosa*, porque el conocimiento es un proceso dialógico de expresión-interpretación tanto colectiva / intersubjetiva como en relación con el entorno.
 
-Cap. 8 - Let the Work Carry You Forward: Si el trabajo es gratificante, la motivación permite que el proceso sea auto-sostenible. El proceso iterativo vuelve la calidad de la escritura cada vez mejor.
+Cap. 8 - Let the Work Carry You Forward: Si el trabajo es gratificante, la motivación permite que el proceso sea auto-sostenible. El [[proceso iterativo]] vuelve la calidad de la escritura cada vez mejor.
 

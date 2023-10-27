@@ -1,3 +1,13 @@
+La elaboración de ideas consiste en escribir (en lenguaje natural) con la mayor claridad, brevedad y sencillez posible una idea concreta. Para @ahrens2017 [89], elaborar es esforzarse por entender.
+
+Este proceso es una parte fundamental del [[trabajo cognitivo]] puesto que éste se basa en el desarrollo incremental de ideas más complejas e interrelacionadas, y por lo tanto requiere prácticas de [[pensamiento extendido]] que hagan más fácil y útil el manejo de esa complejidad.
+
+La complejidad radica en que, por una parte, [[las ideas no son unívocamente discretas sino continuas]]. Las ideas, para ser unidades, son *construidas* (en el sentido *constructivista*) por los sujetos. Además, hay una [[tensión cualitativa-cuantitativa al escribir y relacionar notas]].
+
+Por otra parte, [[el conocimiento se (re)produce socialmente]] y la lectura es la práctica principal de recepción a nivel del sujeto. Por eso, la elabración de ideas no surge de la nada.
+
+En sistemas de notas interconectadas, esa redacción se hace en una nota especial, generalmente llamada nota permanente, pero hay que recordar que [[cómo la escritura es pensamiento y aprendizaje]]; las notas son contenedores y su importancia inherente radica en que [[el diseño de los sistemas y soportes de información influye directamente en el tipo de conocimiento producido a partir de ellos]].
+
 Justificación
 
 Para @luhmann2021, aprender nombres: *«Obviously most knowledge can also be ordered by names»* (párr. 9) tanto de autores como de teorías, el problema es que los nombres no abordan son las conexiones conceptuales o la naturaleza de los problemas que esos textos intentan resolver

@@ -10,4 +10,4 @@ La memoria a largo plazo puede dividirse en **explícita-declarativa o implícit
 <!--SR:!2023-10-17,1,190-->
 
 Menciona dos ejemplos de memoria explícita o declarativa :: memoria episódica y memoria semántica
-<!--SR:!2023-10-17,1,188-->
+<!--SR:!2023-10-28,4,188-->

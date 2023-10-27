@@ -14,7 +14,7 @@ El empobrecimiento implica el sacrificio de las otras historicidades de los much
 No todo es historia en sentido occidental de progresión o linealidad, y reconocer los múltiples ritmos no es suficiente, *«pues la violencia de la ontología y del logos se prolonga y concretiza hoy en la violencia histórica de una historicidad particular que ha sido universalizada, entre otras estrategias, por programas de desarrollo y modelos de vida occidentales que sobredeterminan e hipotecan con una carga absurda las temporalizaciones alternativas, tanto a nivel del tiempo social de las culturas como a nivel personal.»* p. 102
 
 ### La filosofía intercultural o un ensayo filosófico (teórico-práctico) para el “engrandecimiento” del mundo
-Lo teórico y lo práctico no sse presentan como separados sino como momentos de un discurso filosófico donde actúan como correlatos (p. 105).
+Lo teórico y lo práctico no se presentan como separados sino como momentos de un discurso filosófico donde actúan como correlatos (p. 105).
 
 Los universales no se niegan. La filosofía intercultural busca *«promover un cambio de perspectiva que quiere ayudar a ver precisamente que la diversidad contextual y/o la pluralidad cultural no contradice la búsqueda de universalidad porque es más bien el presupuesto que se necesita para una comunicación sobre posibles universales compartidos en y desde las diferencias.»* (p. 107)
 

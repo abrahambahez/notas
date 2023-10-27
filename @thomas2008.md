@@ -13,7 +13,7 @@ El argumento puede tener un [[sesgo de libre mercado]] (puede deberse a la natur
 
 - Se modela el desarrollo de sistemas tecnológicos en un ecosistema de *competencia*
 
-Otra debilidad teórica podría ser que se recarga demasiado en la *tecnología como hardware* y el capitalismo industrial avanzado, pero en una era de [[capitalismo cognitivo]], es más difícil notar la diferencia entre una computadora personal del año 2000 conectada al primer internet y una tablet actual con internet y un programa de inteligencia artificial, o dispositivos de *domótica*.
+Otra debilidad teórica podría ser que se recarga demasiado en la *tecnología como hardware* y el capitalismo industrial avanzado, pero en una era de [[capitalismo cognitivo]], es más difícil notar la diferencia entre una computadora personal del año 2000 conectada al primer internet y una tablet actual con internet y un programa de [[inteligencia artificial]], o dispositivos de *domótica*.
 
 Oclc: 931440650
 
