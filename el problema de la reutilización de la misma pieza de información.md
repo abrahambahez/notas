@@ -24,6 +24,6 @@ Trilium lo resuelve a través de lo que llama [«clones»](https://github.com/za
 Obsidian ha implementado también un sistema de [[transclusión]], pero su visualización no es tan buena
 
 ## ¿Para qué queremos transcluir una pieza de información? 
-Considera a los [[niveles de indirección versus transclusión como dinámicas opuestas del zettelkasten]], en lugar de transcluir, se podrían simplemente *crear nuevas estructuras argumentales* a partir de la indirección que ofrecen las referencias. 
+En lugar de transcluir, se podrían simplemente *crear nuevas estructuras argumentales* a partir de la indirección que ofrecen las referencias. 
 
 La transclusión permite esbozar una pieza más cercana a la linealidad de un producto final porque es posible controlar el orden del texto. La referencia exige una reelaboración de esa linealidad a partir de las diferentes ramas que ofrecen las referencias; pero el precio a pagar por eso es la unidireccionalidad del proceso. El texto final diverge libremente y será más costoso volver a las notas que lo orginaron porque se les parecerá cada vez menos.

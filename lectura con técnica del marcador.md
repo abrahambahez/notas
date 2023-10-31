@@ -9,5 +9,5 @@ Una técnica expuesta por [Tim Ferris 2009](https://tim.blog/2009/07/30/speed-re
     - Ejercicio 2(3 minutos) pasar la guía subrayando el texto, **no quedarse más de medio segundo por línea**
 - Optimización de las fijaciones visuales
     - Ejercicio 1 (1 minuto) moviendo el apuntador de forma salteada en el centro de cada palabra, **palabra por palabra*
-    - Ejercicio 2 (1 minuto) moviendo el apuntador de forma salteada entre palabras **cada dos palabras**
-    - Ejercicio 3 (3 minutos) moviendo el apuntador de forma salteada **cada tres palabras**
+    - Ejercicio 2 (1 minuto) moviendo el apuntador de forma salteada entre palabras **cada dos palabras** comenzando por el segundo par y terminando antes del último
+    - Ejercicio 3 (3 minutos) moviendo el apuntador de forma salteada **cada tres palabras** comenzando por el primer tercio y terminando antes del último

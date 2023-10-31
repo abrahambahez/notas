@@ -9,3 +9,4 @@
 - [[patrón de retroalimentación corta-larga]]
 - [[patrón de divergencia - convergencia]]
 - [[estrategias de gestión ágil]]
+- [[ideaflow]]

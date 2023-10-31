@@ -1,8 +1,8 @@
 La lectura rápida consiste en leer con la máxima velocidad posible sin perder comprensión. Para lograrlo hay algunas recomendaciones:
 
 - Eliminar la regresión y el *saltar hacia atrás* a lo largo del texto
-- Evitar la subvocalización
-- El  control de las fijaciones visuales, que son las detenciones que hacen los ojos en diversos puntos del texto.
+- Evitar la subvocalización que es el hábito de seguir el texto con los labios
+- El control de las fijaciones visuales, que son las detenciones que hacen los ojos en diversos puntos del texto.
 
 Para lo cual se proponen algunas técnicas:
 

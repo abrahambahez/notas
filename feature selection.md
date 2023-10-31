@@ -1,4 +1,4 @@
-Modelo de análisis para el [[procesamiento de lenguaje natural]] cuyo objetivo es encontrar características (*features*) a las que pueda atribuirse peso en determinado resultado de datos.
+modelo de análisis para el [[procesamiento de lenguaje natural]] cuyo objetivo es encontrar características (*features*) a las que pueda atribuirse peso en determinado resultado de datos.
 
 Para eso se usan técnicas estadísticas como:
 

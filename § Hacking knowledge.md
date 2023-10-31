@@ -43,20 +43,8 @@ Programa de trabajo para optimizar la gestión de conocimiento individual y cole
 La sesión de presentación no está contada porque fue la menos práctica
 
 #### Hackear la lectura, pt. 1
-- Tema: [[literacidad]]
-    - Warmup
-    - Ejercicio
-    - Discusión
--  [[lenguaje en sentido amplio]]
-    - Warmup
-    - Ejercicio
-    - Discusión
-- [[lectura inspeccional]]
-    - Warmup
-    - Ejercicios
-        - [[darwin_test_lectura]]
-    - Discusión
-- notas de lectura: [[notas de referencia y literatura en Luhmann]]
+[[m1s1]]
+]]
 
 #### Hackear la creación de notas, pt. 1
 - [[elaboración escrita]]

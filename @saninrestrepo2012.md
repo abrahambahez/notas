@@ -42,4 +42,3 @@ Multiculturalismo y pluralismo como reingeniería del liberalismo [32]: nuevas f
 El fundamento de la democracia es el disenso y no el consenso [37]
 
 >Es en este sentido que si agregamos los elementos constitutivos del pueblo como excepcionalidad y potencia, a la naturaleza de su definición clásica, solo podemos concluir que el verdadero pueblo de la democracia es el que permanece oculto por pseudo- soberanos como el Estado y el derecho y no la totalidad de una comunidad política que hemos comprobado es imposible, si esto es cierto debemos concluir, en el mismo gesto, que solamente el pueblo oculto puede ser el poder constituyente, pues otra manifestación de poder constituyente es una simple reiteración de la violencia que preserva el derecho que por simple lógica es la negación de la violencia que crea el derecho. [37]
-

@@ -19,4 +19,4 @@ Los enlaces expresan relaciones explícitas entre ideas. algunos tipos de enlace
     - [[folgezettel]] es una [[heterarquía]]
     - Carpetas o cuadernos son jerarquía excluyente
 - Índices o clusters de vínculos
-- Cadenas de referencias
+- Cadenas de referencias: la nota A enlaza a B, B a C y A, C a D, etcétera, en tato cada una 

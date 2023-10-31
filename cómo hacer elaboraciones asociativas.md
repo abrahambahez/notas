@@ -13,6 +13,6 @@ Después añade:
 
 Las elaboraciones asociativas implican una profundidad de conocimiento (cfr. [Depth of Knowledge](https://www.aps.edu/sapr/documents/resources/Webbs_DOK_Guide.pdf)) alta, pues además del manejo de la complejidad, se requiere trabajo constante de síntesis, [[reflexividad]], y estrategias cognitivas como:
 
--  abstracción general de las ideas base (teorización)
--  descripción de patrones donde las ideas base son instancias o ejemplos
--  categorías surgidas del [[análisis clasificatorio]]
+-  Abstracción general de las ideas base (teorización)
+-  Descripción de patrones donde las ideas base son instancias o ejemplos
+-  Categorías surgidas del [[análisis clasificatorio]]
