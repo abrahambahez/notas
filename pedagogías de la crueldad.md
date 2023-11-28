@@ -1,4 +1,4 @@
-Con este término Rita @segato2019 hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el patriarcado (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.
+Con este término Rita @segato2019 hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el [[patriarcado]] (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.
 
 A partir de este concepto la autora elabora la noción de [[estructuras elementales de la violencia]].
 

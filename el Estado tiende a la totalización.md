@@ -9,5 +9,5 @@ Para @segato2016, los proyectos utópicos tienen en sí el germen del autoritari
 La tesis cuatro de @saninrestrepo2012 [27-28] es consistente con esta idea cuando define que el Estado-nación es la invención del régimen jurídico moderno a partir de cuatro falacias: (1) Identidad nacional, (2) el europeo-occidental como modelo universal y excluyente de cultura, (3) la nación como esencia o motor de la historia, (4) reducción de la multiplicidad a la fuerza del UNO, que vuelve a la nación en vehículo del colonialismo
 
 #memo 
-¿Qué implica para esta tendencia el [[principio de incompletitud del poder]]? :: La totalización que no puede justificarse a sí misma sino con la violencia...
-<!--SR:!2023-10-27,3,250-->
+La totalización del estado y [[principio de incompletitud del poder]] implican (justificación) que :: La totalización no puede justificarse a sí misma sino con la violencia...
+<!--SR:!2023-11-26,10,210-->

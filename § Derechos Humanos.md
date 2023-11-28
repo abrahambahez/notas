@@ -1,0 +1,3 @@
+- [[normativa de la ONU en Derechos Humanos]]
+- [[normativa internacional sobre racismo, xenofobia y discriminación]]
+- [[normativa mexicana sobre discriminación racial]]

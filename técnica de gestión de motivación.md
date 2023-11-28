@@ -1,1 +1,0 @@
-Son [[técnica de gestión]] que ven a la motivación como recurso y la administran como tal

@@ -7,4 +7,4 @@
 - [[estrategias de gestión ágil]]
 - [[pensamiento de diseño]]
 - [[métodos de innovación]]
-- [[heurística como modo de solución de problemas]]
+- [[heurística en la solución de problemas]]

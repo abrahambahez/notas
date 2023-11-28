@@ -1,5 +1,3 @@
-El filtro de indirección nos impide ver cómo es que un objeto o una práctica han llegado a ser lo que son, pues sólo nos muestra el resultado y no el proceso.
-
 Basado en la lógica de los [[capa de abstracción|niveles de indirección]], quienes conocen el término suelen detectar sus patrones en diversos procesos o comportamientos sociales.
 
 Ejemplos:

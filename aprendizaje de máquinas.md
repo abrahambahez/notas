@@ -24,5 +24,5 @@ En este contexto, un modelo es una representación de la realidad constituida po
 
 Existen modelos como:
 
-- Regresión lineal
+- [[regresión lineal]]
 - [[red neuronal artificial]]

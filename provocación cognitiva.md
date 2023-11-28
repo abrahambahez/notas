@@ -5,12 +5,12 @@ Teóricamente pueden ser cualquier cosa que *produzca una respuesta cognitiva* e
 ¿Cómo pueden entenderse teóricamente?
 
 - Como [[disponibilidad (affordance)]]
-- Como «[[herramientas para pensar]]» (*tools for though*)
+- Como «[[herramienta cognitiva]]» (*tools for though*)
 
 #memo 
 
-¿Cómo se diseñan? :: interés, atención
-<!--SR:!2023-10-25,1,230-->
+¿Cuáles serían tres características cognitivas de una buena provocación? :: interés, atención, elaboración
+<!--SR:!2023-11-28,6,150-->
 
-¿Cómo se implementan? :: lista manual filtrada aleatoreamente, [generación procedural](https://en.wikipedia.org/wiki/Procedural_generation), [[LLM]]
-<!--SR:!2023-10-25,1,230-->
+¿ Cuatro métodos para implementar provocaciones cognitivas son (de simple a complejo)? :: lista manual filtrada aleatoreamente, [generación procedural](https://en.wikipedia.org/wiki/Procedural_generation), repetición espaciada, Modelos generativos de lenguaje
+<!--SR:!2023-12-07,14,210-->

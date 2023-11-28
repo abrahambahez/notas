@@ -15,4 +15,8 @@ Referencias y herramientas:
 - Un estudio de Marc Brysbaert: [How many words do we read per minute? A review and meta-analysis of reading rate](https://osf.io/preprints/psyarxiv/xynwg/)
 - A manera de calentamiento o ayuda:
     - [spreeder, web](https://www.spreeder.com/app.php)
-    - [Outread, app o web](https://outreadapp.com/reading-speed-test
+    - [Outread, app o web](https://outreadapp.com/reading-speed-test)
+- En español
+    - [lecturarapidaycomprension](https://lecturarapidaycomprension.com/)
+    - http://www.pipoclub.com/velocidad-de-lectura/
+    - https://lectum.com.mx/test-lectura/#/start

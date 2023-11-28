@@ -1,0 +1,9 @@
+- 2023-02-07 Cal Newport  [Could This Meeting Have Been An Email?](https://open.spotify.com/episode/2s26FYquPLecLlqm0iz15v?si=6d0e3b40e26748ca)
+    - Tips para sustituir con comunicación escrita la organización que se tiene con juntas
+- 2023-09-06 Cal Newport *Hack*
+    - Efecto pizarrón blanco:
+        - discutir con gente diversa
+        - Lugar de trabajo para escritura creativa
+        - cada semana ir a un lugar destacado para pensar, un café, un bar etc
+        - Organizar un evento para pensar colectivamente cada “temporada”
+- 2023 https://zenstudiespodcast.com/natural-koans-dharma-gates/ [[kōan]]

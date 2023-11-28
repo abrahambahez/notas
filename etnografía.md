@@ -13,4 +13,10 @@ De acuerdo con @biskupovic&brinckpinsent2018 [p. 9], «para responder esas pregu
 
 Para @vanmaanen2011 [1], «una etnografía es una representación escrita de una cultura (o aspectos selectos de una cultura)» y en cuanto tal «escribir una etnografía es un trabajo de oficina de Escritorio, no trabajo de campo» [@vanmaanen2011, 4]
 
+De acuerdo con @alvessonskoldberg2009, una de las formas más comunes de entender la etnografía es como práctica de descripción de grupos culturales en trabajo de campo, durante largas estancias del observador. Este concepto implica ciertas condiciones, consideradas requerimientos a nivel metodológico, por ejemplo, el "haber estado ahí", dentro de la situación o contexto de la cultura que se observa, otro factor en constante consideración es el tiempo de observación o la amplitud del grupo cultural, así como las dimensiones a observar.
+
+A diferencia de la [[teoría fundamentada]], la exhaustiva sistematización del material empírico no es siempre considerada una condición más importante que el carácter *hermenéutico* o interpretativo de la observación. Las variaciones interpretativas o el rigor analítico que puedan considerarse "necesarios" en determinado contexto de aplicación etnográfica no la eximen de ser una aproximación orientada empíricamente.
+
+---
+
 ver: https://cepalforja.org/sistem/bvirtual/wp-content/uploads/2017/05/LIBRO-Sistematizacin-Etnografica-Lewis-Pereira.pdf

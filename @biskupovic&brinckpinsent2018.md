@@ -17,7 +17,7 @@ Consuelo Biskupovic,Guillermo Brinck Pinsent
 
 - Generar más preguntas
 
-- La doble hermenéutica [@biskupovic&brinckpinsent2018, p. 27] posibilita el [[reconocimiento inter-epistémico]]
+- La doble [[hermenéutica]] [@biskupovic&brinckpinsent2018, p. 27] posibilita el [[reconocimiento inter-epistémico]]
 
 - Virtualidad (cambios en la idea del **estar**) [@biskupovic&brinckpinsent2018, p. 9]
 

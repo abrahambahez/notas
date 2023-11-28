@@ -37,9 +37,4 @@ Conceptos a investigar
 
 Seymour y la mala estimación (predicción)
 
-* Mdnotes File Name: [[kahneman2014]]
-
-OCLC- 880241812
-
-OCLC: 880241812
 

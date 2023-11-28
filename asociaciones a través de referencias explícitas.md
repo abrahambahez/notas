@@ -9,4 +9,4 @@ Esta es la forma más fuerte (y por tanto la preferible) de construir relaciones
 
 Pero debe cumplir un requisito:
 
-**Estar dentro del contexto de la argumentación de la nota donde se le vincula**. Si se enlistan una serie de vínculos sin más contexto, se están construyendo [[colecciones asociativas]], que son mucho menos fuertes.
+**Estar dentro del contexto de la argumentación de la nota donde se le vincula**. Si se enlistan una serie de vínculos sin más contexto, se están construyendo colecciones asociativas, que son mucho menos fuertes.

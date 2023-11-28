@@ -8,8 +8,8 @@ La cismogénesis es **un proceso de retroalimentación entre grupos o personas q
 Los dos tipos de cismogénesis son **simétrica y complementaria**
 <!--SR:!2023-10-21,4,230-->
 
-Qué es la cismogénesis simétrica :: Aquella donde los interactuantes responden con la misma acción y en igual magnitud (don con don, violencia con violencia)
-<!--SR:!2023-11-10,17,250-->
+En una cismogénesis simétrica, los interactuantes responden con :: la misma acción y en igual magnitud (don con don, violencia con violencia)
+<!--SR:!2023-12-22,42,250-->
 
 Qué es la cismogénesis complementaria :: Aquella donde los interactuantes responden con acciones contrarias e interdependientes (dominación/sumisión)
-<!--SR:!2023-11-01,8,230-->
+<!--SR:!2023-12-04,12,210-->

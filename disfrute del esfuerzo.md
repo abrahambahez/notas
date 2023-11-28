@@ -1,4 +1,4 @@
-Las actividades que requieren esfuerzo suelen ser experimentadas como indeseables. Es común que acompañemos esas actividades con mecanismos de motivación extrínsecos como la[[motivación por recompensa]] o la [[motivación indirecta]]. Pero ambas estrategias no ayudan a obtener motivación de la actividad en sí. 
+Las actividades que requieren esfuerzo suelen ser experimentadas como indeseables. Es común que acompañemos esas actividades con mecanismos de motivación extrínsecos como la [[motivación por recompensa]] o la [[motivación indirecta]]. Pero ambas estrategias no ayudan a obtener motivación de la actividad en sí. 
 
 En el contexto de la [[dieta de dopamina]], Cameron Sepah escribe: 
 

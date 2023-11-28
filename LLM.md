@@ -1,1 +1,1 @@
-Acrónimo para *Large Language Model*, o modelo de lenguaje grande. Se trata de un modelo entrenado con [[aprendizaje de máquinas]] 
+Acrónimo para *Large Language Model*, o modelo de lenguaje grande. Se trata de un modelo entrenado con [[aprendizaje profundo (IA)]] basado en la arquitectura de [[transformadores (redes neuronales)]].

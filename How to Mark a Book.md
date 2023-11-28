@@ -3,7 +3,6 @@ created: 2023-10-17T21:14:14-06:00
 source: https://radicalacademy.org/adlermarkabook.html
 author: Mortimer Adler
 ---
-
 # How to Mark a Book
 
 **By Mortimer J. Adler, Ph.D.**

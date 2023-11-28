@@ -1,16 +1,7 @@
 # La casa maya contemporánea: Usos, costumbres y configuración espacial
 Aurelio Sánchez Suárez
 
-undefined
-
-
-* Mdnotes File Name: [[sanchezsuarez2006]]
-
-\## copia local
-
-\## copia local
-
-**Resumen*
+## Resumen
 
 La vivienda rural en México es una parte esencial de la riqueza con la que cuenta nuestra cultura, ya que es el espejo en el cual se reflejan las actividades tradicionales que cotidianamente realizan sus habitantes, así como la necesidad de un refugio y la convivencia con su medio ambiente. Hace además patente una actividad constructiva heredada de tiempos muy remotos.
 

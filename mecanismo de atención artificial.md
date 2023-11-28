@@ -7,3 +7,11 @@ Un mecanismo de atención permite que una [[red neuronal artificial]] pueda medi
 La atención se calcula comparando la consulta con las claves. Para cada clave se calcula cuánta importancia tiene para la consulta. Se usan las puntuaciones más altas para pesar los valores. Matemáticamente suelen usarse funciones como la de similitud
 
 En 2017 [[@vaswani&al2023]] mostraron que los mecanismos de atención eran suficientes para entrenar una [[red neuronal artificial]] si se usaba una arquitectura de [[transformadores (redes neuronales)]]
+
+#memo 
+
+¿Cuáles son los tres componentes de un mecanismo de atención artificial? :: consulta, claves, valores
+<!--SR:!2023-12-04,13,230-->
+
+¿Cómo se calcula la atención artificial (usando sus 3 componentes)? ::Cada clave se compara en relación con la importancia que tiene para la consulta y las puntuaciones más altas pesan los valores
+<!--SR:!2023-11-30,9,210-->

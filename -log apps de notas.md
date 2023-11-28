@@ -1,0 +1,3 @@
+- 2022 [Sane](https://www.sane.fyi/) [[notas colaborativas]]
+- 2023-10-30 [Ideaflow app](https://www.ideaflow.io/) [[herramienta cognitiva cronocéntrica]] basada en un flujo al que llama «toma de notas incremental» 
+- 2023-11-01 [Omniscience](https://omnilabs.ai/) escritura con recuperación personalizada y asistencia generativa

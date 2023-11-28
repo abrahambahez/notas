@@ -6,3 +6,6 @@ Según este modelo, toda tarea mental que realizamos es procesada por la memoria
 
 La memoria de trabajo engloba a la **memoria a corto plazo y la memoria sensorial**
 <!--SR:!2023-10-22,5,230-->
+
+En una oración ¿cuál es la principal función de la memoria de trabajo? :: *retener* información mientras se está *trabajando* con ella
+<!--SR:!2023-11-30,16,250-->

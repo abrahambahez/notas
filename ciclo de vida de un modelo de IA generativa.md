@@ -14,5 +14,5 @@ Para producir un [[modelo de IA generativa]] se necesita cumplir con un proceso 
     - Aumentar el modelo para integrarlo a apps basadas en [[LLM]]
 
 #memo 
-Menciona las 4 fases de un ciclo de vida de un modelo de IA generativa :: Scope, Select, Adapt/Align, App Integration
-<!--SR:!2023-10-29,5,230-->
+Menciona las 4 fases de un ciclo de vida de un modelo de IA generativa (en inglés) :: Scope, Select, Adapt/Align, App Integration
+<!--SR:!2023-11-27,10,210-->

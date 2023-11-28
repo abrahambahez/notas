@@ -12,7 +12,7 @@
 - Qué no es KM
     - Trabajar con información sin pensamiento crítico: [[declive del «conocimiento» en los sistemas PKM]]
     - Caer en la Falacia del Recolector
-    - Burocratizar procesos que deberían ser [[herramientas para pensar]]
+    - Burocratizar procesos que deberían ser [[herramienta cognitiva]]
         - Ver Appleton: [Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought)
     - Medir cosas sin importancia
         - Principios relacionados: Efecto cobra [[Ley de Campbell]], ley y [[Ley de Goodhart]]

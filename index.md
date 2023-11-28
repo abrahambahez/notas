@@ -1,4 +1,4 @@
-## Intereses de investigación
+# Intereses de investigación
 
 - [[sistemas de distribución de opresión y privilegios]]
 - [[campo antropológico]]
@@ -18,9 +18,9 @@
 
 ## Colecciones
 
-- [[§ cosas interesantes]]
+- [[~ cosas interesantes]]
 - [[texto plano]]
 - logs
-    - [[log podcasts]]
-    - [[log clase con Castillo Berthier]]
-    - [[log ztk]]
+    - [[-log podcasts]]
+    - [[2021-10-06 clase con Castillo Berthier]]
+    - [[-log ztk]]

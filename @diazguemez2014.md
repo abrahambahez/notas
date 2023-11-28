@@ -1,13 +1,6 @@
 # La tercera modernización urbana de Mérida, Yucatán: La ampliación territorial de una agrociudad (1914-1951)
 Marco Aurelio Díaz Güemez
 
-undefined
-
-
-* Mdnotes File Name: [[diazguemez2014]]
-
-¿Cómo se consolidó el proyecto urbano de mérida tras la revolución?
-
 ¿Cómo se consolidó el proyecto urbano de mérida tras la revolución?
 
 De hecho 1914 y 1951 no se cambió el modelo de producción económica en Yucatán, pero sí se acrecentó la importancia de Mérida.

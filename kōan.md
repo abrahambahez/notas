@@ -20,4 +20,3 @@ Un día, Manjushri se encontraba ante la puerta de la sala de meditación cuando
 
 - El zen habla
 - La Flauta de hierro
-- https://zenstudiespodcast.com/natural-koans-dharma-gates/

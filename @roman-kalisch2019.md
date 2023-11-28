@@ -25,11 +25,11 @@ El solar maya (cfr. [[solar mesoamericano]]) es considerado como una unidad auto
 
 - Una creciente tendencia de los pobladores mayas a incorporarse a la globalidad cultural
 
-- [[@roman-kalisch2019 interacciones urbano-rurales que impactan en la casa maya]] en detrimiento de la cultura rural
+- interacciones urbano-rurales que impactan en la casa maya en detrimiento de la cultura rural
 
-- La pérdida paulatina de conocimientos sobre el [[@roman-kalisch2019 sistema estructural de la casa maya]], sus técnicas constructivas y la [[@roman-kalisch2019 materialidad de la casa maya]] como reflejo de sus modelos culturales.
+- La pérdida paulatina de conocimientos sobre el sistema estructural de la casa maya, sus técnicas constructivas y la materialidad de la casa maya como reflejo de sus modelos culturales.
 
-## [[qué permanece y qué cambia en las casas mayas actuales]]
+## qué permanece y qué cambia en las casas mayas actuales
 
 ## Variantes constructivas en los componentes de la casa maya
 

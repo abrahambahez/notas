@@ -1,0 +1,1 @@
+El retorno de inversión (ROI por sus siglas en inglés) es una métrica básica de las empresas que calcula 

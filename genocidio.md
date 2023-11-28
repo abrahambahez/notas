@@ -17,7 +17,7 @@ Fuentes internacionales que lo sustentan:
 
 Preguntas:
 
-¿Quién perpetra el genocidio? Según Olivia Gall (en una clase el [[2023-10-18]]) pueden ser estados, iglesias o cualquier organización con poder.
+¿Quién perpetra el genocidio? Según Olivia Gall (en una clase el 2023-10-18) pueden ser estados, iglesias o cualquier organización con poder.
 
 ¿En qué sentido se puede hablar de intención en un agente colectivo perpetrador del genocidio? Según Naciones Unidas *El elemento más difícil de determinar es la intención. Para constituir un genocidio, debe existir una intención probada por parte de los perpetradores de destruir físicamente a un grupo nacional, étnico, racial o religioso. La destrucción cultural no es suficiente, ni lo es la intención de simplemente dispersar un grupo.*
 

@@ -19,4 +19,4 @@ José Vasconcelos
 
 4 Conquista del trópico –¿ Fundación de Universópolis –¿ motivo espiritual Raza como poder Naturalmente, la quinta raza no pretenderá excluir a los blancos como no se propone excluir a ninguno de los demás pueblos; precisamente, la norma de su formación es el aprovechamiento de todas las capacidades para mayor integración de poder. 
 
-21 ¡!– iii –¿ Los tres estados sociales: material o guerrero (la fuerza material es el único elemento de cohesión social), intelectual o político (la fe en la fórmula: moralidad, instituciones, leyes forman los grupos), espitirual o estético (sentimiento creador, *pathos estético) que produciría una eugenesia estética, opuesta a la científica de la época, un estetiscismo cristiano (p. 32)
+21 ¡!– iii –¿ Los tres estados sociales: material o guerrero (la fuerza material es el único elemento de cohesión social), intelectual o político (la fe en la fórmula: moralidad, instituciones, leyes forman los grupos), espitirual o estético (sentimiento creador, *pathos estético) que produciría una [[eugenesia]] estética, opuesta a la científica de la época, un estetiscismo cristiano (p. 32)

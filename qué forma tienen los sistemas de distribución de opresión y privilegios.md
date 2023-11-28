@@ -12,7 +12,7 @@ Las formas que pueden tener los [[sistemas de distribución de opresión y privi
 
 Un esquema muy burdo puede dar una idea de la fórmula anterior. Según veo es la forma general que comparten todos estos ejemplos independientemente de su desarrollo histórico particular:
 
-- El patriarcado
+- El [[patriarcado]]
 	- El androcentrismo y sus derivados
 - El [[etnocentrismo]]
     - El [[racialismo]] y el [[racismo]]

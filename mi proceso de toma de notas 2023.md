@@ -50,7 +50,7 @@ E2 --> E3(trabajo de<br/>publicación)
 Ver también dos notas donde documento ideas y proceso al respecto:
 
 - [[§ sistemas de notas]]
-- [[log ztk]]
+- [[-log ztk]]
 
 ### Plugins de Obsidian requeridos para esto:
 Todos son plugins no oficiales:

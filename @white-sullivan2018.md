@@ -7,7 +7,7 @@ As easy to use as a word document or bulleted list, and as powerful for finding,
 
 Recupero su conclusión al final del documento
 
->We wrote this White Paper in Winter of 2017/2018, and while it still reflects much of our vision for the tool, some of the features -- particularly related to [[Bayesian Reasoning]], [[Argument Analysis]], and [[Prediction Markets]] we found to be in-fact much lower priority for the researchers and decision makers whose thinking we aim to assist -- and risked making the tool too complex for the more significant use cases.  If you are interested in using Roam for more formal Quantitative Reasoning or building out formal models of belief networks, or if you are excited about ideas in this paper which you do not see a way to do currently within Roam, please contact us.  
+>We wrote this White Paper in Winter of 2017/2018, and while it still reflects much of our vision for the tool, some of the features -- particularly related to Bayesian Reasoning, Argument Analysis, and Prediction Markets we found to be in-fact much lower priority for the researchers and decision makers whose thinking we aim to assist -- and risked making the tool too complex for the more significant use cases.  If you are interested in using Roam for more formal Quantitative Reasoning or building out formal models of belief networks, or if you are excited about ideas in this paper which you do not see a way to do currently within Roam, please contact us.  
 
 ## Notas
 

@@ -1,1 +1,0 @@
-Doble articulación (*double articulation*): las tecnologías son cosas que vinculan lo *privado* y lo *público* y facilitan la negociación de sentidos dentro y fuera de espacios domésticos [@pinketal2016, p. 89]

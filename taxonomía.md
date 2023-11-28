@@ -4,7 +4,7 @@ Una taxonomía es sensible a los principios de [[jerarquía]] o [[heterarquía]]
 
 ## jerárquica
 
-Las taxonomías jerárquicas implican una clasificación basada en la pertenencia exclusiva de los miembros a una serie de clases que definen el universo de conocimiento (Chiaretti, 2011). Establecen una relación de subsunción (cfr. [[relaciones y grados de relevancia entre ideas elaboradas]]) que adopta la forma de niveles y subniveles.
+Las taxonomías jerárquicas implican una clasificación basada en la pertenencia exclusiva de los miembros a una serie de clases que definen el universo de conocimiento (Chiaretti, 2011). Establecen una relación de subsunción que adopta la forma de niveles y subniveles.
 
 - taxonomías enumerativas: *enumeran* (establecen una serie) las clases y subclases que componen el universo y a las que pertenecen los objetos que las conforman
 

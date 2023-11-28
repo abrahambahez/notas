@@ -39,7 +39,7 @@ Del mismo modo es legítimo preguntar cómo la antropología ha ignorado a la se
 - John Deely
 - La estética abstracta de Max Bense
 - La semiótica social de Eliseo Verón
-- semiótica y hermenéutica Mauricio Beuchot
+- semiótica y [[hermenéutica]] Mauricio Beuchot
 - Escuela de Tartu
 
 ## Referencias auxiliares

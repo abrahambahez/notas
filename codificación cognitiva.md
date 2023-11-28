@@ -5,7 +5,7 @@ La codificación se puede dividir en unos modos sensoriales (codificación visua
 #memo 
 
 ¿Cómo se puede clasificar a la codificación cognitiva? (dos modos) :: codificación sensorial (visual, acústica, entre otros) y codificación semántica
-<!--SR:!2023-11-07,14,230-->
+<!--SR:!2023-12-04,18,210-->
 
 ¿Qué es la codificación semántica? :: Ubica la nueva información dentro de estructuras de sentido de la memoria a largo plazo
-<!--SR:!2023-10-31,7,230-->
+<!--SR:!2023-11-30,8,210-->

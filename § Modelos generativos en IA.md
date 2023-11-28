@@ -2,7 +2,9 @@
     - [[alineación de inteligencia artificial]]
     - [[Una aldea poblada por inteligencias artificiales]]
 - [[aprendizaje de máquinas]]
-    - [[aprendizaje profundo]]
+    - [[aprendizaje profundo (IA)]]
     - [[red neuronal artificial]]
     - [[transformadores (redes neuronales)]]
     - [[ciclo de vida de un modelo de IA generativa]]
+- [[LLM]]s
+- 

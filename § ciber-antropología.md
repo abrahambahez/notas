@@ -31,4 +31,4 @@
 
 ## Enlaces interesantes
 
-- https://cyberfeminismindex.com [[§ cosas interesantes]]
+- https://cyberfeminismindex.com [[~ cosas interesantes]]

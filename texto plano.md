@@ -22,7 +22,7 @@
     - [Subtext](https://github.com/subconsciousnetwork/subtext)
 
 ## Ideas
-- [[log ztk]]
+- [[-log ztk]]
 - [[enlaces de hipertexto como unidad relacional básica]]
 
 ## Críticas

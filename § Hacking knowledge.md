@@ -24,8 +24,8 @@ Programa de trabajo para optimizar la gestión de conocimiento individual y cole
 #### *Hackear la creación de notas*
 - Nominal
     - [[elaboración escrita]] 
-    - Elaboraciones sensoriales (según los [[estilos de aprendizaje]])
-    - [[tipos de notas permanentes]]
+    - [[principio de atomicidad en la elaboración escrita]]
+    - [[elaboración asociativa]]
 - Óptimo
     - [[§ sistemas de notas]]
     - [[escritura incremental]]
@@ -37,28 +37,16 @@ Programa de trabajo para optimizar la gestión de conocimiento individual y cole
 - Modelos
     - [[~ creatividad]]
     - [[~ solución de problemas]]
-- [[herramientas para pensar]]
+- [[herramienta cognitiva]]
 
 ### Programa
 La sesión de presentación no está contada porque fue la menos práctica
 
 #### Hackear la lectura, pt. 1
-[[m1s1]]
-]]
-
+- [[m1s1]]
 #### Hackear la creación de notas, pt. 1
-- [[elaboración escrita]]
-    - Warmup
-    - Ejercicio
-    - Discusión
-- Elaboraciones sensoriales (según los [[estilos de aprendizaje]])
-    - Warmup
-    - Ejercicio
-    - Discusión
-- [[tipos de notas permanentes]]
-    - Warmup
-    - Ejercicio
-    - Discusión
+- [[m1s3]]
+
 
 ### Didáctica
 - [[estrategia didáctica práctica-concepto]]

@@ -42,4 +42,4 @@ Relacionado:
 
 # Referencias, reflexiones
 
-- [[log ztk]]
+- [[-log ztk]]

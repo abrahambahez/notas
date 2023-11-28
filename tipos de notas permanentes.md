@@ -1,6 +1,4 @@
 - [[nota atómica]]
 - [[nota mnemónica]]
 - [[nota procedimental]]
-- Índices
-    - [[índice argumental]] (hecho de notas atómicas)
-    - Caja de herramientas (hecho con notas procedimentales)
+- [[nota estructural]]

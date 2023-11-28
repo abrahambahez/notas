@@ -1,0 +1,3 @@
+- usos sociopolíticos de la genética (Sarah Abel)
+- [[acumulación por desposesión]]
+- 

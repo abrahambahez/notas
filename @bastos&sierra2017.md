@@ -1,8 +1,9 @@
 # Pueblos indígenas y estado en México: La disputa por la justicia y los derechos
  (2017)
 
-<h1>Anotaciones
- (14/2/2023 19:02:33)</h1> 
+## C. 9 [[@hernandezcastillo2017]]
+## Anotaciones
+ (14/2/2023 19:02:33)
 
 "Chablekal es una comunidad maya de origen prehispánico y con continuidad durante la época colonial. En 1927 fue declarado como ejido con 4 097 ha para 241 ejidatarios, y luego ampliado en 1939 con otras 358 ha asignadas a otros 68 ejidatarios (Carpeta básica ran-Mérida). Hasta 1970 ciertas áreas del ejido eran, por usos y costumbres, de acceso abierto a todos los residentes de Chablekal para cosechar la milpa, extraer la leña, cultivar árboles frutales e incluso para tener algo de ganado y abejas. Sin embargo, a fines de esta década se inicia un implacable proceso de privatización del ejido." (“Pueblos indígenas y estado en México: la disputa por la justicia y los derechos”, 2017, p. 164) 
 

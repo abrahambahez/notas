@@ -1,4 +1,4 @@
-~Esquema o modelo consistente con un [[marco epistemológico]] y construido para explicar alguna hipótesis sobre el mundo. Muy parecido a la [[arquitectura de modelos teóricos]] propuesta por @giere2004.
+Esquema o modelo consistente con un [[marco epistemológico]] y construido para explicar alguna hipótesis sobre el mundo. Muy parecido a la [[arquitectura de modelos teóricos]] propuesta por @giere2004.
 
 Para @bartolome2008:
 

@@ -1,2 +1,2 @@
-- [[💡ideas y consejos desde el desarrollo de software]]
-- [[💡ideas para desarrollar apps]]
+- [[ideas y consejos desde el desarrollo de software]]
+- [[ideas para desarrollar apps]]

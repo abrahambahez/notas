@@ -1,3 +1,4 @@
+El indicador básico de toda empresa: [[retorno de inversión]]
 # income statements
 
 - Profit: lo que vendimos
@@ -22,5 +23,4 @@
 - LTV: Lifetime value
 - Clientes by status (active, new, sporadic, reactivated, expanding, Churn)
 - Conversion Ratio
-- 
 

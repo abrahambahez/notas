@@ -10,7 +10,7 @@ Entiendo los problemas de la injusticia social a partir del concepto de [[sistem
     - [[estructuras elementales de la violencia]]
     - [[violencia revolucionaria]]
 
-## por qué y cómo se reproducen
+## Por qué y cómo se reproducen
 
 - [[sesgo de indirección]]
 - El [[problema de la clasificación]] y su relación con la  [[clasificación social]]
@@ -20,9 +20,13 @@ Entiendo los problemas de la injusticia social a partir del concepto de [[sistem
 - [[racismo]]
 - [[xenofobia]]
 - especismo
-- patriarcado
+- [[patriarcado]]
 - clasismo, lucha de clases
 
 ## Investigaciones
 
 - [[§ racionalismo y derecha política]]
+
+## Recursos
+
+- [[lecturas importantes sobre la opresión]]

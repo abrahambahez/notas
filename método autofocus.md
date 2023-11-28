@@ -10,3 +10,6 @@ Se toma esa lista como punto de partida. Luego:
 - Si ninguna tarea llama la atención, se puede desestimar la página marcando con amarillo las tareas desechadas
 
 Ver http://markforster.squarespace.com/autofocus-system/
+
+#memo Dada una lista paginada de tareas, este método propone 4 acciones clave por página, que son :: (1) leer rápido, (2) elegir la tarea que se sienta correcta, (3) trabajar en ella hasta donde se siente adecuado, (4) actualizar la página
+<!--SR:!2023-12-09,17,250-->

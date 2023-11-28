@@ -1,5 +1,5 @@
 # How to take smart notes: One simple technique to boost writing, learning and thinking: For students, academics and nonfiction book writers
-Sönke Ahrens
+Sönke Ahrens 2017, [kindle](https://leer.amazon.com.mx/?asin=B06WVYW33Y)
 
 ## Resumen
 

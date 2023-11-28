@@ -20,7 +20,7 @@ La crítica de Segato sobre la [[colonialidad]] inherente al discurso universali
 El papel del Estado consistiría en garantizar y restituir las jurisdicciones propias y la deliberación interna. 
 
 ## Mundo Estado y Mundo Aldea
-El patriarcado (como la episteme colonial) se configura en estas matrices de los Estados post-coloniales pero reproductores del mismo patrón y cabe la pregunta es si es posible habitar e forma descolonial dentro de ese Estado pero cambiando su lógica para volverlo un Estado restituidor.
+El [[patriarcado]] (como la episteme colonial) se configura en estas matrices de los Estados post-coloniales pero reproductores del mismo patrón y cabe la pregunta es si es posible habitar e forma descolonial dentro de ese Estado pero cambiando su lógica para volverlo un Estado restituidor.
 
 La interacción entre aldea y civilización, según Segato
 
