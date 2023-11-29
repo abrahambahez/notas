@@ -1,5 +1,5 @@
 # Classification and Kinds - An Antirealist View'
-Kane Baker (2020) [video](https://youtu.be/VuNgjo-pdeU)
+Kane Baker (2020) [video](https://youtu.be/arDbrM27s4s)
 
 Desde el punto de vista del [realismo filosófico](https://es.wikipedia.org/wiki/Realismo_filos%C3%B3fico), la ciencia debería producir  esquemas «naturales» de clasificación, es decir, que reflejen la estructura del mundo objetivo. Las categorías usadas por esos esquemas deberían reflejar *categorías naturales*, que en teoría son *descubiertas* y no inventadas. Al asignarle a una entidad una categoría deberíamos poder acceder a otras de sus propiedades basadas en esa categoría.
 
