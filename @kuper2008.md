@@ -21,7 +21,7 @@ _multiculturalismo como autenticidad y herramienta de lucha, en detrimento de fe
 
 "Pierre Bourdieu ha argumentado que, en el seno de la élite, el valora de la alta cultura reside precisapara hacer distinciones, confiere «distinción» por sí misma.'" ([Kuper 2008:11](zotero://open-pdf/library/items/V6DGJT7S?page=11))
 
-_alta cultura vs cultura popular
+_alta cultura vs [[cultura popular]]
 
 ([note on p.11](zotero://open-pdf/library/items/V6DGJT7S?page=11))_
 
@@ -213,9 +213,4 @@ _Lo mismo que en el caso de la identidad, hay que explorar y definir mucho mejor
 
 - La identidad como construcción cultural
 
-- ¿[[podría existir un punto de partida común para comparar las diferencias culturales]]?
-
--
-
-Oclc: 851300951
-
+- ¿podría existir un punto de partida común para comparar las diferencias culturales?

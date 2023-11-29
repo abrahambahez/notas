@@ -1,11 +1,6 @@
 # De lo primitivo a lo popular: Interpretaciones de la desigualdad cultural
 Néstor García Canclini
 
-undefined
-
-
-* Mdnotes File Name: [[garciacanclini1982]]
-
 Cómo se le llama a la los hechos culturales desde «los indígenas de una ciencia»: sistemas simbólicos, signos, ideología, comunicación, lo imaginario (p. 19).
 
 Cómo se le llama a la los hechos culturales desde «los indígenas de una ciencia»: sistemas simbólicos, signos, ideología, comunicación, lo imaginario (p. 19).

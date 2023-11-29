@@ -8,7 +8,7 @@ Alrededor de 1990 el movimiento intercultural en Ecuador se alzó para luchar po
 
 Ejemplos de proyectos decoloniales surgidos de ese movimeinto:
 
-- El principio de *sumak kawsay* [[Quechua]], o *«buen vivir»* en español (o *la vida en plenitud* según [algunos otros](https://es.wikipedia.org/wiki/Sumak_kawsay)); que promueve un modelo de armónica interrelación o correlación de y entre todos los *seres* (humanos y otros) así como sus alrededores, incluyendo elementos como el agua, la comida, la cultura y la ciencia.
+- El principio de *sumak kawsay* [[pueblo quechua]], o *«buen vivir»* en español (o *la vida en plenitud* según [algunos otros](https://es.wikipedia.org/wiki/Sumak_kawsay)); que promueve un modelo de armónica interrelación o correlación de y entre todos los *seres* (humanos y otros) así como sus alrededores, incluyendo elementos como el agua, la comida, la cultura y la ciencia.
 
 - El princpio de *Naturaleza o Pacha Mama* que exige para el mundo el derecho a un respeto integral de su existencia, extendido al mantenimiento y regeneración de sus ciclos, estructuras y procesos
 

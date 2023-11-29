@@ -8,8 +8,9 @@ A largo plazo, la *estructuración* constituye las cadenas de acciones *continua
 La materialidad que estudia la arqueología debería ser capaz de responder preguntas como:
 
 - ¿Cuándo la innovación o la continuación de prácticas tradicionales debe entenderse como el resultado de una elección estratégica o táctica?
-
 - ¿Podemos crear un marco de trabajo que permita identificar las consecuencias intencionadas o inintencionadas de una acción?
-
 - ¿Podemos reconocer la evidencia de disposiciones persistentes?
 
+[[espectro de interpretación arqueológica en la estructuración]]
+
+[[imágenes de la repetición como puentes entre agencia y estructura en la cultura material]]

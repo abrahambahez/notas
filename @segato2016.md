@@ -1,11 +1,6 @@
 # Entrevista a la Dra. Rita Segato - La colonialidad del saber.
 Rita Laura Segato
 
-undefined
-
-
-* Mdnotes File Name: [[segato2016]]
-
 Antropología bajo demanda - Poner a disposición del otro tu caja de herramientas
 
 Antropología bajo demanda - Poner a disposición del otro tu caja de herramientas

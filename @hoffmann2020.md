@@ -47,7 +47,7 @@ otro ejemplo de expresión territorial de la resistencia en las movilizaciones s
 
 ### El caso de las configuraciones en diáspora
 
-Finalmente, un tercer caso de configuración territorial en movilidad, más conocido, es el de los espacios diaspóricos, en los que la movilidad va acompañada de un cambio radical de la territorialidad, consecuencia de la pérdida traumática de la relación con el territorio de origen. Numerosos trabajos han subrayado la intensidad de los traumatismos de los exilios forzosos (Hovanessian, 2007 (2011); Chivallon, 2004). Otros autores destacan la manera en que, en contextos de globalización, la circulación acelerada de personas y sujetos lleva a la constitución de diásporas culturales y de nuevos “paisajes” (los scapes de Appadurai, 1996). párr.22
+Finalmente, un tercer caso de configuración territorial en movilidad, más conocido, es el de los espacios diaspóricos, en los que la movilidad va acompañada de un cambio radical de la [[territorialidad]], consecuencia de la pérdida traumática de la relación con el territorio de origen. Numerosos trabajos han subrayado la intensidad de los traumatismos de los exilios forzosos (Hovanessian, 2007 (2011); Chivallon, 2004). Otros autores destacan la manera en que, en contextos de globalización, la circulación acelerada de personas y sujetos lleva a la constitución de diásporas culturales y de nuevos “paisajes” (los scapes de Appadurai, 1996). párr.22
 
 el concepto de diáspora se ha extendido a los casos de migraciones masivas; califica fenómenos que afectan a numerosas regiones del mundo y reorganizan las territorialidades, tanto en las zonas de salida como en las de llegada, y sus interacciones. párr. 22
 

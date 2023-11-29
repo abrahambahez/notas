@@ -1,8 +1,7 @@
 # Pigmentocracias: Color, etnicidad y raza en américa latina
 Fatna Lazcano,Regina Martínez Casas,Edward Telles
 
-
-pigmentocracia implica que el color de la piel es el eje central de la estratificación social en varios países latinoamericanos
+[[pigmentocracia]] implica que el color de la piel es el eje central de la estratificación social en varios países latinoamericanos
 
 - hay una pigmentocracia categórica
 

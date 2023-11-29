@@ -21,5 +21,5 @@ Gilberto Giménez
 
 - Eclecticismo extraño: de repente usa la *praxeología* desarrollada por Mises
 
-- Para Giménez [p. 159], el espacio es un recurso escaso en disputa permanente dentro de las coordenadas de poder, así que para él *«la apropiación del espacio se realiza siempre a través de operaciones que se acomodan obligatoriamente a la sintaxis euclidiana. Es decir, en todos los casos se trata de manipular líneas, puntos y redes sobre una determinada superficie»*, aunque cabe preguntarse si esta no es una afirmación demasiado occidental, que sugiere la reducción del espacio a su cartografía, práctica que ha sido universalmente realizada para entender el espacio apropiado [[[@wood2018]], [[@hoffmann2020]]].
+- Para Giménez [p. 159], el espacio es un recurso escaso en disputa permanente dentro de las coordenadas de poder, así que para él *«la apropiación del espacio se realiza siempre a través de operaciones que se acomodan obligatoriamente a la sintaxis euclidiana. Es decir, en todos los casos se trata de manipular líneas, puntos y redes sobre una determinada superficie»*, aunque cabe preguntarse si esta no es una afirmación demasiado occidental, que sugiere la reducción del espacio a su cartografía, práctica que ha sido universalmente realizada para entender el espacio apropiado [[@wood2018]], [[@hoffmann2020]].
 

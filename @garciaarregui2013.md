@@ -1,13 +1,6 @@
 # La selva tecnológica. Sistemas sociotécnicos y antropología simétrica en comunidades ribereñas del bajo amazonas
 Aníbal García Arregui
 
-undefined
-
-
-* Mdnotes File Name: [[garciaarregui2013]]
-
-Notas
-
 Notas
 
 Una reinterpretación de la idea de «tecnología» a partir de casos etnográficos de varias comunidades ribereñas del Bajo Amazonas. **La tecnología de los ribereños se centra en sus *modos de utilizar el cuerpo*, el *conocimiento implícito* así como en contextos de *modernización* y *política agraria* brasileña**. En contraste con el pensamiento occidental moderno, donde la *tecnología* es un *instrumento* por el cual la sociedad se emancipa de la naturaleza, aquí será vista como una *estrategia de relación* con el entorno que refuerza la mímesis social-natural (p. 7).

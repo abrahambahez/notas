@@ -1,13 +1,6 @@
 # Los legados de Writing Culture y el futuro cercano de la forma etnográfica:: Un boceto
 George E. Marcus
 
-undefined
-
-
-* Mdnotes File Name: [[marcus2013]]
-
-Subrayados
-
 Subrayados
 
 En la contraportada del primer volumen de la serie Late Editions, *Perilous States: Conversations on Culture, Politics, and Nations,* 1993:
